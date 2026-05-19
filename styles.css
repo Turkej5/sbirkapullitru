@@ -39,6 +39,10 @@ p {
   color: #6b4423;
 }
 
+p + p {
+  margin-top: 1.5rem;
+}
+
 @media (max-width: 600px) {
   h1 { font-size: 2rem; }
   .logo { max-width: 200px; }
