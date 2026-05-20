@@ -1,0 +1,162 @@
+[
+  {
+    "id": "plzensky-prazdroj",
+    "nazev": "Plzeňský Prazdroj",
+    "zeme": "cz",
+    "mesto": "Plzeň",
+    "popisek": "Tradiční český pivovar založený v roce 1842, kolébka piva typu Pilsner. Pilsner Urquell je dnes ikonou českého pivovarnictví.",
+    "web": "https://www.prazdroj.cz"
+  },
+  {
+    "id": "budvar",
+    "nazev": "Budějovický Budvar",
+    "zeme": "cz",
+    "mesto": "České Budějovice",
+    "popisek": "Národní pivovar založený 1895, vařící klasický český ležák podle původní receptury. Známý sporem o značku Budweiser.",
+    "web": "https://www.budejovickybudvar.cz"
+  },
+  {
+    "id": "staropramen",
+    "nazev": "Staropramen",
+    "zeme": "cz",
+    "mesto": "Praha",
+    "popisek": "Pražský pivovar Smíchov, založený 1869. Druhý největší pivovar v Česku.",
+    "web": "https://www.staropramen.cz"
+  },
+  {
+    "id": "krusovice",
+    "nazev": "Královský pivovar Krušovice",
+    "zeme": "cz",
+    "mesto": "Krušovice",
+    "popisek": "Pivovar s tradicí od roku 1581, někdejší dvorní pivovar císaře Rudolfa II.",
+    "web": "https://www.krusovice.cz"
+  },
+  {
+    "id": "kozel",
+    "nazev": "Velkopopovický Kozel",
+    "zeme": "cz",
+    "mesto": "Velké Popovice",
+    "popisek": "Pivovar založený 1874, známý svým maskotem — kozlem s pivním půllitrem.",
+    "web": "https://www.kozel.cz"
+  },
+  {
+    "id": "bernard",
+    "nazev": "Rodinný pivovar Bernard",
+    "zeme": "cz",
+    "mesto": "Humpolec",
+    "popisek": "Rodinný pivovar v Humpolci, založený 1597. Nepasterizované pivo z vlastních surovin.",
+    "web": "https://www.bernard.cz"
+  },
+  {
+    "id": "svijany",
+    "nazev": "Pivovar Svijany",
+    "zeme": "cz",
+    "mesto": "Svijany",
+    "popisek": "Historický pivovar s tradicí od roku 1564, dnes patří mezi nejoblíbenější regionální značky.",
+    "web": "https://www.pivovarsvijany.cz"
+  },
+  {
+    "id": "paulaner",
+    "nazev": "Paulaner",
+    "zeme": "de",
+    "mesto": "Mnichov",
+    "popisek": "Mnichovský pivovar založený mnichy řádu paulánů v roce 1634. Specializuje se na pšeničná piva.",
+    "web": "https://www.paulaner.com"
+  },
+  {
+    "id": "augustiner",
+    "nazev": "Augustiner-Bräu",
+    "zeme": "de",
+    "mesto": "Mnichov",
+    "popisek": "Nejstarší pivovar v Mnichově, založený 1328. Velmi oblíbený mezi místními pro tradiční chuť.",
+    "web": "https://www.augustiner-braeu.de"
+  },
+  {
+    "id": "weihenstephan",
+    "nazev": "Weihenstephaner",
+    "zeme": "de",
+    "mesto": "Freising",
+    "popisek": "Nejstarší fungující pivovar na světě (rok 1040). Klášterní pivovar slavný svými pšeničnými pivy.",
+    "web": "https://www.weihenstephaner.de"
+  },
+  {
+    "id": "schneider",
+    "nazev": "Schneider Weisse",
+    "zeme": "de",
+    "mesto": "Kelheim",
+    "popisek": "Pivovar specializovaný na pšeničné pivo, vařený podle původní bavorské receptury od roku 1872.",
+    "web": "https://www.schneider-weisse.de"
+  },
+  {
+    "id": "duvel",
+    "nazev": "Duvel Moortgat",
+    "zeme": "be",
+    "mesto": "Breendonk",
+    "popisek": "Belgický pivovar slavný svým silným zlatým pivem Duvel. Rodinný pivovar s tradicí od 1871.",
+    "web": "https://www.duvel.com"
+  },
+  {
+    "id": "chimay",
+    "nazev": "Bières de Chimay",
+    "zeme": "be",
+    "mesto": "Chimay",
+    "popisek": "Trapistický pivovar v opatství Notre-Dame de Scourmont. Jedno z mála autentických trapistických piv světa.",
+    "web": "https://www.chimay.com"
+  },
+  {
+    "id": "leffe",
+    "nazev": "Abbaye de Leffe",
+    "zeme": "be",
+    "mesto": "Dinant",
+    "popisek": "Belgické opatské pivo s historií sahající do roku 1240. Dnes ho vaří AB InBev.",
+    "web": "https://www.leffe.com"
+  },
+  {
+    "id": "stiegl",
+    "nazev": "Stiegl",
+    "zeme": "at",
+    "mesto": "Salzburg",
+    "popisek": "Největší soukromý rakouský pivovar, založený 1492. Tradiční salcburské pivo.",
+    "web": "https://www.stiegl.at"
+  },
+  {
+    "id": "ottakringer",
+    "nazev": "Ottakringer",
+    "zeme": "at",
+    "mesto": "Vídeň",
+    "popisek": "Tradiční vídeňský pivovar v městské části Ottakring, založený 1837.",
+    "web": "https://www.ottakringerbrauerei.at"
+  },
+  {
+    "id": "zlaty-bazant",
+    "nazev": "Zlatý Bažant",
+    "zeme": "sk",
+    "mesto": "Hurbanovo",
+    "popisek": "Největší slovenský pivovar, založený 1969. Ikona slovenského pivovarnictví.",
+    "web": "https://www.zlatybazant.sk"
+  },
+  {
+    "id": "heineken",
+    "nazev": "Heineken",
+    "zeme": "nl",
+    "mesto": "Amsterdam",
+    "popisek": "Světově známý nizozemský pivovar s tradicí od roku 1864.",
+    "web": "https://www.heineken.com"
+  },
+  {
+    "id": "tyskie",
+    "nazev": "Tyskie",
+    "zeme": "pl",
+    "mesto": "Tychy",
+    "popisek": "Jeden z nejstarších polských pivovarů, založen 1629. Tradiční slezské pivo.",
+    "web": "https://www.tyskie.pl"
+  },
+  {
+    "id": "guinness",
+    "nazev": "Guinness",
+    "zeme": "ie",
+    "mesto": "Dublin",
+    "popisek": "Legendární irský pivovar v Dublinu, založený 1759. Domov nejznámějšího stoutu na světě.",
+    "web": "https://www.guinness.com"
+  }
+]

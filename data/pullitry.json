@@ -1,0 +1,236 @@
+[
+  {
+    "id": "plzensky-prazdroj-klasik",
+    "nazev_zobrazovany": "Plzeňský Prazdroj",
+    "pivovar_id": "plzensky-prazdroj",
+    "zeme": "cz",
+    "fotka": "plzensky-prazdroj-klasik.jpg",
+    "pridano": "2026-05-15",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "plzensky-prazdroj-jubilejni",
+    "nazev_zobrazovany": "Pilsner Urquell — 180 let",
+    "pivovar_id": "plzensky-prazdroj",
+    "zeme": "cz",
+    "fotka": "plzensky-prazdroj-jubilejni.jpg",
+    "pridano": "2026-05-10",
+    "typ": "akcni"
+  },
+  {
+    "id": "budvar-original",
+    "nazev_zobrazovany": "Budějovický Budvar",
+    "pivovar_id": "budvar",
+    "zeme": "cz",
+    "fotka": "budvar-original.jpg",
+    "pridano": "2026-05-08",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "budvar-tmavy",
+    "nazev_zobrazovany": "Budvar Tmavý ležák",
+    "pivovar_id": "budvar",
+    "zeme": "cz",
+    "fotka": "budvar-tmavy.jpg",
+    "pridano": "2026-04-22",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "staropramen-klasik",
+    "nazev_zobrazovany": "Staropramen",
+    "pivovar_id": "staropramen",
+    "zeme": "cz",
+    "fotka": "staropramen-klasik.jpg",
+    "pridano": "2026-04-18",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "krusovice-imperial",
+    "nazev_zobrazovany": "Krušovice Imperial",
+    "pivovar_id": "krusovice",
+    "zeme": "cz",
+    "fotka": "krusovice-imperial.jpg",
+    "pridano": "2026-04-15",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "kozel-jedenactka",
+    "nazev_zobrazovany": "Velkopopovický Kozel 11",
+    "pivovar_id": "kozel",
+    "zeme": "cz",
+    "fotka": "kozel-jedenactka.jpg",
+    "pridano": "2026-04-10",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "kozel-cerny",
+    "nazev_zobrazovany": "Kozel Černý",
+    "pivovar_id": "kozel",
+    "zeme": "cz",
+    "fotka": "kozel-cerny.jpg",
+    "pridano": "2026-03-28",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "bernard-svatecni",
+    "nazev_zobrazovany": "Bernard Sváteční ležák",
+    "pivovar_id": "bernard",
+    "zeme": "cz",
+    "fotka": "bernard-svatecni.jpg",
+    "pridano": "2026-03-20",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "svijany-knize",
+    "nazev_zobrazovany": "Svijanský Kníže",
+    "pivovar_id": "svijany",
+    "zeme": "cz",
+    "fotka": "svijany-knize.jpg",
+    "pridano": "2026-03-15",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "paulaner-weissbier",
+    "nazev_zobrazovany": "Paulaner Hefe-Weißbier",
+    "pivovar_id": "paulaner",
+    "zeme": "de",
+    "fotka": "paulaner-weissbier.jpg",
+    "pridano": "2026-05-12",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "paulaner-oktoberfest",
+    "nazev_zobrazovany": "Paulaner Oktoberfest 2025",
+    "pivovar_id": "paulaner",
+    "zeme": "de",
+    "fotka": "paulaner-oktoberfest.jpg",
+    "pridano": "2026-03-05",
+    "typ": "akcni"
+  },
+  {
+    "id": "augustiner-edelstoff",
+    "nazev_zobrazovany": "Augustiner Edelstoff",
+    "pivovar_id": "augustiner",
+    "zeme": "de",
+    "fotka": "augustiner-edelstoff.jpg",
+    "pridano": "2026-02-28",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "weihenstephan-original",
+    "nazev_zobrazovany": "Weihenstephaner Original",
+    "pivovar_id": "weihenstephan",
+    "zeme": "de",
+    "fotka": "weihenstephan-original.jpg",
+    "pridano": "2026-02-15",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "schneider-weisse-tap7",
+    "nazev_zobrazovany": "Schneider Weisse TAP 7",
+    "pivovar_id": "schneider",
+    "zeme": "de",
+    "fotka": "schneider-weisse-tap7.jpg",
+    "pridano": "2026-02-10",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "duvel-classic",
+    "nazev_zobrazovany": "Duvel",
+    "pivovar_id": "duvel",
+    "zeme": "be",
+    "fotka": "duvel-classic.jpg",
+    "pridano": "2026-05-05",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "chimay-blue",
+    "nazev_zobrazovany": "Chimay Blue",
+    "pivovar_id": "chimay",
+    "zeme": "be",
+    "fotka": "chimay-blue.jpg",
+    "pridano": "2026-04-25",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "leffe-blonde",
+    "nazev_zobrazovany": "Leffe Blonde",
+    "pivovar_id": "leffe",
+    "zeme": "be",
+    "fotka": "leffe-blonde.jpg",
+    "pridano": "2026-01-20",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "stiegl-goldbraeu",
+    "nazev_zobrazovany": "Stiegl Goldbräu",
+    "pivovar_id": "stiegl",
+    "zeme": "at",
+    "fotka": "stiegl-goldbraeu.jpg",
+    "pridano": "2026-04-30",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "ottakringer-helles",
+    "nazev_zobrazovany": "Ottakringer Helles",
+    "pivovar_id": "ottakringer",
+    "zeme": "at",
+    "fotka": "ottakringer-helles.jpg",
+    "pridano": "2026-01-15",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "zlaty-bazant-12",
+    "nazev_zobrazovany": "Zlatý Bažant 12%",
+    "pivovar_id": "zlaty-bazant",
+    "zeme": "sk",
+    "fotka": "zlaty-bazant-12.jpg",
+    "pridano": "2026-03-10",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "heineken-original",
+    "nazev_zobrazovany": "Heineken Original",
+    "pivovar_id": "heineken",
+    "zeme": "nl",
+    "fotka": "heineken-original.jpg",
+    "pridano": "2026-02-20",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "tyskie-gronie",
+    "nazev_zobrazovany": "Tyskie Gronie",
+    "pivovar_id": "tyskie",
+    "zeme": "pl",
+    "fotka": "tyskie-gronie.jpg",
+    "pridano": "2026-01-25",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "guinness-draught",
+    "nazev_zobrazovany": "Guinness Draught",
+    "pivovar_id": "guinness",
+    "zeme": "ie",
+    "fotka": "guinness-draught.jpg",
+    "pridano": "2026-05-01",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "reklamni-skoda",
+    "nazev_zobrazovany": "Škoda Auto — firemní",
+    "pivovar_id": null,
+    "zeme": "cz",
+    "fotka": "reklamni-skoda.jpg",
+    "pridano": "2026-04-05",
+    "typ": "reklamni"
+  },
+  {
+    "id": "reklamni-cd",
+    "nazev_zobrazovany": "České dráhy — 100 let",
+    "pivovar_id": null,
+    "zeme": "cz",
+    "fotka": "reklamni-cd.jpg",
+    "pridano": "2026-03-01",
+    "typ": "reklamni"
+  }
+]

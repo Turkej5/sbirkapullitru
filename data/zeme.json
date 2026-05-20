@@ -1,0 +1,14 @@
+[
+  { "kod": "cz", "nazev": "Česko", "vlajka": "🇨🇿" },
+  { "kod": "de", "nazev": "Německo", "vlajka": "🇩🇪" },
+  { "kod": "be", "nazev": "Belgie", "vlajka": "🇧🇪" },
+  { "kod": "at", "nazev": "Rakousko", "vlajka": "🇦🇹" },
+  { "kod": "sk", "nazev": "Slovensko", "vlajka": "🇸🇰" },
+  { "kod": "nl", "nazev": "Nizozemsko", "vlajka": "🇳🇱" },
+  { "kod": "pl", "nazev": "Polsko", "vlajka": "🇵🇱" },
+  { "kod": "ie", "nazev": "Irsko", "vlajka": "🇮🇪" },
+  { "kod": "gb", "nazev": "Velká Británie", "vlajka": "🇬🇧" },
+  { "kod": "us", "nazev": "USA", "vlajka": "🇺🇸" },
+  { "kod": "dk", "nazev": "Dánsko", "vlajka": "🇩🇰" },
+  { "kod": "hu", "nazev": "Maďarsko", "vlajka": "🇭🇺" }
+]
