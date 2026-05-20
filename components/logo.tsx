@@ -26,13 +26,8 @@ export default function Logo({ priority = false }: { priority?: boolean }) {
           className="object-contain hidden dark:block"
         />
       </span>
-      <span className="font-display leading-tight">
-        <span className="block text-base sm:text-lg font-semibold tracking-wide">
-          Sbírka
-        </span>
-        <span className="block text-base sm:text-lg font-semibold tracking-wide">
-          půllitrů
-        </span>
+      <span className="font-display text-xl sm:text-2xl font-semibold tracking-wide whitespace-nowrap">
+        Sbírka půllitrů
       </span>
     </Link>
   );
