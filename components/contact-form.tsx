@@ -6,6 +6,11 @@ type Status = "idle" | "sending" | "ok" | "error";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
+// Veřejný klíč Web3Forms (je navržený pro klientské formuláře; neumožňuje
+// nic víc než odeslání do tohoto formuláře). Free plán Web3Forms povoluje
+// jen odesílání z prohlížeče, ne ze serveru.
+const WEB3FORMS_KEY = "b7373858-9108-4df3-8dd7-4cafd803ce72";
+
 export default function ContactForm() {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
@@ -18,6 +23,11 @@ export default function ContactForm() {
 
   async function onSubmit(e: React.FormEvent) {
     e.preventDefault();
+    // honeypot – vyplní ho jen boti
+    if (botcheck.trim() !== "") {
+      setStatus("ok");
+      return;
+    }
     if (!emailValid || !messageValid) {
       setError("Vyplňte prosím platný e-mail i zprávu.");
       setStatus("error");
@@ -26,20 +36,26 @@ export default function ContactForm() {
     setStatus("sending");
     setError("");
     try {
-      const res = await fetch("/api/contact", {
+      const res = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
         body: JSON.stringify({
+          access_key: WEB3FORMS_KEY,
+          subject: "Nová zpráva ze Sbírky půllitrů",
+          from_name: "Sbírka půllitrů",
           email: email.trim(),
           message: message.trim(),
-          botcheck,
         }),
       });
       const data = (await res.json().catch(() => ({}))) as {
-        error?: string;
+        success?: boolean;
+        message?: string;
       };
-      if (!res.ok) {
-        throw new Error(data.error || "Zprávu se nepodařilo odeslat.");
+      if (!data.success) {
+        throw new Error(data.message || "Zprávu se nepodařilo odeslat.");
       }
       setStatus("ok");
       setEmail("");
