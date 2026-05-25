@@ -4,6 +4,7 @@ import Header from "@/components/header";
 import Footer from "@/components/footer";
 import CookieBanner from "@/components/cookie-banner";
 import Analytics from "@/components/analytics";
+import GoogleTagManager from "@/components/google-tag-manager";
 import { ThemeScript } from "@/components/theme-script";
 import "./globals.css";
 
@@ -81,6 +82,7 @@ export default function RootLayout({
         <Footer />
         <CookieBanner />
         <Analytics />
+        <GoogleTagManager />
       </body>
     </html>
   );
