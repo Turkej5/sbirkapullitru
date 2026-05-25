@@ -1,14 +1,87 @@
 [
-  { "kod": "cz", "nazev": "Česko", "vlajka": "🇨🇿" },
-  { "kod": "de", "nazev": "Německo", "vlajka": "🇩🇪" },
-  { "kod": "be", "nazev": "Belgie", "vlajka": "🇧🇪" },
-  { "kod": "at", "nazev": "Rakousko", "vlajka": "🇦🇹" },
-  { "kod": "sk", "nazev": "Slovensko", "vlajka": "🇸🇰" },
-  { "kod": "nl", "nazev": "Nizozemsko", "vlajka": "🇳🇱" },
-  { "kod": "pl", "nazev": "Polsko", "vlajka": "🇵🇱" },
-  { "kod": "ie", "nazev": "Irsko", "vlajka": "🇮🇪" },
-  { "kod": "gb", "nazev": "Velká Británie", "vlajka": "🇬🇧" },
-  { "kod": "us", "nazev": "USA", "vlajka": "🇺🇸" },
-  { "kod": "dk", "nazev": "Dánsko", "vlajka": "🇩🇰" },
-  { "kod": "hu", "nazev": "Maďarsko", "vlajka": "🇭🇺" }
+  {
+    "kod": "cz",
+    "nazev": "Česko",
+    "vlajka": "🇨🇿"
+  },
+  {
+    "kod": "de",
+    "nazev": "Německo",
+    "vlajka": "🇩🇪"
+  },
+  {
+    "kod": "be",
+    "nazev": "Belgie",
+    "vlajka": "🇧🇪"
+  },
+  {
+    "kod": "at",
+    "nazev": "Rakousko",
+    "vlajka": "🇦🇹"
+  },
+  {
+    "kod": "sk",
+    "nazev": "Slovensko",
+    "vlajka": "🇸🇰"
+  },
+  {
+    "kod": "nl",
+    "nazev": "Nizozemsko",
+    "vlajka": "🇳🇱"
+  },
+  {
+    "kod": "pl",
+    "nazev": "Polsko",
+    "vlajka": "🇵🇱"
+  },
+  {
+    "kod": "ie",
+    "nazev": "Irsko",
+    "vlajka": "🇮🇪"
+  },
+  {
+    "kod": "gb",
+    "nazev": "Velká Británie",
+    "vlajka": "🇬🇧"
+  },
+  {
+    "kod": "us",
+    "nazev": "USA",
+    "vlajka": "🇺🇸"
+  },
+  {
+    "kod": "dk",
+    "nazev": "Dánsko",
+    "vlajka": "🇩🇰"
+  },
+  {
+    "kod": "hu",
+    "nazev": "Maďarsko",
+    "vlajka": "🇭🇺"
+  },
+  {
+    "kod": "it",
+    "nazev": "Itálie",
+    "vlajka": "🇮🇹"
+  },
+  {
+    "kod": "fi",
+    "nazev": "Finsko",
+    "vlajka": "🇫🇮"
+  },
+  {
+    "kod": "ru",
+    "nazev": "Rusko",
+    "vlajka": "🇷🇺"
+  },
+  {
+    "kod": "es",
+    "nazev": "Španělsko",
+    "vlajka": "🇪🇸"
+  },
+  {
+    "kod": "ostatni",
+    "nazev": "Ostatní",
+    "vlajka": "🍺"
+  }
 ]

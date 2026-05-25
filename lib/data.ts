@@ -95,7 +95,22 @@ export function getCelkemKusu(): number {
 }
 
 export function getPocetZemi(): number {
-  return getZemeWithCounts().length;
+  return getZemeWithCounts().filter((z) => z.kod !== "ostatni").length;
+}
+
+export type PivovarWithCount = Pivovar & { pocet: number };
+
+export function getPivovaryByZemeWithCounts(kod: string): PivovarWithCount[] {
+  const counts = new Map<string, number>();
+  for (const p of getAllPullitry()) {
+    if (p.zeme === kod && p.pivovar_id) {
+      counts.set(p.pivovar_id, (counts.get(p.pivovar_id) ?? 0) + 1);
+    }
+  }
+  return getAllPivovary()
+    .filter((b) => counts.has(b.id))
+    .map((b) => ({ ...b, pocet: counts.get(b.id) as number }))
+    .sort((a, b) => a.nazev.localeCompare(b.nazev, "cs"));
 }
 
 export function getPocetPivovaru(): number {
