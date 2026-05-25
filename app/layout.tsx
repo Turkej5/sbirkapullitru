@@ -6,6 +6,7 @@ import CookieBanner from "@/components/cookie-banner";
 import Analytics from "@/components/analytics";
 import GoogleTagManager from "@/components/google-tag-manager";
 import { ThemeScript } from "@/components/theme-script";
+import { ConsentInit } from "@/components/consent-init";
 import "./globals.css";
 
 const inter = Inter({
@@ -75,6 +76,7 @@ export default function RootLayout({
     >
       <head>
         <ThemeScript />
+        <ConsentInit />
       </head>
       <body className="min-h-full flex flex-col">
         <Header />
