@@ -3,7 +3,6 @@ import { Inter, Fraunces } from "next/font/google";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
 import CookieBanner from "@/components/cookie-banner";
-import Analytics from "@/components/analytics";
 import GoogleTagManager from "@/components/google-tag-manager";
 import { ThemeScript } from "@/components/theme-script";
 import { ConsentInit } from "@/components/consent-init";
@@ -83,7 +82,6 @@ export default function RootLayout({
         <main className="flex-1 w-full">{children}</main>
         <Footer />
         <CookieBanner />
-        <Analytics />
         <GoogleTagManager />
       </body>
     </html>
