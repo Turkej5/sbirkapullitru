@@ -1,5 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
+import HeroMap from "@/components/hero-map";
 import PullitrGrid from "@/components/pullitr-grid";
 import {
   getCelkemKusu,
@@ -67,22 +67,7 @@ export default function Home() {
           </div>
           <div className="hidden lg:block relative">
             <div className="relative aspect-square rounded-3xl overflow-hidden border border-[var(--border)] bg-[var(--surface)] shadow-xl">
-              <Image
-                src="/images/log/logo-light.png"
-                alt="Sbírka půllitrů"
-                fill
-                sizes="(max-width: 1024px) 100vw, 500px"
-                priority
-                className="object-contain p-8 block dark:hidden"
-              />
-              <Image
-                src="/images/log/logo-dark.png"
-                alt="Sbírka půllitrů"
-                fill
-                sizes="(max-width: 1024px) 100vw, 500px"
-                priority
-                className="object-contain p-8 hidden dark:block"
-              />
+              <HeroMap />
             </div>
           </div>
         </div>
