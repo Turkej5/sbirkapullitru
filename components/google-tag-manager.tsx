@@ -1,11 +1,18 @@
 "use client";
 
 import Script from "next/script";
-import { useSyncExternalStore } from "react";
+import { useEffect, useSyncExternalStore } from "react";
 
 const STORAGE_KEY = "cookie-consent";
 const CONSENT_EVENT = "cookie-consent-change";
 const GTM_ID = "GTM-K3KQ2T88";
+
+declare global {
+  interface Window {
+    dataLayer?: unknown[];
+    gtag?: (...args: unknown[]) => void;
+  }
+}
 
 function subscribe(cb: () => void) {
   window.addEventListener(CONSENT_EVENT, cb);
@@ -32,11 +39,21 @@ export default function GoogleTagManager() {
     getServerSnapshot,
   );
 
-  // GTM se načte teprve po udělení souhlasu (ne při „Pouze nezbytné")
-  if (consent !== "accepted") return null;
+  // Kontejner se načte vždy, ale tracking je dle Consent Mode zakázaný,
+  // dokud návštěvník nepotvrdí souhlas. Tady jen reagujeme na jeho volbu.
+  useEffect(() => {
+    if (consent !== "accepted" && consent !== "rejected") return;
+    const v = consent === "accepted" ? "granted" : "denied";
+    window.gtag?.("consent", "update", {
+      ad_storage: v,
+      ad_user_data: v,
+      ad_personalization: v,
+      analytics_storage: v,
+    });
+  }, [consent]);
 
   return (
-    <Script id="gtm-init" strategy="afterInteractive">
+    <Script id="gtm-loader" strategy="afterInteractive">
       {`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
