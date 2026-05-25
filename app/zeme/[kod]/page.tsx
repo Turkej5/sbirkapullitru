@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import CollectionView from "@/components/collection-view";
 import {
   getAllZeme,
+  getPivovaryByZemeWithCounts,
   getPullitryByZeme,
   getZemeByKod,
   getZemeWithCounts,
@@ -40,6 +41,7 @@ export default async function ZemePage({
   if (!z) notFound();
   const pullitry = getPullitryByZeme(z.kod);
   const zemeList = getZemeWithCounts();
+  const pivovary = getPivovaryByZemeWithCounts(z.kod);
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-10">
       <div className="flex items-center gap-4 mb-2">
@@ -57,7 +59,12 @@ export default async function ZemePage({
         <Suspense
           fallback={<div className="text-[var(--text-soft)]">Načítám…</div>}
         >
-          <CollectionView pullitry={pullitry} zeme={zemeList} hiddenZeme />
+          <CollectionView
+            pullitry={pullitry}
+            zeme={zemeList}
+            pivovary={pivovary}
+            hiddenZeme
+          />
         </Suspense>
       </div>
     </div>

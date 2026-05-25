@@ -19,10 +19,12 @@ const ALL_TYPY: TypPullitru[] = ["pivovarni", "reklamni", "akcni"];
 export default function CollectionView({
   pullitry,
   zeme,
+  pivovary,
   hiddenZeme,
 }: {
   pullitry: PullitrEnhanced[];
   zeme: (Zeme & { pocet: number })[];
+  pivovary?: { id: string; nazev: string; pocet: number }[];
   hiddenZeme?: boolean;
 }) {
   const router = useRouter();
@@ -32,11 +34,13 @@ export default function CollectionView({
   const initialQuery = searchParams.get("q") ?? "";
   const initialZeme = (searchParams.get("zeme") ?? "").split(",").filter(Boolean);
   const initialTyp = (searchParams.get("typ") ?? "").split(",").filter(Boolean) as TypPullitru[];
+  const initialPivovar = searchParams.get("pivovar") ?? "";
   const initialSort = (searchParams.get("razeni") as SortKey) || "nejnovejsi";
 
   const [query, setQuery] = useState(initialQuery);
   const [selZeme, setSelZeme] = useState<string[]>(initialZeme);
   const [selTyp, setSelTyp] = useState<TypPullitru[]>(initialTyp);
+  const [selPivovar, setSelPivovar] = useState<string>(initialPivovar);
   const [sort, setSort] = useState<SortKey>(initialSort);
   const [debouncedQuery, setDebouncedQuery] = useState(initialQuery);
 
@@ -50,6 +54,7 @@ export default function CollectionView({
       q?: string;
       zeme?: string[];
       typ?: TypPullitru[];
+      pivovar?: string;
       razeni?: SortKey;
     }) => {
       const params = new URLSearchParams(searchParams.toString());
@@ -64,6 +69,10 @@ export default function CollectionView({
       if (next.typ !== undefined) {
         if (next.typ.length) params.set("typ", next.typ.join(","));
         else params.delete("typ");
+      }
+      if (next.pivovar !== undefined) {
+        if (next.pivovar) params.set("pivovar", next.pivovar);
+        else params.delete("pivovar");
       }
       if (next.razeni !== undefined) {
         if (next.razeni !== "nejnovejsi") params.set("razeni", next.razeni);
@@ -100,10 +109,16 @@ export default function CollectionView({
     updateUrl({ razeni: s });
   }
 
+  function changePivovar(id: string) {
+    setSelPivovar(id);
+    updateUrl({ pivovar: id });
+  }
+
   function resetAll() {
     setQuery("");
     setSelZeme([]);
     setSelTyp([]);
+    setSelPivovar("");
     setSort("nejnovejsi");
     startTransition(() => router.replace("?", { scroll: false }));
   }
@@ -112,19 +127,21 @@ export default function CollectionView({
     debouncedQuery !== "" ||
     selZeme.length > 0 ||
     selTyp.length > 0 ||
+    selPivovar !== "" ||
     sort !== "nejnovejsi";
 
   const filtered = useMemo(() => {
     let list = pullitry;
     if (selZeme.length) list = list.filter((p) => selZeme.includes(p.zeme));
     if (selTyp.length) list = list.filter((p) => selTyp.includes(p.typ));
+    if (selPivovar) list = list.filter((p) => p.pivovar_id === selPivovar);
     if (debouncedQuery) list = searchPullitry(list, debouncedQuery);
     list = [...list];
     if (sort === "nejnovejsi") list.sort((a, b) => b.pridano.localeCompare(a.pridano));
     else if (sort === "nejstarsi") list.sort((a, b) => a.pridano.localeCompare(b.pridano));
     else list.sort((a, b) => a.nazev_zobrazovany.localeCompare(b.nazev_zobrazovany, "cs"));
     return list;
-  }, [pullitry, selZeme, selTyp, debouncedQuery, sort]);
+  }, [pullitry, selZeme, selTyp, selPivovar, debouncedQuery, sort]);
 
   return (
     <div>
@@ -183,6 +200,24 @@ export default function CollectionView({
             </>
           )}
         </div>
+
+        {pivovary && pivovary.length > 0 && (
+          <div className="flex flex-wrap gap-2 items-center text-sm">
+            <span className="text-[var(--text-soft)] mr-1">Pivovar:</span>
+            <select
+              value={selPivovar}
+              onChange={(e) => changePivovar(e.target.value)}
+              className="rounded-md border border-[var(--border)] bg-[var(--surface)] px-3 py-1.5 max-w-full focus:outline-none focus:ring-2 focus:ring-[var(--accent)]"
+            >
+              <option value="">Všechny pivovary</option>
+              {pivovary.map((p) => (
+                <option key={p.id} value={p.id}>
+                  {p.nazev} ({p.pocet})
+                </option>
+              ))}
+            </select>
+          </div>
+        )}
 
         <div className="flex flex-wrap gap-2 items-center text-sm">
           <span className="text-[var(--text-soft)] mr-1">Typ:</span>

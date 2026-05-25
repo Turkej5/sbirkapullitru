@@ -42,3 +42,7 @@ next-env.d.ts
 # claude
 .claude/
 CLAUDE.md
+
+# lokální zálohy originálních fotek (do repa nepatří)
+/pulitry/
+/Zaloha pull/

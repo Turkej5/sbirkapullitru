@@ -1,11 +1,68 @@
 [
   {
-    "id": "plzensky-prazdroj",
-    "nazev": "Plzeňský Prazdroj",
+    "id": "hallstatt",
+    "nazev": "Brauerei Hallstatt",
+    "zeme": "at",
+    "mesto": "Hallstatt"
+  },
+  {
+    "id": "hermax",
+    "nazev": "Hermax Bräu",
+    "zeme": "at",
+    "mesto": "Markt Hartmannsdorf",
+    "popisek": "Štýrský řemeslný pivovar (Vulkanland)."
+  },
+  {
+    "id": "kapsreiter",
+    "nazev": "Kapsreiter",
+    "zeme": "at",
+    "mesto": "Schärding"
+  },
+  {
+    "id": "zwettler",
+    "nazev": "Privatbrauerei Zwettl",
+    "zeme": "at",
+    "mesto": "Zwettl"
+  },
+  {
+    "id": "wolfsberger",
+    "nazev": "Wolfsberger Bier",
+    "zeme": "at",
+    "mesto": "Wolfsberg"
+  },
+  {
+    "id": "zipfer",
+    "nazev": "Zipfer",
+    "zeme": "at",
+    "mesto": "Zipf",
+    "popisek": "Hornorakouské pivo od roku 1858."
+  },
+  {
+    "id": "hoegaarden",
+    "nazev": "Hoegaarden",
+    "zeme": "be",
+    "mesto": "Hoegaarden",
+    "popisek": "Belgické bílé pšeničné pivo."
+  },
+  {
+    "id": "stella-artois",
+    "nazev": "Stella Artois",
+    "zeme": "be",
+    "mesto": "Lovaň"
+  },
+  {
+    "id": "dalesice",
+    "nazev": "Akciový pivovar Dalešice",
     "zeme": "cz",
-    "mesto": "Plzeň",
-    "popisek": "Tradiční český pivovar založený v roce 1842, kolébka piva typu Pilsner. Pilsner Urquell je dnes ikonou českého pivovarnictví.",
-    "web": "https://www.prazdroj.cz"
+    "mesto": "Dalešice",
+    "popisek": "Pivovar proslavený filmem Postřižiny."
+  },
+  {
+    "id": "bad-flash",
+    "nazev": "Bad Flash Beers",
+    "zeme": "cz",
+    "mesto": "Praha",
+    "popisek": "Český řemeslný pivovar zaměřený na svrchně kvašené speciály."
   },
   {
     "id": "budvar",
@@ -16,12 +73,32 @@
     "web": "https://www.budejovickybudvar.cz"
   },
   {
-    "id": "staropramen",
-    "nazev": "Staropramen",
+    "id": "budweiser-burgerbrau",
+    "nazev": "Budějovický měšťanský pivovar",
     "zeme": "cz",
-    "mesto": "Praha",
-    "popisek": "Pražský pivovar Smíchov, založený 1869. Druhý největší pivovar v Česku.",
-    "web": "https://www.staropramen.cz"
+    "mesto": "České Budějovice",
+    "popisek": "Měšťanský pivovar z roku 1795, značky Samson a B.B."
+  },
+  {
+    "id": "breznak",
+    "nazev": "Březňák",
+    "zeme": "cz",
+    "mesto": "Velké Březno"
+  },
+  {
+    "id": "gambrinus",
+    "nazev": "Gambrinus",
+    "zeme": "cz",
+    "mesto": "Plzeň",
+    "popisek": "Nejprodávanější české pivo, vaří Plzeňský Prazdroj.",
+    "web": "https://www.gambrinus.cz"
+  },
+  {
+    "id": "hron",
+    "nazev": "Hron",
+    "zeme": "cz",
+    "mesto": "Náchod",
+    "popisek": "Značka náchodského pivovaru."
   },
   {
     "id": "krusovice",
@@ -32,6 +109,259 @@
     "web": "https://www.krusovice.cz"
   },
   {
+    "id": "beznoska",
+    "nazev": "Minipivovar Beznoska",
+    "zeme": "cz",
+    "mesto": "Praha-Prosek"
+  },
+  {
+    "id": "bobr",
+    "nazev": "Minipivovar Bobr",
+    "zeme": "cz",
+    "mesto": "Zadní Třebaň"
+  },
+  {
+    "id": "rebel",
+    "nazev": "Měšťanský pivovar Havlíčkův Brod",
+    "zeme": "cz",
+    "mesto": "Havlíčkův Brod",
+    "popisek": "Vaří pivo Rebel."
+  },
+  {
+    "id": "pardal",
+    "nazev": "Pardál",
+    "zeme": "cz",
+    "mesto": "České Budějovice",
+    "popisek": "Značka Budějovického Budvaru."
+  },
+  {
+    "id": "parohac",
+    "nazev": "Paroháč",
+    "zeme": "cz",
+    "mesto": "Špindlerův Mlýn",
+    "popisek": "Pivo z Luční boudy v Krkonoších."
+  },
+  {
+    "id": "branik",
+    "nazev": "Pivovar Braník",
+    "zeme": "cz",
+    "mesto": "Praha",
+    "popisek": "Pražský pivovar založený 1899."
+  },
+  {
+    "id": "chotebor",
+    "nazev": "Pivovar Chotěboř",
+    "zeme": "cz",
+    "mesto": "Chotěboř"
+  },
+  {
+    "id": "doubravnik",
+    "nazev": "Pivovar Doubravník",
+    "zeme": "cz",
+    "mesto": "Doubravník"
+  },
+  {
+    "id": "falkenstejn",
+    "nazev": "Pivovar Falkenštejn",
+    "zeme": "cz",
+    "mesto": "Krásná Lípa"
+  },
+  {
+    "id": "herold",
+    "nazev": "Pivovar Herold",
+    "zeme": "cz",
+    "mesto": "Březnice",
+    "popisek": "Pivovar s tradicí od roku 1506."
+  },
+  {
+    "id": "holba",
+    "nazev": "Pivovar Holba",
+    "zeme": "cz",
+    "mesto": "Hanušovice",
+    "popisek": "Hanušovický pivovar, „ryzí pivo z hor“."
+  },
+  {
+    "id": "hostan",
+    "nazev": "Pivovar Hostan",
+    "zeme": "cz",
+    "mesto": "Znojmo"
+  },
+  {
+    "id": "jezek",
+    "nazev": "Pivovar Ježek",
+    "zeme": "cz",
+    "mesto": "Jihlava"
+  },
+  {
+    "id": "klaster",
+    "nazev": "Pivovar Klášter",
+    "zeme": "cz",
+    "mesto": "Klášter Hradiště nad Jizerou",
+    "popisek": "Pivovar s tradicí od roku 1570."
+  },
+  {
+    "id": "kocour",
+    "nazev": "Pivovar Kocour",
+    "zeme": "cz",
+    "mesto": "Varnsdorf"
+  },
+  {
+    "id": "kolcavka",
+    "nazev": "Pivovar Kolčavka",
+    "zeme": "cz",
+    "mesto": "Praha"
+  },
+  {
+    "id": "konrad",
+    "nazev": "Pivovar Konrad",
+    "zeme": "cz",
+    "mesto": "Vratislavice nad Nisou",
+    "popisek": "Vratislavický pivovar, „a přece se točí“."
+  },
+  {
+    "id": "krakonos",
+    "nazev": "Pivovar Krakonoš",
+    "zeme": "cz",
+    "mesto": "Trutnov",
+    "popisek": "Trutnovský pivovar s tradicí od roku 1582."
+  },
+  {
+    "id": "na-rychte",
+    "nazev": "Pivovar Na Rychtě",
+    "zeme": "cz",
+    "mesto": "Ústí nad Labem"
+  },
+  {
+    "id": "pegas",
+    "nazev": "Pivovar Pegas",
+    "zeme": "cz",
+    "mesto": "Brno",
+    "popisek": "První moravský domácí pivovar, Brno 1992."
+  },
+  {
+    "id": "platan",
+    "nazev": "Pivovar Platan",
+    "zeme": "cz",
+    "mesto": "Protivín"
+  },
+  {
+    "id": "primator",
+    "nazev": "Pivovar Primátor",
+    "zeme": "cz",
+    "mesto": "Náchod",
+    "popisek": "Náchodský pivovar, „specialista na speciály“."
+  },
+  {
+    "id": "rohozec",
+    "nazev": "Pivovar Rohozec",
+    "zeme": "cz",
+    "mesto": "Malý Rohozec",
+    "popisek": "Pivovar s tradicí od roku 1850."
+  },
+  {
+    "id": "rychtar",
+    "nazev": "Pivovar Rychtář",
+    "zeme": "cz",
+    "mesto": "Hlinsko"
+  },
+  {
+    "id": "samson",
+    "nazev": "Pivovar Samson",
+    "zeme": "cz",
+    "mesto": "České Budějovice",
+    "popisek": "Budějovický pivovar, anno 1795."
+  },
+  {
+    "id": "suchdolsky-jenik",
+    "nazev": "Pivovar Suchdolský Jeník",
+    "zeme": "cz",
+    "mesto": "Suchdol nad Lužnicí"
+  },
+  {
+    "id": "svijany",
+    "nazev": "Pivovar Svijany",
+    "zeme": "cz",
+    "mesto": "Svijany",
+    "popisek": "Historický pivovar s tradicí od roku 1564, dnes jedna z nejoblíbenějších regionálních značek.",
+    "web": "https://www.pivovarsvijany.cz"
+  },
+  {
+    "id": "tambor",
+    "nazev": "Pivovar Tambor",
+    "zeme": "cz",
+    "mesto": "Dvůr Králové nad Labem"
+  },
+  {
+    "id": "votrok",
+    "nazev": "Pivovar Votrok",
+    "zeme": "cz",
+    "mesto": "Hradec Králové"
+  },
+  {
+    "id": "zubr",
+    "nazev": "Pivovar Zubr",
+    "zeme": "cz",
+    "mesto": "Přerov",
+    "popisek": "Hanácký pivovar s tradicí od roku 1872."
+  },
+  {
+    "id": "lobkowicz",
+    "nazev": "Pivovary Lobkowicz",
+    "zeme": "cz",
+    "mesto": "Vysoký Chlumec"
+  },
+  {
+    "id": "plzensky-prazdroj",
+    "nazev": "Plzeňský Prazdroj",
+    "zeme": "cz",
+    "mesto": "Plzeň",
+    "popisek": "Tradiční český pivovar založený v roce 1842, kolébka piva typu Pilsner. Pilsner Urquell je dnes ikonou českého pivovarnictví.",
+    "web": "https://www.prazdroj.cz"
+  },
+  {
+    "id": "radegast",
+    "nazev": "Radegast",
+    "zeme": "cz",
+    "mesto": "Nošovice",
+    "popisek": "Moravský pivovar, „život je hořký, bohudík“.",
+    "web": "https://www.radegast.cz"
+  },
+  {
+    "id": "bernard",
+    "nazev": "Rodinný pivovar Bernard",
+    "zeme": "cz",
+    "mesto": "Humpolec",
+    "popisek": "Rodinný pivovar v Humpolci. Nepasterizované pivo z vlastních surovin.",
+    "web": "https://www.bernard.cz"
+  },
+  {
+    "id": "neumann",
+    "nazev": "Rodinný pivovar Neumann",
+    "zeme": "cz",
+    "mesto": "Mělnické Vtelno"
+  },
+  {
+    "id": "zichovec",
+    "nazev": "Rodinný pivovar Zichovec",
+    "zeme": "cz",
+    "mesto": "Zichovec"
+  },
+  {
+    "id": "starobrno",
+    "nazev": "Starobrno",
+    "zeme": "cz",
+    "mesto": "Brno",
+    "popisek": "Brněnský pivovar s tradicí od roku 1872."
+  },
+  {
+    "id": "staropramen",
+    "nazev": "Staropramen",
+    "zeme": "cz",
+    "mesto": "Praha",
+    "popisek": "Pražský pivovar Smíchov, založený 1869. Druhý největší pivovar v Česku.",
+    "web": "https://www.staropramen.cz"
+  },
+  {
     "id": "kozel",
     "nazev": "Velkopopovický Kozel",
     "zeme": "cz",
@@ -40,123 +370,171 @@
     "web": "https://www.kozel.cz"
   },
   {
-    "id": "bernard",
-    "nazev": "Rodinný pivovar Bernard",
+    "id": "vinohradsky-pivovar",
+    "nazev": "Vinohradský pivovar",
     "zeme": "cz",
-    "mesto": "Humpolec",
-    "popisek": "Rodinný pivovar v Humpolci, založený 1597. Nepasterizované pivo z vlastních surovin.",
-    "web": "https://www.bernard.cz"
+    "mesto": "Praha"
   },
   {
-    "id": "svijany",
-    "nazev": "Pivovar Svijany",
+    "id": "vratislav",
+    "nazev": "Vratislav",
     "zeme": "cz",
-    "mesto": "Svijany",
-    "popisek": "Historický pivovar s tradicí od roku 1564, dnes patří mezi nejoblíbenější regionální značky.",
-    "web": "https://www.pivovarsvijany.cz"
+    "mesto": "Vratislavice nad Nisou"
   },
   {
-    "id": "paulaner",
-    "nazev": "Paulaner",
+    "id": "zlatopramen",
+    "nazev": "Zlatopramen",
+    "zeme": "cz",
+    "mesto": "Ústí nad Labem"
+  },
+  {
+    "id": "uneticky-pivovar",
+    "nazev": "Únětický pivovar",
+    "zeme": "cz",
+    "mesto": "Únětice",
+    "popisek": "Obnovený pivovar s tradicí od roku 1710."
+  },
+  {
+    "id": "cerna-svine",
+    "nazev": "Černá svině",
+    "zeme": "cz",
+    "popisek": "Český řemeslný pivní projekt."
+  },
+  {
+    "id": "burger-engelbrau",
+    "nazev": "Bürger- und Engelbräu",
+    "zeme": "de",
+    "mesto": "Memmingen"
+  },
+  {
+    "id": "distelhauser",
+    "nazev": "Distelhäuser Brauerei",
+    "zeme": "de",
+    "mesto": "Tauberbischofsheim"
+  },
+  {
+    "id": "erdinger",
+    "nazev": "Erdinger Weißbräu",
+    "zeme": "de",
+    "mesto": "Erding",
+    "popisek": "Největší pšeničný pivovar na světě."
+  },
+  {
+    "id": "frankenheim",
+    "nazev": "Frankenheim Alt",
+    "zeme": "de",
+    "mesto": "Düsseldorf"
+  },
+  {
+    "id": "haller-lowenbrau",
+    "nazev": "Haller Löwenbräu",
+    "zeme": "de",
+    "mesto": "Schwäbisch Hall"
+  },
+  {
+    "id": "hofbrau-munchen",
+    "nazev": "Hofbräu München",
     "zeme": "de",
     "mesto": "Mnichov",
-    "popisek": "Mnichovský pivovar založený mnichy řádu paulánů v roce 1634. Specializuje se na pšeničná piva.",
-    "web": "https://www.paulaner.com"
+    "popisek": "Bavorský královský dvorní pivovar."
   },
   {
-    "id": "augustiner",
-    "nazev": "Augustiner-Bräu",
+    "id": "maisels-weisse",
+    "nazev": "Maisel's Weisse",
+    "zeme": "de",
+    "mesto": "Bayreuth"
+  },
+  {
+    "id": "kitzmann",
+    "nazev": "Privatbrauerei Kitzmann",
+    "zeme": "de",
+    "mesto": "Erlangen"
+  },
+  {
+    "id": "ruppaner",
+    "nazev": "Ruppaner Brauerei",
+    "zeme": "de",
+    "mesto": "Kostnice"
+  },
+  {
+    "id": "spaten",
+    "nazev": "Spaten",
     "zeme": "de",
     "mesto": "Mnichov",
-    "popisek": "Nejstarší pivovar v Mnichově, založený 1328. Velmi oblíbený mezi místními pro tradiční chuť.",
-    "web": "https://www.augustiner-braeu.de"
+    "popisek": "Tradiční mnichovský pivovar."
   },
   {
-    "id": "weihenstephan",
-    "nazev": "Weihenstephaner",
+    "id": "warsteiner",
+    "nazev": "Warsteiner",
     "zeme": "de",
-    "mesto": "Freising",
-    "popisek": "Nejstarší fungující pivovar na světě (rok 1040). Klášterní pivovar slavný svými pšeničnými pivy.",
-    "web": "https://www.weihenstephaner.de"
+    "mesto": "Warstein"
   },
   {
-    "id": "schneider",
-    "nazev": "Schneider Weisse",
-    "zeme": "de",
-    "mesto": "Kelheim",
-    "popisek": "Pivovar specializovaný na pšeničné pivo, vařený podle původní bavorské receptury od roku 1872.",
-    "web": "https://www.schneider-weisse.de"
+    "id": "carlsberg",
+    "nazev": "Carlsberg",
+    "zeme": "dk",
+    "mesto": "Kodaň"
   },
   {
-    "id": "duvel",
-    "nazev": "Duvel Moortgat",
-    "zeme": "be",
-    "mesto": "Breendonk",
-    "popisek": "Belgický pivovar slavný svým silným zlatým pivem Duvel. Rodinný pivovar s tradicí od 1871.",
-    "web": "https://www.duvel.com"
+    "id": "tropical",
+    "nazev": "Tropical",
+    "zeme": "es",
+    "mesto": "Las Palmas (Kanárské ostrovy)"
   },
   {
-    "id": "chimay",
-    "nazev": "Bières de Chimay",
-    "zeme": "be",
-    "mesto": "Chimay",
-    "popisek": "Trapistický pivovar v opatství Notre-Dame de Scourmont. Jedno z mála autentických trapistických piv světa.",
-    "web": "https://www.chimay.com"
+    "id": "olvi",
+    "nazev": "Olvi",
+    "zeme": "fi",
+    "mesto": "Iisalmi"
   },
   {
-    "id": "leffe",
-    "nazev": "Abbaye de Leffe",
-    "zeme": "be",
-    "mesto": "Dinant",
-    "popisek": "Belgické opatské pivo s historií sahající do roku 1240. Dnes ho vaří AB InBev.",
-    "web": "https://www.leffe.com"
+    "id": "borsodi",
+    "nazev": "Borsodi",
+    "zeme": "hu",
+    "mesto": "Bőcs"
   },
   {
-    "id": "stiegl",
-    "nazev": "Stiegl",
-    "zeme": "at",
-    "mesto": "Salzburg",
-    "popisek": "Největší soukromý rakouský pivovar, založený 1492. Tradiční salcburské pivo.",
-    "web": "https://www.stiegl.at"
+    "id": "dreher",
+    "nazev": "Dreher",
+    "zeme": "hu",
+    "mesto": "Budapešť"
   },
   {
-    "id": "ottakringer",
-    "nazev": "Ottakringer",
-    "zeme": "at",
-    "mesto": "Vídeň",
-    "popisek": "Tradiční vídeňský pivovar v městské části Ottakring, založený 1837.",
-    "web": "https://www.ottakringerbrauerei.at"
+    "id": "soproni",
+    "nazev": "Soproni",
+    "zeme": "hu",
+    "mesto": "Sopron"
+  },
+  {
+    "id": "peroni",
+    "nazev": "Birra Peroni",
+    "zeme": "it",
+    "mesto": "Řím"
+  },
+  {
+    "id": "amstel",
+    "nazev": "Amstel",
+    "zeme": "nl",
+    "mesto": "Amsterdam"
+  },
+  {
+    "id": "baltika",
+    "nazev": "Baltika",
+    "zeme": "ru",
+    "mesto": "Petrohrad"
   },
   {
     "id": "zlaty-bazant",
     "nazev": "Zlatý Bažant",
     "zeme": "sk",
     "mesto": "Hurbanovo",
-    "popisek": "Největší slovenský pivovar, založený 1969. Ikona slovenského pivovarnictví.",
+    "popisek": "Největší slovenský pivovar. Ikona slovenského pivovarnictví.",
     "web": "https://www.zlatybazant.sk"
   },
   {
-    "id": "heineken",
-    "nazev": "Heineken",
-    "zeme": "nl",
-    "mesto": "Amsterdam",
-    "popisek": "Světově známý nizozemský pivovar s tradicí od roku 1864.",
-    "web": "https://www.heineken.com"
-  },
-  {
-    "id": "tyskie",
-    "nazev": "Tyskie",
-    "zeme": "pl",
-    "mesto": "Tychy",
-    "popisek": "Jeden z nejstarších polských pivovarů, založen 1629. Tradiční slezské pivo.",
-    "web": "https://www.tyskie.pl"
-  },
-  {
-    "id": "guinness",
-    "nazev": "Guinness",
-    "zeme": "ie",
-    "mesto": "Dublin",
-    "popisek": "Legendární irský pivovar v Dublinu, založený 1759. Domov nejznámějšího stoutu na světě.",
-    "web": "https://www.guinness.com"
+    "id": "saris",
+    "nazev": "Šariš",
+    "zeme": "sk",
+    "mesto": "Veľký Šariš"
   }
 ]
