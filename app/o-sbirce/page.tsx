@@ -105,8 +105,8 @@ export default function OSbircePage() {
         </h2>
         <p className="text-[var(--text-soft)] mb-6">
           Máte půllitr, který by se ve sbírce neztratil, nebo mi chcete jen
-          něco vzkázat? Pokud byste mi chtěli (v dobrém) darovat nějaký
-          půllitr nebo poslat zprávu, ozvěte se.
+          něco vzkázat? Pokud byste mi chtěli darovat nějaký půllitr nebo
+          poslat zprávu, ozvěte se.
         </p>
         <ContactForm />
       </section>
