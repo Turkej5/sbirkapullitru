@@ -2,7 +2,7 @@ import Link from "next/link";
 import Logo from "@/components/logo";
 import ThemeToggle from "@/components/theme-toggle";
 import ZemeMenu from "@/components/zeme-menu";
-import { getZemeWithCounts } from "@/lib/data";
+import { getZemeWithCounts, type ZemeWithCount } from "@/lib/data";
 
 export default function Header() {
   const zemeWithCounts = getZemeWithCounts();
@@ -27,14 +27,14 @@ export default function Header() {
         </nav>
         <div className="flex items-center gap-1">
           <ThemeToggle />
-          <MobileNav />
+          <MobileNav zeme={zemeWithCounts} />
         </div>
       </div>
     </header>
   );
 }
 
-function MobileNav() {
+function MobileNav({ zeme }: { zeme: ZemeWithCount[] }) {
   return (
     <details className="md:hidden relative">
       <summary
@@ -55,7 +55,7 @@ function MobileNav() {
           <line x1="3" y1="18" x2="21" y2="18" />
         </svg>
       </summary>
-      <div className="absolute right-0 top-full mt-2 w-56 rounded-lg border border-[var(--border)] bg-[var(--surface)] shadow-lg overflow-hidden">
+      <div className="absolute right-0 top-full mt-2 w-72 max-h-[75vh] overflow-auto rounded-lg border border-[var(--border)] bg-[var(--surface)] shadow-lg">
         <Link
           href="/sbirka"
           className="block px-4 py-3 hover:bg-[var(--border)] transition"
@@ -68,6 +68,21 @@ function MobileNav() {
         >
           O sbírce
         </Link>
+        <div className="border-t border-[var(--border)] px-4 pt-3 pb-1 text-xs font-medium uppercase tracking-wider text-[var(--text-soft)]">
+          Země
+        </div>
+        <div className="grid grid-cols-2 gap-0.5 px-2 pb-2">
+          {zeme.map((z) => (
+            <Link
+              key={z.kod}
+              href={`/zeme/${z.kod}`}
+              className="flex items-center gap-2 rounded-md px-2 py-2 text-sm hover:bg-[var(--border)] transition"
+            >
+              <span>{z.vlajka}</span>
+              <span className="truncate">{z.nazev}</span>
+            </Link>
+          ))}
+        </div>
       </div>
     </details>
   );

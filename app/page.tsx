@@ -65,8 +65,8 @@ export default function Home() {
               </Link>
             </div>
           </div>
-          <div className="hidden lg:block relative">
-            <div className="relative aspect-square rounded-3xl overflow-hidden border border-[var(--border)] bg-[var(--surface)] shadow-xl">
+          <div className="relative">
+            <div className="relative aspect-square max-w-md mx-auto lg:max-w-none rounded-3xl overflow-hidden border border-[var(--border)] bg-[var(--surface)] shadow-xl">
               <HeroMap />
             </div>
           </div>
