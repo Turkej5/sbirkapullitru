@@ -94,8 +94,10 @@ export function getCelkemKusu(): number {
   return (pullitryRaw as Pullitr[]).length;
 }
 
+const PSEUDO_ZEME = new Set(["ostatni", "reklamni"]);
+
 export function getPocetZemi(): number {
-  return getZemeWithCounts().filter((z) => z.kod !== "ostatni").length;
+  return getZemeWithCounts().filter((z) => !PSEUDO_ZEME.has(z.kod)).length;
 }
 
 export type PivovarWithCount = Pivovar & { pocet: number };

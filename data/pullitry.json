@@ -1248,7 +1248,7 @@
     "zeme": "ostatni",
     "fotka": "fesak.jpg",
     "pridano": "2015-03-22",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "italia-90",
@@ -1257,7 +1257,7 @@
     "zeme": "ostatni",
     "fotka": "italia-90.jpg",
     "pridano": "2015-03-22",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "kofola",
@@ -1266,7 +1266,7 @@
     "zeme": "ostatni",
     "fotka": "kofola.jpg",
     "pridano": "2015-01-24",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "kralovehradecke-pivni-slavnosti-2010",
@@ -1275,7 +1275,7 @@
     "zeme": "ostatni",
     "fotka": "kralovehradecke-pivni-slavnosti-2010.jpg",
     "pridano": "2015-01-24",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "little-prague-pub",
@@ -1284,7 +1284,7 @@
     "zeme": "ostatni",
     "fotka": "little-prague-pub.jpg",
     "pridano": "2016-05-22",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "lovu-zdar-myslivecky-pullitr",
@@ -1293,13 +1293,13 @@
     "zeme": "ostatni",
     "fotka": "lovu-zdar-myslivecky-pullitr.jpg",
     "pridano": "2015-03-22",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "ms-v-hokeji-2015-iihf",
     "nazev_zobrazovany": "MS v hokeji 2015 (IIHF)",
     "pivovar_id": null,
-    "zeme": "ostatni",
+    "zeme": "reklamni",
     "fotka": "ms-v-hokeji-2015-iihf.jpg",
     "pridano": "2016-05-22",
     "typ": "reklamni"
@@ -1311,7 +1311,7 @@
     "zeme": "ostatni",
     "fotka": "mercedes-benz-unimog.jpg",
     "pridano": "2018-03-10",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "neidentifikovana-sklenice",
@@ -1320,13 +1320,13 @@
     "zeme": "ostatni",
     "fotka": "neidentifikovana-sklenice.jpg",
     "pridano": "2015-03-22",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "o-k-tip-tipsport",
     "nazev_zobrazovany": "O.k. Tip (Tipsport)",
     "pivovar_id": null,
-    "zeme": "ostatni",
+    "zeme": "reklamni",
     "fotka": "o-k-tip-tipsport.jpg",
     "pridano": "2015-03-22",
     "typ": "reklamni"
@@ -1335,7 +1335,7 @@
     "id": "o-k-tip-tipsport-2",
     "nazev_zobrazovany": "O.k. Tip (Tipsport)",
     "pivovar_id": null,
-    "zeme": "ostatni",
+    "zeme": "reklamni",
     "fotka": "o-k-tip-tipsport-2.jpg",
     "pridano": "2015-03-22",
     "typ": "reklamni"
@@ -1347,7 +1347,7 @@
     "zeme": "ostatni",
     "fotka": "pivo-meni-tve-svaly-vtipny-pullitr.jpg",
     "pridano": "2015-01-24",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "pivovarsky-klub",
@@ -1356,7 +1356,7 @@
     "zeme": "ostatni",
     "fotka": "pivovarsky-klub.jpg",
     "pridano": "2009-12-31",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "pullitr-bez-oznaceni",
@@ -1365,7 +1365,7 @@
     "zeme": "ostatni",
     "fotka": "pullitr-bez-oznaceni.jpg",
     "pridano": "2018-03-10",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "pullitr-bez-oznaceni-2",
@@ -1374,7 +1374,7 @@
     "zeme": "ostatni",
     "fotka": "pullitr-bez-oznaceni-2.jpg",
     "pridano": "2018-03-10",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "pullitr-bez-oznaceni-3",
@@ -1383,7 +1383,7 @@
     "zeme": "ostatni",
     "fotka": "pullitr-bez-oznaceni-3.jpg",
     "pridano": "2018-03-10",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "pullitr-bez-oznaceni-4",
@@ -1392,7 +1392,7 @@
     "zeme": "ostatni",
     "fotka": "pullitr-bez-oznaceni-4.jpg",
     "pridano": "2018-03-10",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "pullitr-bez-oznaceni-5",
@@ -1401,7 +1401,7 @@
     "zeme": "ostatni",
     "fotka": "pullitr-bez-oznaceni-5.jpg",
     "pridano": "2018-03-10",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "pullitr-bez-oznaceni-6",
@@ -1410,7 +1410,7 @@
     "zeme": "ostatni",
     "fotka": "pullitr-bez-oznaceni-6.jpg",
     "pridano": "2015-01-24",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "sklenice-bez-oznaceni",
@@ -1419,7 +1419,7 @@
     "zeme": "ostatni",
     "fotka": "sklenice-bez-oznaceni.jpg",
     "pridano": "2018-03-10",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "sklenice-bez-oznaceni-2",
@@ -1428,7 +1428,7 @@
     "zeme": "ostatni",
     "fotka": "sklenice-bez-oznaceni-2.jpg",
     "pridano": "2018-03-10",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "sklenice-bez-oznaceni-3",
@@ -1437,13 +1437,13 @@
     "zeme": "ostatni",
     "fotka": "sklenice-bez-oznaceni-3.jpg",
     "pridano": "2015-01-24",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "tipsport",
     "nazev_zobrazovany": "Tipsport",
     "pivovar_id": null,
-    "zeme": "ostatni",
+    "zeme": "reklamni",
     "fotka": "tipsport.jpg",
     "pridano": "2015-03-22",
     "typ": "reklamni"
@@ -1452,7 +1452,7 @@
     "id": "tipsport-2",
     "nazev_zobrazovany": "Tipsport",
     "pivovar_id": null,
-    "zeme": "ostatni",
+    "zeme": "reklamni",
     "fotka": "tipsport-2.jpg",
     "pridano": "2015-03-22",
     "typ": "reklamni"
@@ -1464,7 +1464,7 @@
     "zeme": "ostatni",
     "fotka": "to-chce-klid-vtipny-pullitr.jpg",
     "pridano": "2015-03-22",
-    "typ": "reklamni"
+    "typ": "akcni"
   },
   {
     "id": "baltika",
