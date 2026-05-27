@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import ZemeFlag from "@/components/zeme-flag";
 import type { PullitrEnhanced } from "@/lib/types";
 
 export default function PullitrCard({
@@ -29,9 +30,10 @@ export default function PullitrCard({
             Nový
           </span>
         )}
-        <span className="absolute top-2 right-2 text-xl drop-shadow">
-          {pullitr.zemeInfo.vlajka}
-        </span>
+        <ZemeFlag
+          zeme={pullitr.zemeInfo}
+          className="absolute top-2 right-2 text-xl drop-shadow"
+        />
       </div>
       <div className="p-3 text-center">
         <h3 className="text-sm font-medium text-[var(--text)] line-clamp-2">

@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import { TypBadge } from "@/components/badge";
 import PullitrNavigation from "@/components/pullitr-navigation";
+import ZemeFlag from "@/components/zeme-flag";
 import { getAllPullitry, getPullitrById, getSortedChronologicky } from "@/lib/data";
 
 type Params = { id: string };
@@ -79,7 +80,7 @@ export default async function PullitrPage({
 
         <div>
           <div className="flex items-center gap-3 mb-2">
-            <span className="text-3xl">{p.zemeInfo.vlajka}</span>
+            <ZemeFlag zeme={p.zemeInfo} className="text-3xl" />
             <Link
               href={`/zeme/${p.zemeInfo.kod}`}
               className="text-[var(--text-soft)] hover:text-[var(--accent)]"

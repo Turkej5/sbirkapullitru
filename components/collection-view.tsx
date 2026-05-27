@@ -3,6 +3,7 @@
 import { useMemo, useState, useTransition, useCallback, useEffect } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import PullitrGrid from "@/components/pullitr-grid";
+import ZemeFlag from "@/components/zeme-flag";
 import { TYP_LABELS, searchPullitry } from "@/lib/search";
 import type { PullitrEnhanced, TypPullitru, Zeme } from "@/lib/types";
 
@@ -185,7 +186,7 @@ export default function CollectionView({
                         : "border-[var(--border)] hover:border-[var(--accent)]"
                     }`}
                   >
-                    <span>{z.vlajka}</span>
+                    <ZemeFlag zeme={z} />
                     <span>{z.nazev}</span>
                     <span
                       className={`text-xs ${

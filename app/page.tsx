@@ -1,6 +1,7 @@
 import Link from "next/link";
 import HeroMap from "@/components/hero-map";
 import PullitrGrid from "@/components/pullitr-grid";
+import ZemeFlag from "@/components/zeme-flag";
 import {
   getCelkemKusu,
   getNejnovejsi,
@@ -99,7 +100,9 @@ export default function Home() {
                 href={`/zeme/${z.kod}`}
                 className="block rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4 sm:p-5 hover:border-[var(--accent)] hover:-translate-y-0.5 transition-all"
               >
-                <div className="text-3xl sm:text-4xl mb-2">{z.vlajka}</div>
+                <div className="text-3xl sm:text-4xl mb-2">
+                  <ZemeFlag zeme={z} />
+                </div>
                 <div className="font-medium">{z.nazev}</div>
                 <div className="text-sm text-[var(--text-soft)] mt-1">
                   {z.pocet} {pocetSuffix(z.pocet)}
