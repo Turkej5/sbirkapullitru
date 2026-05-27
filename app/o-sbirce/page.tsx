@@ -54,8 +54,9 @@ export default function OSbircePage() {
         </p>
         <p>
           Sbírám hlavně půllitry pivovarní (s logem nebo značkou pivovaru),
-          příležitostně i reklamní a ostatní kousky. Zajímají mě klasické tvary
-          i krajové specialitky.
+          příležitostně i reklamní a ostatní kousky. Baví mě jak běžné
+          půllitry, tak i ty méně obvyklé — zajímavé tvary nebo speciality
+          z malých a místních pivovarů.
         </p>
         <p className="text-[var(--text-soft)] italic">
           Tento web je v aktivním vývoji — texty i fotky budou přibývat.
