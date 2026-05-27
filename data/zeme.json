@@ -83,5 +83,10 @@
     "kod": "ostatni",
     "nazev": "Ostatní",
     "vlajka": "🍺"
+  },
+  {
+    "kod": "reklamni",
+    "nazev": "Reklamní",
+    "vlajka": "📣"
   }
 ]
