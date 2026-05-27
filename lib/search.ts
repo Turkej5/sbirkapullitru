@@ -31,7 +31,7 @@ export function searchPullitry(
 export const TYP_LABELS: Record<string, string> = {
   pivovarni: "Pivovarní",
   reklamni: "Reklamní",
-  akcni: "Akční",
+  akcni: "Ostatní",
 };
 
 export function isNovy(pridano: string, refDate = new Date()): boolean {
