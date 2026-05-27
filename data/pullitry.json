@@ -712,19 +712,10 @@
   },
   {
     "id": "primator-1",
-    "nazev_zobrazovany": "Primátor (1)",
+    "nazev_zobrazovany": "Primátor",
     "pivovar_id": "primator",
     "zeme": "cz",
     "fotka": "primator-1.jpg",
-    "pridano": "2018-03-10",
-    "typ": "pivovarni"
-  },
-  {
-    "id": "primator-2",
-    "nazev_zobrazovany": "Primátor (2)",
-    "pivovar_id": "primator",
-    "zeme": "cz",
-    "fotka": "primator-2.jpg",
     "pridano": "2018-03-10",
     "typ": "pivovarni"
   },
