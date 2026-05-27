@@ -47,10 +47,10 @@ export default function OSbircePage() {
       </h1>
       <div className="prose prose-lg max-w-none text-[var(--text)] leading-relaxed space-y-5">
         <p>
-          Tato sbírka začala jako náhoda — pár půllitrů přivezených z cesty,
-          dárky od přátel, kousky z pivovarských muzeí. Z náhody se postupně
-          stala vášeň a dnes je v ní řada půllitrů z českých pivovarů i
-          zahraničí.
+          Nebyla to náhoda. Půllitry jsem začal sbírat postupně — nejdřív pár
+          prvních kousků, pak přibývaly i z cest a nakonec mi je začali dávat
+          přátelé a rodina. Z příležitostného koníčku se časem stala vášeň a
+          dnes je ve sbírce řada půllitrů z českých pivovarů i ze zahraničí.
         </p>
         <p>
           Sbírám hlavně půllitry pivovarní (s logem nebo značkou pivovaru),
