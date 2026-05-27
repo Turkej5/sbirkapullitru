@@ -2,6 +2,7 @@ import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import CollectionView from "@/components/collection-view";
+import ZemeFlag from "@/components/zeme-flag";
 import {
   getAllZeme,
   getPivovaryByZemeWithCounts,
@@ -45,7 +46,7 @@ export default async function ZemePage({
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-10">
       <div className="flex items-center gap-4 mb-2">
-        <span className="text-5xl sm:text-6xl leading-none">{z.vlajka}</span>
+        <ZemeFlag zeme={z} className="text-5xl sm:text-6xl leading-none" />
         <div>
           <h1 className="font-display text-3xl sm:text-4xl font-semibold">
             {z.nazev}

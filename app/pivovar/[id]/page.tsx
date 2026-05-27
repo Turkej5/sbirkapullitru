@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import PullitrGrid from "@/components/pullitr-grid";
+import ZemeFlag from "@/components/zeme-flag";
 import {
   getAllPivovary,
   getPivovarById,
@@ -61,7 +62,7 @@ export default async function PivovarPage({
       </nav>
       <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 sm:p-8 mb-10">
         <div className="flex items-center gap-3 mb-2">
-          {zeme && <span className="text-2xl">{zeme.vlajka}</span>}
+          {zeme && <ZemeFlag zeme={zeme} className="text-2xl" />}
           <h1 className="font-display text-3xl sm:text-4xl font-semibold">
             {piv.nazev}
           </h1>

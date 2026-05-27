@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ZemeFlag from "@/components/zeme-flag";
 import type { ZemeWithCount } from "@/lib/data";
 
 export default function ZemeMenu({ zeme }: { zeme: ZemeWithCount[] }) {
@@ -25,7 +26,7 @@ export default function ZemeMenu({ zeme }: { zeme: ZemeWithCount[] }) {
                 className="flex items-center justify-between px-4 py-2 hover:bg-[var(--border)] transition"
               >
                 <span className="flex items-center gap-2">
-                  <span className="text-xl leading-none">{z.vlajka}</span>
+                  <ZemeFlag zeme={z} className="text-xl leading-none" />
                   <span>{z.nazev}</span>
                 </span>
                 <span className="text-xs text-[var(--text-soft)] tabular-nums">

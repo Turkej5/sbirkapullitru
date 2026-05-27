@@ -2,6 +2,7 @@ import Link from "next/link";
 import Logo from "@/components/logo";
 import ThemeToggle from "@/components/theme-toggle";
 import ZemeMenu from "@/components/zeme-menu";
+import ZemeFlag from "@/components/zeme-flag";
 import { getZemeWithCounts, type ZemeWithCount } from "@/lib/data";
 
 export default function Header() {
@@ -78,7 +79,7 @@ function MobileNav({ zeme }: { zeme: ZemeWithCount[] }) {
               href={`/zeme/${z.kod}`}
               className="flex items-center gap-2 rounded-md px-2 py-2 text-sm hover:bg-[var(--border)] transition"
             >
-              <span>{z.vlajka}</span>
+              <ZemeFlag zeme={z} />
               <span className="truncate">{z.nazev}</span>
             </Link>
           ))}
