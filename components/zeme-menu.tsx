@@ -1,10 +1,37 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { useEffect, useRef } from "react";
 import ZemeFlag from "@/components/zeme-flag";
 import type { ZemeWithCount } from "@/lib/data";
 
 export default function ZemeMenu({ zeme }: { zeme: ZemeWithCount[] }) {
+  const ref = useRef<HTMLDetailsElement>(null);
+  const pathname = usePathname();
+
+  useEffect(() => {
+    if (ref.current) ref.current.open = false;
+  }, [pathname]);
+
+  useEffect(() => {
+    function onPointerDown(e: PointerEvent) {
+      const el = ref.current;
+      if (el?.open && !el.contains(e.target as Node)) el.open = false;
+    }
+    function onKeyDown(e: KeyboardEvent) {
+      if (e.key === "Escape" && ref.current) ref.current.open = false;
+    }
+    document.addEventListener("pointerdown", onPointerDown);
+    document.addEventListener("keydown", onKeyDown);
+    return () => {
+      document.removeEventListener("pointerdown", onPointerDown);
+      document.removeEventListener("keydown", onKeyDown);
+    };
+  }, []);
+
   return (
-    <details className="group relative">
+    <details ref={ref} className="group relative">
       <summary className="list-none px-3 py-2 rounded-md hover:bg-[var(--border)] transition cursor-pointer flex items-center gap-1">
         Země
         <svg
@@ -23,6 +50,9 @@ export default function ZemeMenu({ zeme }: { zeme: ZemeWithCount[] }) {
             <li key={z.kod}>
               <Link
                 href={`/zeme/${z.kod}`}
+                onClick={() => {
+                  if (ref.current) ref.current.open = false;
+                }}
                 className="flex items-center justify-between px-4 py-2 hover:bg-[var(--border)] transition"
               >
                 <span className="flex items-center gap-2">
