@@ -54,7 +54,7 @@ export default function OSbircePage() {
         </p>
         <p>
           Sbírám hlavně půllitry pivovarní (s logem nebo značkou pivovaru),
-          příležitostně i reklamní a akční edice. Zajímají mě klasické tvary
+          příležitostně i reklamní a ostatní kousky. Zajímají mě klasické tvary
           i krajové specialitky.
         </p>
         <p className="text-[var(--text-soft)] italic">
