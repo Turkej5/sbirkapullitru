@@ -16,13 +16,15 @@
     "id": "kapsreiter",
     "nazev": "Kapsreiter",
     "zeme": "at",
-    "mesto": "Schärding"
+    "mesto": "Schärding",
+    "popisek": "Hornorakouský rodinný pivovar s dlouhou tradicí u bavorských hranic."
   },
   {
     "id": "zwettler",
     "nazev": "Privatbrauerei Zwettl",
     "zeme": "at",
-    "mesto": "Zwettl"
+    "mesto": "Zwettl",
+    "popisek": "Dolnorakouský soukromý pivovar ve waldviertelských lesích."
   },
   {
     "id": "wolfsberger",
@@ -48,7 +50,8 @@
     "id": "stella-artois",
     "nazev": "Stella Artois",
     "zeme": "be",
-    "mesto": "Lovaň"
+    "mesto": "Lovaň",
+    "popisek": "Ikonický belgický ležák s tradicí sahající do 14. století."
   },
   {
     "id": "leffe",
@@ -102,7 +105,8 @@
     "id": "breznak",
     "nazev": "Březňák",
     "zeme": "cz",
-    "mesto": "Velké Březno"
+    "mesto": "Velké Březno",
+    "popisek": "Severočeská značka pivovaru ve Velkém Březně, součást skupiny Heineken ČR."
   },
   {
     "id": "gambrinus",
@@ -171,7 +175,8 @@
     "id": "chotebor",
     "nazev": "Pivovar Chotěboř",
     "zeme": "cz",
-    "mesto": "Chotěboř"
+    "mesto": "Chotěboř",
+    "popisek": "Novodobý pivovar postavený v Chotěboři na Vysočině v roce 2009."
   },
   {
     "id": "doubravnik",
@@ -183,7 +188,8 @@
     "id": "falkenstejn",
     "nazev": "Pivovar Falkenštejn",
     "zeme": "cz",
-    "mesto": "Krásná Lípa"
+    "mesto": "Krásná Lípa",
+    "popisek": "Minipivovar v Českém Švýcarsku pojmenovaný po hradě Falkenštejn."
   },
   {
     "id": "herold",
@@ -203,13 +209,15 @@
     "id": "hostan",
     "nazev": "Pivovar Hostan",
     "zeme": "cz",
-    "mesto": "Znojmo"
+    "mesto": "Znojmo",
+    "popisek": "Historická znojemská značka, dnes součást skupiny Heineken."
   },
   {
     "id": "jezek",
     "nazev": "Pivovar Ježek",
     "zeme": "cz",
-    "mesto": "Jihlava"
+    "mesto": "Jihlava",
+    "popisek": "Jihlavský městský pivovar s tradicí od 19. století."
   },
   {
     "id": "klaster",
@@ -222,7 +230,8 @@
     "id": "kocour",
     "nazev": "Pivovar Kocour",
     "zeme": "cz",
-    "mesto": "Varnsdorf"
+    "mesto": "Varnsdorf",
+    "popisek": "Řemeslný pivovar v severočeském Varnsdorfu, známý spoluprací se zahraničními pivovarníky."
   },
   {
     "id": "kolcavka",
@@ -261,7 +270,8 @@
     "id": "platan",
     "nazev": "Pivovar Platan",
     "zeme": "cz",
-    "mesto": "Protivín"
+    "mesto": "Protivín",
+    "popisek": "Jihočeský pivovar s tradicí od 16. století, součást skupiny Lobkowicz."
   },
   {
     "id": "primator",
@@ -281,7 +291,8 @@
     "id": "rychtar",
     "nazev": "Pivovar Rychtář",
     "zeme": "cz",
-    "mesto": "Hlinsko"
+    "mesto": "Hlinsko",
+    "popisek": "Hlinecký pivovar s tradicí od počátku 20. století."
   },
   {
     "id": "samson",
@@ -327,7 +338,8 @@
     "id": "lobkowicz",
     "nazev": "Pivovary Lobkowicz",
     "zeme": "cz",
-    "mesto": "Vysoký Chlumec"
+    "mesto": "Vysoký Chlumec",
+    "popisek": "Skupina regionálních českých pivovarů pod historickou značkou šlechtického rodu Lobkowiczů."
   },
   {
     "id": "plzensky-prazdroj",
@@ -363,7 +375,8 @@
     "id": "zichovec",
     "nazev": "Rodinný pivovar Zichovec",
     "zeme": "cz",
-    "mesto": "Zichovec"
+    "mesto": "Zichovec",
+    "popisek": "Řemeslný rodinný pivovar na Slánsku, známý pestrou nabídkou svrchně kvašených piv."
   },
   {
     "id": "starobrno",
@@ -404,7 +417,8 @@
     "id": "zlatopramen",
     "nazev": "Zlatopramen",
     "zeme": "cz",
-    "mesto": "Ústí nad Labem"
+    "mesto": "Ústí nad Labem",
+    "popisek": "Ústecká značka piva vařená ve skupině Heineken ČR."
   },
   {
     "id": "uneticky-pivovar",
@@ -494,7 +508,8 @@
     "id": "matuska",
     "nazev": "Pivovar Matuška",
     "zeme": "cz",
-    "mesto": "Broumy"
+    "mesto": "Broumy",
+    "popisek": "Jeden z průkopníků českého řemeslného pivovarnictví, rodinný pivovar v Broumech."
   },
   {
     "id": "na-lochkove",
@@ -525,7 +540,8 @@
     "id": "pernstejn",
     "nazev": "Pivovar Pernštejn",
     "zeme": "cz",
-    "mesto": "Pardubice"
+    "mesto": "Pardubice",
+    "popisek": "Pardubický pivovar s tradicí od roku 1871, známý polotmavým Porterem."
   },
   {
     "id": "pocernicky-pivovar",
@@ -609,7 +625,8 @@
     "id": "frankenheim",
     "nazev": "Frankenheim Alt",
     "zeme": "de",
-    "mesto": "Düsseldorf"
+    "mesto": "Düsseldorf",
+    "popisek": "Klasické düsseldorfské altbier — svrchně kvašené tmavé pivo."
   },
   {
     "id": "haller-lowenbrau",
@@ -628,7 +645,8 @@
     "id": "maisels-weisse",
     "nazev": "Maisel's Weisse",
     "zeme": "de",
-    "mesto": "Bayreuth"
+    "mesto": "Bayreuth",
+    "popisek": "Franský rodinný pivovar proslulý bavorskými pšeničnými pivy."
   },
   {
     "id": "kitzmann",
@@ -653,7 +671,8 @@
     "id": "warsteiner",
     "nazev": "Warsteiner",
     "zeme": "de",
-    "mesto": "Warstein"
+    "mesto": "Warstein",
+    "popisek": "Jeden z největších soukromých pivovarů v Německu, ležák z Sauerlandu."
   },
   {
     "id": "bautzener",
@@ -679,7 +698,8 @@
     "id": "holsten",
     "nazev": "Holsten-Brauerei",
     "zeme": "de",
-    "mesto": "Hamburk"
+    "mesto": "Hamburk",
+    "popisek": "Tradiční hamburský pivovar, dnes součást skupiny Carlsberg."
   },
   {
     "id": "karlsberg",
@@ -720,7 +740,8 @@
     "id": "carlsberg",
     "nazev": "Carlsberg",
     "zeme": "dk",
-    "mesto": "Kodaň"
+    "mesto": "Kodaň",
+    "popisek": "Globální dánský pivovar založený 1847, jeden z největších na světě."
   },
   {
     "id": "tropical",
@@ -768,7 +789,8 @@
     "id": "amstel",
     "nazev": "Amstel",
     "zeme": "nl",
-    "mesto": "Amsterdam"
+    "mesto": "Amsterdam",
+    "popisek": "Nizozemská pivní značka založená 1870, dnes součást skupiny Heineken."
   },
   {
     "id": "heineken",
