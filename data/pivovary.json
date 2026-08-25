@@ -51,11 +51,30 @@
     "mesto": "Lovaň"
   },
   {
+    "id": "leffe",
+    "nazev": "Abbaye de Leffe",
+    "zeme": "be",
+    "mesto": "Dinant",
+    "popisek": "Belgický klášterní pivovar."
+  },
+  {
     "id": "dalesice",
     "nazev": "Akciový pivovar Dalešice",
     "zeme": "cz",
     "mesto": "Dalešice",
     "popisek": "Pivovar proslavený filmem Postřižiny."
+  },
+  {
+    "id": "antos",
+    "nazev": "Antoš",
+    "zeme": "cz",
+    "mesto": "Slaný"
+  },
+  {
+    "id": "biskupsky-pivovar",
+    "nazev": "Biskupský pivovar U sv. Štěpána",
+    "zeme": "cz",
+    "mesto": "Litoměřice"
   },
   {
     "id": "bad-flash",
@@ -401,6 +420,173 @@
     "popisek": "Český řemeslný pivní projekt."
   },
   {
+    "id": "bubenec",
+    "nazev": "Pivovar Bubeneč",
+    "zeme": "cz",
+    "mesto": "Praha"
+  },
+  {
+    "id": "cerna-hora",
+    "nazev": "Pivovar Černá Hora",
+    "zeme": "cz",
+    "mesto": "Černá Hora",
+    "popisek": "Moravský pivovar s tradicí od roku 1530."
+  },
+  {
+    "id": "chotoviny",
+    "nazev": "Pivovar Chotoviny",
+    "zeme": "cz",
+    "mesto": "Chotoviny"
+  },
+  {
+    "id": "chrudimsky-pivovar",
+    "nazev": "Chrudimský pivovar",
+    "zeme": "cz",
+    "mesto": "Chrudim",
+    "popisek": "Vaří pivo Filištín."
+  },
+  {
+    "id": "cvikov",
+    "nazev": "Pivovar Cvikov",
+    "zeme": "cz",
+    "mesto": "Cvikov",
+    "popisek": "Obnovený pivovar s tradicí od roku 1560."
+  },
+  {
+    "id": "dux",
+    "nazev": "Pivovar Dux",
+    "zeme": "cz",
+    "mesto": "Duchcov"
+  },
+  {
+    "id": "eggenberg",
+    "nazev": "Pivovar Eggenberg",
+    "zeme": "cz",
+    "mesto": "Český Krumlov",
+    "popisek": "Historický pivovar s tradicí od roku 1560."
+  },
+  {
+    "id": "ferdinand",
+    "nazev": "Pivovar Ferdinand",
+    "zeme": "cz",
+    "mesto": "Benešov",
+    "popisek": "Skutečné pivo, tradice od roku 1897."
+  },
+  {
+    "id": "kacov",
+    "nazev": "Pivovar Kácov",
+    "zeme": "cz",
+    "mesto": "Kácov",
+    "popisek": "Vaří pivo Hubertus, tradice od roku 1457."
+  },
+  {
+    "id": "kanec",
+    "nazev": "Pivovar Kanec",
+    "zeme": "cz"
+  },
+  {
+    "id": "labut",
+    "nazev": "Minipivovar Labuť",
+    "zeme": "cz",
+    "mesto": "Litoměřice"
+  },
+  {
+    "id": "matuska",
+    "nazev": "Pivovar Matuška",
+    "zeme": "cz",
+    "mesto": "Broumy"
+  },
+  {
+    "id": "na-lochkove",
+    "nazev": "Restaurace Na Lochkově s pivovarem",
+    "zeme": "cz",
+    "mesto": "Praha-Lochkov"
+  },
+  {
+    "id": "nova-paka",
+    "nazev": "Novopacký pivovar",
+    "zeme": "cz",
+    "mesto": "Nová Paka",
+    "popisek": "Pivovar s tradicí od roku 1872."
+  },
+  {
+    "id": "novosad",
+    "nazev": "Minipivovar Novosad",
+    "zeme": "cz",
+    "mesto": "Harrachov",
+    "popisek": "Vaří pivo František."
+  },
+  {
+    "id": "panu-z-ruze",
+    "nazev": "Pivovárek pánů z Růže",
+    "zeme": "cz"
+  },
+  {
+    "id": "pernstejn",
+    "nazev": "Pivovar Pernštejn",
+    "zeme": "cz",
+    "mesto": "Pardubice"
+  },
+  {
+    "id": "pocernicky-pivovar",
+    "nazev": "Počernický pivovar",
+    "zeme": "cz",
+    "mesto": "Praha - Dolní Počernice",
+    "popisek": "Pivovar v areálu Panský dvůr."
+  },
+  {
+    "id": "podebradsky-zdroj",
+    "nazev": "Poděbradský Zdroj",
+    "zeme": "cz",
+    "mesto": "Poděbrady"
+  },
+  {
+    "id": "poutnik",
+    "nazev": "Pivovar Poutník",
+    "zeme": "cz",
+    "mesto": "Pelhřimov",
+    "popisek": "Pivovar s tradicí od roku 1552."
+  },
+  {
+    "id": "priessnitz",
+    "nazev": "Pivovar Priessnitz",
+    "zeme": "cz",
+    "mesto": "Jeseník"
+  },
+  {
+    "id": "rakovar",
+    "nazev": "Rakovnický pivovar",
+    "zeme": "cz",
+    "mesto": "Rakovník",
+    "popisek": "Historický pivovar s tradicí od roku 1494."
+  },
+  {
+    "id": "raven",
+    "nazev": "Pivovar Raven",
+    "zeme": "cz",
+    "mesto": "Plzeň",
+    "popisek": "Řemeslný pivovar založený 2015."
+  },
+  {
+    "id": "ricansky-pivovar",
+    "nazev": "Říčanský pivovar",
+    "zeme": "cz",
+    "mesto": "Říčany"
+  },
+  {
+    "id": "tesak",
+    "nazev": "Pivovar Tesák",
+    "zeme": "cz",
+    "mesto": "Rusava"
+  },
+  {
+    "id": "zeliv",
+    "nazev": "Klášterní pivovar Želiv",
+    "zeme": "cz",
+    "mesto": "Želiv",
+    "popisek": "Pivovar v premonstrátském klášteře, tradice od roku 1617."
+  },
+  {
     "id": "burger-engelbrau",
     "nazev": "Bürger- und Engelbräu",
     "zeme": "de",
@@ -470,6 +656,67 @@
     "mesto": "Warstein"
   },
   {
+    "id": "bautzener",
+    "nazev": "Bautzener Brauerei",
+    "zeme": "de",
+    "mesto": "Bautzen",
+    "popisek": "Saský pivovar s tradicí od roku 1847."
+  },
+  {
+    "id": "braustolz",
+    "nazev": "Braustolz",
+    "zeme": "de",
+    "mesto": "Chemnitz",
+    "popisek": "Feldschlößchen-Brauerei Chemnitz-Kappel."
+  },
+  {
+    "id": "feldschlosschen",
+    "nazev": "Feldschlößchen",
+    "zeme": "de",
+    "mesto": "Braunschweig"
+  },
+  {
+    "id": "holsten",
+    "nazev": "Holsten-Brauerei",
+    "zeme": "de",
+    "mesto": "Hamburk"
+  },
+  {
+    "id": "karlsberg",
+    "nazev": "Karlsberg Brauerei",
+    "zeme": "de",
+    "mesto": "Homburg",
+    "popisek": "Sárský pivovar s tradicí od roku 1878."
+  },
+  {
+    "id": "lobauer-bergquell",
+    "nazev": "Löbauer Bergquell",
+    "zeme": "de",
+    "mesto": "Löbau",
+    "popisek": "Saský pivovar s tradicí od roku 1846."
+  },
+  {
+    "id": "radeberger",
+    "nazev": "Radeberger Pilsner",
+    "zeme": "de",
+    "mesto": "Radeberg",
+    "popisek": "Saská pivovarská tradice od roku 1872."
+  },
+  {
+    "id": "schneider-weisse",
+    "nazev": "Schneider Weisse",
+    "zeme": "de",
+    "mesto": "Kelheim",
+    "popisek": "Tradiční bavorský pšeničný pivovar."
+  },
+  {
+    "id": "torring",
+    "nazev": "Schloßbrauerei Seefeld",
+    "zeme": "de",
+    "mesto": "Seefeld",
+    "popisek": "Vaří Törring Bier na zámku Schloß Seefeld."
+  },
+  {
     "id": "carlsberg",
     "nazev": "Carlsberg",
     "zeme": "dk",
@@ -480,6 +727,12 @@
     "nazev": "Tropical",
     "zeme": "es",
     "mesto": "Las Palmas (Kanárské ostrovy)"
+  },
+  {
+    "id": "alhambra",
+    "nazev": "Cervezas Alhambra",
+    "zeme": "es",
+    "mesto": "Granada"
   },
   {
     "id": "olvi",
@@ -518,6 +771,13 @@
     "mesto": "Amsterdam"
   },
   {
+    "id": "heineken",
+    "nazev": "Heineken",
+    "zeme": "nl",
+    "mesto": "Amsterdam",
+    "popisek": "Nizozemský pivovar založený 1864."
+  },
+  {
     "id": "baltika",
     "nazev": "Baltika",
     "zeme": "ru",
@@ -536,5 +796,33 @@
     "nazev": "Šariš",
     "zeme": "sk",
     "mesto": "Veľký Šariš"
+  },
+  {
+    "id": "meteor",
+    "nazev": "Brasserie Meteor",
+    "zeme": "fr",
+    "mesto": "Hochfelden",
+    "popisek": "Alsaský pivovar, „La bière du village de Hochfelden“."
+  },
+  {
+    "id": "svyturys",
+    "nazev": "Švyturys",
+    "zeme": "lt",
+    "mesto": "Klaipėda",
+    "popisek": "Litevský pivovar s tradicí od roku 1784."
+  },
+  {
+    "id": "chisinau",
+    "nazev": "Bere Chișinău",
+    "zeme": "md",
+    "mesto": "Kišiněv",
+    "popisek": "Moldavský pivovar s tradicí od roku 1873."
+  },
+  {
+    "id": "efes",
+    "nazev": "Efes Pilsen",
+    "zeme": "tr",
+    "mesto": "Istanbul",
+    "popisek": "Největší turecký pivovar."
   }
 ]

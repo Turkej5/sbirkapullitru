@@ -80,6 +80,26 @@
     "vlajka": "🇪🇸"
   },
   {
+    "kod": "fr",
+    "nazev": "Francie",
+    "vlajka": "🇫🇷"
+  },
+  {
+    "kod": "lt",
+    "nazev": "Litva",
+    "vlajka": "🇱🇹"
+  },
+  {
+    "kod": "md",
+    "nazev": "Moldavsko",
+    "vlajka": "🇲🇩"
+  },
+  {
+    "kod": "tr",
+    "nazev": "Turecko",
+    "vlajka": "🇹🇷"
+  },
+  {
     "kod": "ostatni",
     "nazev": "Ostatní",
     "vlajka": "🍺"
