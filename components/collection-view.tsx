@@ -186,6 +186,7 @@ export default function CollectionView({
                         : "border-[var(--border)] hover:border-[var(--accent)]"
                     }`}
                   >
+                    {active && <CheckIcon />}
                     <ZemeFlag zeme={z} />
                     <span>{z.nazev}</span>
                     <span
@@ -229,12 +230,13 @@ export default function CollectionView({
                 key={t}
                 type="button"
                 onClick={() => toggleTyp(t)}
-                className={`rounded-full px-3 py-1.5 border transition cursor-pointer ${
+                className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 border transition cursor-pointer ${
                   active
                     ? "bg-[var(--accent)] text-white border-[var(--accent)]"
                     : "border-[var(--border)] hover:border-[var(--accent)]"
                 }`}
               >
+                {active && <CheckIcon />}
                 {TYP_LABELS[t]}
               </button>
             );
@@ -252,24 +254,120 @@ export default function CollectionView({
                 </option>
               ))}
             </select>
-            {hasActiveFilters && (
-              <button
-                type="button"
-                onClick={resetAll}
-                className="text-[var(--accent)] hover:underline cursor-pointer"
-              >
-                Resetovat
-              </button>
-            )}
           </span>
         </div>
+      </div>
 
-        <div className="text-sm text-[var(--text-soft)]">
-          Zobrazeno {filtered.length} z {pullitry.length}
-        </div>
+      <div className="flex flex-wrap items-center gap-3 mb-6 pb-4 border-b border-[var(--border)]">
+        <span className="text-lg font-medium">
+          {filtered.length === pullitry.length
+            ? `${pullitry.length} ${pocetSuffix(pullitry.length)}`
+            : `${filtered.length} z ${pullitry.length}`}
+        </span>
+        {hasActiveFilters && (
+          <>
+            <span className="text-[var(--text-soft)]">·</span>
+            <div className="flex flex-wrap items-center gap-2">
+              {debouncedQuery && (
+                <ActiveChip
+                  label={`Hledání: „${debouncedQuery}"`}
+                  onRemove={() => {
+                    setQuery("");
+                    setDebouncedQuery("");
+                  }}
+                />
+              )}
+              {selZeme.map((kod) => {
+                const z = zeme.find((x) => x.kod === kod);
+                if (!z) return null;
+                return (
+                  <ActiveChip
+                    key={kod}
+                    label={`${z.nazev}`}
+                    onRemove={() => toggleZeme(kod)}
+                  />
+                );
+              })}
+              {selTyp.map((t) => (
+                <ActiveChip
+                  key={t}
+                  label={TYP_LABELS[t]}
+                  onRemove={() => toggleTyp(t)}
+                />
+              ))}
+              {selPivovar && pivovary && (
+                <ActiveChip
+                  label={pivovary.find((p) => p.id === selPivovar)?.nazev ?? "Pivovar"}
+                  onRemove={() => changePivovar("")}
+                />
+              )}
+            </div>
+            <button
+              type="button"
+              onClick={resetAll}
+              className="ml-auto text-sm text-[var(--accent)] hover:underline cursor-pointer"
+            >
+              Vyčistit vše
+            </button>
+          </>
+        )}
       </div>
 
       <PullitrGrid pullitry={filtered} priorityCount={4} />
     </div>
+  );
+}
+
+function pocetSuffix(n: number): string {
+  if (n === 1) return "půllitr";
+  if (n >= 2 && n <= 4) return "půllitry";
+  return "půllitrů";
+}
+
+function CheckIcon() {
+  return (
+    <svg
+      className="h-3.5 w-3.5"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="3"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden
+    >
+      <polyline points="20 6 9 17 4 12" />
+    </svg>
+  );
+}
+
+function ActiveChip({
+  label,
+  onRemove,
+}: {
+  label: string;
+  onRemove: () => void;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onRemove}
+      className="inline-flex items-center gap-1.5 rounded-full bg-[var(--surface)] border border-[var(--border)] px-3 py-1 text-sm hover:border-[var(--accent)] hover:text-[var(--accent)] transition cursor-pointer group"
+    >
+      <span>{label}</span>
+      <svg
+        className="h-3.5 w-3.5 text-[var(--text-soft)] group-hover:text-[var(--accent)]"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="2.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        aria-hidden
+      >
+        <line x1="18" y1="6" x2="6" y2="18" />
+        <line x1="6" y1="6" x2="18" y2="18" />
+      </svg>
+    </button>
   );
 }
