@@ -30,7 +30,6 @@ export type Zeme = {
 export type PullitrEnhanced = Pullitr & {
   imageUrl: string;
   isPlaceholder: boolean;
-  isNovy: boolean;
   pivovar: Pivovar | null;
   zemeInfo: Zeme;
 };

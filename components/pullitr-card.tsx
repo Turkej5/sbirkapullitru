@@ -25,11 +25,6 @@ export default function PullitrCard({
           unoptimized={pullitr.isPlaceholder}
           className="object-cover group-hover:scale-[1.03] transition-transform duration-300"
         />
-        {pullitr.isNovy && (
-          <span className="absolute top-2 left-2 rounded-full bg-red-600 text-white text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 shadow">
-            Nový
-          </span>
-        )}
         <ZemeFlag
           zeme={pullitr.zemeInfo}
           className="absolute top-2 right-2 text-xl drop-shadow"

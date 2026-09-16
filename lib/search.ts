@@ -33,9 +33,3 @@ export const TYP_LABELS: Record<string, string> = {
   reklamni: "Reklamní",
   akcni: "Ostatní",
 };
-
-export function isNovy(pridano: string, refDate = new Date()): boolean {
-  const added = new Date(pridano);
-  const diff = (refDate.getTime() - added.getTime()) / (1000 * 60 * 60 * 24);
-  return diff <= 30;
-}

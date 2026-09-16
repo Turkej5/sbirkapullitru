@@ -35,8 +35,6 @@ export function getAllPivovary(): Pivovar[] {
   return pivovaryRaw as Pivovar[];
 }
 
-const NOW = new Date();
-
 export function getAllPullitry(): PullitrEnhanced[] {
   const pivovary = getAllPivovary();
   const zeme = getAllZeme();
@@ -49,10 +47,7 @@ export function getAllPullitry(): PullitrEnhanced[] {
     if (!zemeInfo) {
       throw new Error(`Pullitr ${p.id} odkazuje na neexistující zemi: ${p.zeme}`);
     }
-    const added = new Date(p.pridano);
-    const isNovy =
-      (NOW.getTime() - added.getTime()) / (1000 * 60 * 60 * 24) <= 30;
-    return { ...p, imageUrl, isPlaceholder, isNovy, pivovar, zemeInfo };
+    return { ...p, imageUrl, isPlaceholder, pivovar, zemeInfo };
   });
 }
 
@@ -119,13 +114,6 @@ export function getPocetPivovaru(): number {
   const all = getAllPullitry();
   const ids = new Set(all.map((p) => p.pivovar_id).filter(Boolean));
   return ids.size;
-}
-
-export function getNejnovejsi(limit = 4): PullitrEnhanced[] {
-  return getAllPullitry()
-    .slice()
-    .sort((a, b) => b.pridano.localeCompare(a.pridano))
-    .slice(0, limit);
 }
 
 export function getSortedChronologicky(): PullitrEnhanced[] {

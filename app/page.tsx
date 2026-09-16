@@ -1,10 +1,8 @@
 import Link from "next/link";
 import HeroMap from "@/components/hero-map";
-import PullitrGrid from "@/components/pullitr-grid";
 import ZemeFlag from "@/components/zeme-flag";
 import {
   getCelkemKusu,
-  getNejnovejsi,
   getPocetZemi,
   getZemeWithCounts,
 } from "@/lib/data";
@@ -12,7 +10,6 @@ import {
 export default function Home() {
   const celkem = getCelkemKusu();
   const pocetZemi = getPocetZemi();
-  const nejnovejsi = getNejnovejsi(4);
   const zeme = getZemeWithCounts();
 
   return (
@@ -72,21 +69,6 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section>
-
-      <section className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-12 border-t border-[var(--border)]">
-        <div className="flex items-baseline justify-between gap-4 mb-6">
-          <h2 className="font-display text-2xl sm:text-3xl font-semibold">
-            Nejnovější přírůstky
-          </h2>
-          <Link
-            href="/sbirka"
-            className="text-sm font-medium text-[var(--accent)] hover:underline whitespace-nowrap"
-          >
-            Zobrazit všechny →
-          </Link>
-        </div>
-        <PullitrGrid pullitry={nejnovejsi} />
       </section>
 
       <section className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-12 border-t border-[var(--border)]">

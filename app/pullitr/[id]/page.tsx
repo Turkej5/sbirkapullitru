@@ -71,11 +71,6 @@ export default async function PullitrPage({
             unoptimized={p.isPlaceholder}
             className="object-cover"
           />
-          {p.isNovy && (
-            <span className="absolute top-3 left-3 rounded-full bg-red-600 text-white text-xs font-semibold uppercase tracking-wider px-3 py-1 shadow">
-              Nový
-            </span>
-          )}
         </div>
 
         <div>
