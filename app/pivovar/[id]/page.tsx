@@ -61,7 +61,7 @@ export default async function PivovarPage({
     : [];
 
   return (
-    <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-10">
+    <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-10">
       <nav className="mb-4 text-sm text-[var(--text-soft)]">
         <Link href="/sbirka" className="hover:text-[var(--accent)]">
           Sbírka
@@ -106,7 +106,7 @@ export default async function PivovarPage({
         )}
 
         {piv.popisek && (
-          <p className="text-[var(--text)] leading-relaxed max-w-prose text-lg">
+          <p className="text-[var(--text)] leading-relaxed text-lg">
             {piv.popisek}
           </p>
         )}
@@ -114,9 +114,11 @@ export default async function PivovarPage({
 
       {dlouheOdstavce.length > 0 && (
         <section className="mb-12">
-          <div className="space-y-4 leading-relaxed text-[var(--text)]">
+          <div className="leading-relaxed text-[var(--text)] lg:columns-2 lg:gap-10">
             {dlouheOdstavce.map((odstavec, i) => (
-              <p key={i}>{odstavec}</p>
+              <p key={i} className="mb-4 break-inside-avoid">
+                {odstavec}
+              </p>
             ))}
           </div>
         </section>
