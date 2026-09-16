@@ -17,7 +17,6 @@ export type Pivovar = {
   mesto?: string;
   popisek?: string;
   popisek_dlouhy?: string;
-  web?: string;
   rok_zalozeni?: number;
   zaniklo?: number;
 };

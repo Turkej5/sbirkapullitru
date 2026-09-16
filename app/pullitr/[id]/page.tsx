@@ -112,24 +112,12 @@ export default async function PullitrPage({
               {p.pivovar.popisek && (
                 <p className="leading-relaxed text-sm mb-4">{p.pivovar.popisek}</p>
               )}
-              <div className="mt-2 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm">
-                <Link
-                  href={`/pivovar/${p.pivovar.id}`}
-                  className="text-[var(--accent)] hover:underline"
-                >
-                  Detail pivovaru →
-                </Link>
-                {p.pivovar.web && (
-                  <a
-                    href={p.pivovar.web}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-[var(--accent)] hover:underline"
-                  >
-                    Web pivovaru ↗
-                  </a>
-                )}
-              </div>
+              <Link
+                href={`/pivovar/${p.pivovar.id}`}
+                className="mt-2 inline-block text-sm text-[var(--accent)] hover:underline"
+              >
+                Detail pivovaru →
+              </Link>
             </div>
           ) : (
             <div className="rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">

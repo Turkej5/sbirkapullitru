@@ -110,17 +110,6 @@ export default async function PivovarPage({
             {piv.popisek}
           </p>
         )}
-
-        {piv.web && (
-          <a
-            href={piv.web}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="mt-4 inline-flex items-center gap-1 text-[var(--accent)] hover:underline"
-          >
-            Web pivovaru ↗
-          </a>
-        )}
       </div>
 
       {dlouheOdstavce.length > 0 && (
