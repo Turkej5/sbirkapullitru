@@ -1,7 +1,9 @@
 import { Suspense } from "react";
 import type { Metadata } from "next";
 import CollectionView from "@/components/collection-view";
+import JsonLd from "@/components/json-ld";
 import { getAllPullitry, getZemeWithCounts } from "@/lib/data";
+import { sbirkaJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Celá sbírka",
@@ -14,6 +16,7 @@ export default function SbirkaPage() {
   const zeme = getZemeWithCounts();
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-10">
+      <JsonLd data={sbirkaJsonLd(pullitry.length)} />
       <h1 className="font-display text-3xl sm:text-4xl font-semibold mb-2">
         Celá sbírka
       </h1>

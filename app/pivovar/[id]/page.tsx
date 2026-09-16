@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
+import JsonLd from "@/components/json-ld";
 import PullitrGrid from "@/components/pullitr-grid";
 import ZemeFlag from "@/components/zeme-flag";
 import {
@@ -10,6 +11,7 @@ import {
   getPullitryByPivovar,
   getZemeByKod,
 } from "@/lib/data";
+import { breadcrumbJsonLd, pivovarJsonLd } from "@/lib/seo";
 
 type Params = { id: string };
 
@@ -60,8 +62,20 @@ export default async function PivovarPage({
         .filter(Boolean)
     : [];
 
+  const breadcrumbs = [
+    { name: "Sbírka", url: "/sbirka" },
+    ...(zeme ? [{ name: zeme.nazev, url: `/zeme/${zeme.kod}` }] : []),
+    { name: piv.nazev, url: `/pivovar/${piv.id}` },
+  ];
+
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-10">
+      <JsonLd
+        data={[
+          pivovarJsonLd(piv, zeme, pullitry.length),
+          breadcrumbJsonLd(breadcrumbs),
+        ]}
+      />
       <nav className="mb-4 text-sm text-[var(--text-soft)]">
         <Link href="/sbirka" className="hover:text-[var(--accent)]">
           Sbírka

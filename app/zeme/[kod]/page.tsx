@@ -2,6 +2,7 @@ import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import CollectionView from "@/components/collection-view";
+import JsonLd from "@/components/json-ld";
 import ZemeFlag from "@/components/zeme-flag";
 import {
   getAllZeme,
@@ -10,6 +11,7 @@ import {
   getZemeByKod,
   getZemeWithCounts,
 } from "@/lib/data";
+import { breadcrumbJsonLd, zemeJsonLd } from "@/lib/seo";
 
 type Params = { kod: string };
 
@@ -43,8 +45,15 @@ export default async function ZemePage({
   const pullitry = getPullitryByZeme(z.kod);
   const zemeList = getZemeWithCounts();
   const pivovary = getPivovaryByZemeWithCounts(z.kod);
+  const breadcrumbs = [
+    { name: "Sbírka", url: "/sbirka" },
+    { name: z.nazev, url: `/zeme/${z.kod}` },
+  ];
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-10">
+      <JsonLd
+        data={[zemeJsonLd(z, pullitry.length), breadcrumbJsonLd(breadcrumbs)]}
+      />
       <div className="flex items-center gap-4 mb-2">
         <ZemeFlag zeme={z} className="text-5xl sm:text-6xl leading-none" />
         <div>

@@ -1,11 +1,13 @@
 import Link from "next/link";
 import HeroMap from "@/components/hero-map";
+import JsonLd from "@/components/json-ld";
 import ZemeFlag from "@/components/zeme-flag";
 import {
   getCelkemKusu,
   getPocetZemi,
   getZemeWithCounts,
 } from "@/lib/data";
+import { websiteJsonLd } from "@/lib/seo";
 
 export default function Home() {
   const celkem = getCelkemKusu();
@@ -14,6 +16,7 @@ export default function Home() {
 
   return (
     <div>
+      <JsonLd data={websiteJsonLd()} />
       <section className="relative overflow-hidden">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 pt-12 sm:pt-20 pb-16 grid lg:grid-cols-2 gap-12 items-center">
           <div>

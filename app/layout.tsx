@@ -6,6 +6,7 @@ import CookieBanner from "@/components/cookie-banner";
 import GoogleTagManager from "@/components/google-tag-manager";
 import { ThemeScript } from "@/components/theme-script";
 import { ConsentInit } from "@/components/consent-init";
+import { SITE_URL } from "@/lib/seo";
 import "./globals.css";
 
 const inter = Inter({
@@ -20,8 +21,6 @@ const fraunces = Fraunces({
   display: "swap",
   axes: ["opsz"],
 });
-
-const SITE_URL = "https://www.sbirkapullitru.cz";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

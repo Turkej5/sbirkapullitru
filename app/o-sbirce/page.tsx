@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import ContactForm from "@/components/contact-form";
+import JsonLd from "@/components/json-ld";
 import {
   getCelkemKusu,
   getPocetPivovaru,
   getPocetZemi,
 } from "@/lib/data";
+import { aboutJsonLd } from "@/lib/seo";
 
 const PROJEKTY = [
   {
@@ -42,6 +44,7 @@ export default function OSbircePage() {
   const pivovaru = getPocetPivovaru();
   return (
     <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 py-12">
+      <JsonLd data={aboutJsonLd()} />
       <h1 className="font-display text-4xl sm:text-5xl font-semibold mb-8">
         O sbírce
       </h1>

@@ -3,9 +3,11 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import Image from "next/image";
 import { TypBadge } from "@/components/badge";
+import JsonLd from "@/components/json-ld";
 import PullitrNavigation from "@/components/pullitr-navigation";
 import ZemeFlag from "@/components/zeme-flag";
 import { getAllPullitry, getPullitrById, getSortedChronologicky } from "@/lib/data";
+import { breadcrumbJsonLd, pullitrJsonLd } from "@/lib/seo";
 
 type Params = { id: string };
 
@@ -46,8 +48,15 @@ export default async function PullitrPage({
   const prev = all[(idx - 1 + all.length) % all.length];
   const next = all[(idx + 1) % all.length];
 
+  const breadcrumbs = [
+    { name: "Sbírka", url: "/sbirka" },
+    { name: p.zemeInfo.nazev, url: `/zeme/${p.zemeInfo.kod}` },
+    { name: p.nazev_zobrazovany, url: `/pullitr/${p.id}` },
+  ];
+
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-10">
+      <JsonLd data={[pullitrJsonLd(p), breadcrumbJsonLd(breadcrumbs)]} />
       <nav className="mb-6 text-sm text-[var(--text-soft)]">
         <Link href="/sbirka" className="hover:text-[var(--accent)]">
           Sbírka
