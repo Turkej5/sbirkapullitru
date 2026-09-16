@@ -98,7 +98,7 @@ export default async function PullitrPage({
           {p.pivovar ? (
             <div className="rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">
               <div className="text-sm text-[var(--text-soft)] mb-1">Pivovar</div>
-              <h2 className="font-display text-xl font-semibold mb-2">
+              <h2 className="font-display text-xl font-semibold mb-1">
                 <Link
                   href={`/pivovar/${p.pivovar.id}`}
                   className="hover:text-[var(--accent)]"
@@ -106,25 +106,35 @@ export default async function PullitrPage({
                   {p.pivovar.nazev}
                 </Link>
               </h2>
-              {p.pivovar.mesto && (
-                <div className="text-sm text-[var(--text-soft)] mb-3">
-                  {p.pivovar.mesto}
-                </div>
-              )}
+              <div className="text-sm text-[var(--text-soft)] mb-3">
+                {[p.pivovar.mesto, p.zemeInfo.nazev].filter(Boolean).join(", ")}
+              </div>
               {p.pivovar.popisek && (
-                <p className="leading-relaxed text-sm mb-3">{p.pivovar.popisek}</p>
+                <p className="leading-relaxed text-sm mb-4">{p.pivovar.popisek}</p>
               )}
-              <Link
-                href={`/pivovar/${p.pivovar.id}`}
-                className="text-sm text-[var(--accent)] hover:underline inline-block"
-              >
-                Zobrazit všechny půllitry tohoto pivovaru →
-              </Link>
+              <div className="mt-2 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm">
+                <Link
+                  href={`/pivovar/${p.pivovar.id}`}
+                  className="text-[var(--accent)] hover:underline"
+                >
+                  Detail pivovaru →
+                </Link>
+                {p.pivovar.web && (
+                  <a
+                    href={p.pivovar.web}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-[var(--accent)] hover:underline"
+                  >
+                    Web pivovaru ↗
+                  </a>
+                )}
+              </div>
             </div>
           ) : (
             <div className="rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">
               <p className="text-sm text-[var(--text-soft)]">
-                Reklamní nebo akční půllitr bez konkrétního pivovaru.
+                Reklamní nebo ostatní půllitr bez konkrétního pivovaru.
               </p>
             </div>
           )}

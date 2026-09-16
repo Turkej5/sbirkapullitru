@@ -6,11 +6,18 @@ import ZemeFlag from "@/components/zeme-flag";
 import {
   getAllPivovary,
   getPivovarById,
+  getPivovaryByZemeWithCounts,
   getPullitryByPivovar,
   getZemeByKod,
 } from "@/lib/data";
 
 type Params = { id: string };
+
+function skloneniKusu(n: number): string {
+  if (n === 1) return "kus";
+  if (n >= 2 && n <= 4) return "kusy";
+  return "kusů";
+}
 
 export async function generateStaticParams() {
   return getAllPivovary().map((p) => ({ id: p.id }));
@@ -40,6 +47,11 @@ export default async function PivovarPage({
   if (!piv) notFound();
   const pullitry = getPullitryByPivovar(piv.id);
   const zeme = getZemeByKod(piv.zeme);
+  const dalsiPivovary = zeme
+    ? getPivovaryByZemeWithCounts(zeme.kod)
+        .filter((p) => p.id !== piv.id)
+        .slice(0, 6)
+    : [];
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-10">
       <nav className="mb-4 text-sm text-[var(--text-soft)]">
@@ -90,6 +102,39 @@ export default async function PivovarPage({
         Půllitry ({pullitry.length})
       </h2>
       <PullitrGrid pullitry={pullitry} priorityCount={4} />
+
+      {zeme && dalsiPivovary.length > 0 && (
+        <section className="mt-16">
+          <div className="flex items-baseline justify-between mb-4">
+            <h2 className="font-display text-2xl font-semibold">
+              Další pivovary z této země
+            </h2>
+            <Link
+              href={`/zeme/${zeme.kod}`}
+              className="text-sm text-[var(--accent)] hover:underline"
+            >
+              Vše ze země →
+            </Link>
+          </div>
+          <ul className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            {dalsiPivovary.map((p) => (
+              <li key={p.id}>
+                <Link
+                  href={`/pivovar/${p.id}`}
+                  className="block rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4 hover:border-[var(--accent)] transition-colors"
+                >
+                  <div className="font-medium truncate">{p.nazev}</div>
+                  <div className="text-xs text-[var(--text-soft)] mt-1">
+                    {[p.mesto, `${p.pocet} ${skloneniKusu(p.pocet)}`]
+                      .filter(Boolean)
+                      .join(" · ")}
+                  </div>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
     </div>
   );
 }
