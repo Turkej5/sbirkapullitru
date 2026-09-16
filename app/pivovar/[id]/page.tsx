@@ -52,6 +52,14 @@ export default async function PivovarPage({
         .filter((p) => p.id !== piv.id)
         .slice(0, 6)
     : [];
+  const location = [piv.mesto, zeme?.nazev].filter(Boolean).join(", ");
+  const dlouheOdstavce = piv.popisek_dlouhy
+    ? piv.popisek_dlouhy
+        .split(/\n\s*\n/)
+        .map((o) => o.trim())
+        .filter(Boolean)
+    : [];
+
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-10">
       <nav className="mb-4 text-sm text-[var(--text-soft)]">
@@ -72,21 +80,37 @@ export default async function PivovarPage({
         {" / "}
         <span>{piv.nazev}</span>
       </nav>
+
       <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 sm:p-8 mb-10">
         <div className="flex items-center gap-3 mb-2">
           {zeme && <ZemeFlag zeme={zeme} className="text-2xl" />}
           <h1 className="font-display text-3xl sm:text-4xl font-semibold">
             {piv.nazev}
           </h1>
+          {piv.zaniklo && (
+            <span className="rounded-full border border-[var(--border)] text-[var(--text-soft)] text-xs uppercase tracking-wider px-2.5 py-1">
+              Zaniklý
+            </span>
+          )}
         </div>
-        <div className="text-[var(--text-soft)] mb-4">
-          {[piv.mesto, zeme?.nazev].filter(Boolean).join(", ")}
-        </div>
+
+        {location && (
+          <div className="text-[var(--text-soft)] mb-3">{location}</div>
+        )}
+
+        {(piv.rok_zalozeni || piv.zaniklo) && (
+          <div className="flex flex-wrap gap-x-5 gap-y-1 text-sm text-[var(--text-soft)] mb-4">
+            {piv.rok_zalozeni && <span>Založeno {piv.rok_zalozeni}</span>}
+            {piv.zaniklo && <span>Zaniklo {piv.zaniklo}</span>}
+          </div>
+        )}
+
         {piv.popisek && (
-          <p className="text-[var(--text)] leading-relaxed max-w-prose">
+          <p className="text-[var(--text)] leading-relaxed max-w-prose text-lg">
             {piv.popisek}
           </p>
         )}
+
         {piv.web && (
           <a
             href={piv.web}
@@ -98,6 +122,17 @@ export default async function PivovarPage({
           </a>
         )}
       </div>
+
+      {dlouheOdstavce.length > 0 && (
+        <section className="mb-12 max-w-prose">
+          <div className="space-y-4 leading-relaxed text-[var(--text)]">
+            {dlouheOdstavce.map((odstavec, i) => (
+              <p key={i}>{odstavec}</p>
+            ))}
+          </div>
+        </section>
+      )}
+
       <h2 className="font-display text-2xl font-semibold mb-4">
         Půllitry ({pullitry.length})
       </h2>

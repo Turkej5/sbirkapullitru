@@ -16,7 +16,10 @@ export type Pivovar = {
   zeme: string;
   mesto?: string;
   popisek?: string;
+  popisek_dlouhy?: string;
   web?: string;
+  rok_zalozeni?: number;
+  zaniklo?: number;
 };
 
 export type Zeme = {
