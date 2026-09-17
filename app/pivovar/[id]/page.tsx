@@ -146,10 +146,10 @@ export default async function PivovarPage({
       </div>
 
       {dlouheOdstavce.length > 0 && (
-        <section className="mb-12">
-          <div className="leading-relaxed text-[var(--text)] lg:columns-2 lg:gap-10">
+        <section className="mb-12 max-w-4xl">
+          <div className="leading-relaxed text-[var(--text)]">
             {dlouheOdstavce.map((odstavec, i) => (
-              <p key={i} className="mb-4 break-inside-avoid">
+              <p key={i} className="mb-4">
                 {odstavec}
               </p>
             ))}
