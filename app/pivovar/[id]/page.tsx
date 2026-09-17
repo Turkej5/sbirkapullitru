@@ -2,8 +2,10 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import JsonLd from "@/components/json-ld";
+import PivovarMap from "@/components/pivovar-map";
 import PullitrGrid from "@/components/pullitr-grid";
 import ZemeFlag from "@/components/zeme-flag";
+import { getCountryShape } from "@/lib/country-shapes";
 import {
   getAllPivovary,
   getPivovarById,
@@ -96,34 +98,51 @@ export default async function PivovarPage({
       </nav>
 
       <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 sm:p-8 mb-10">
-        <div className="flex items-center gap-3 mb-2">
-          {zeme && <ZemeFlag zeme={zeme} className="text-2xl" />}
-          <h1 className="font-display text-3xl sm:text-4xl font-semibold">
-            {piv.nazev}
-          </h1>
-          {piv.zaniklo && (
-            <span className="rounded-full border border-[var(--border)] text-[var(--text-soft)] text-xs uppercase tracking-wider px-2.5 py-1">
-              Zaniklý
-            </span>
-          )}
-        </div>
+        <div className="flex flex-col md:flex-row md:gap-8">
+          <div className="flex-1 min-w-0">
+            <div className="flex items-center gap-3 mb-2">
+              {zeme && <ZemeFlag zeme={zeme} className="text-2xl" />}
+              <h1 className="font-display text-3xl sm:text-4xl font-semibold">
+                {piv.nazev}
+              </h1>
+              {piv.zaniklo && (
+                <span className="rounded-full border border-[var(--border)] text-[var(--text-soft)] text-xs uppercase tracking-wider px-2.5 py-1">
+                  Zaniklý
+                </span>
+              )}
+            </div>
 
-        {location && (
-          <div className="text-[var(--text-soft)] mb-3">{location}</div>
-        )}
+            {location && (
+              <div className="text-[var(--text-soft)] mb-3">{location}</div>
+            )}
 
-        {(piv.rok_zalozeni || piv.zaniklo) && (
-          <div className="flex flex-wrap gap-x-5 gap-y-1 text-sm text-[var(--text-soft)] mb-4">
-            {piv.rok_zalozeni && <span>Založeno {piv.rok_zalozeni}</span>}
-            {piv.zaniklo && <span>Zaniklo {piv.zaniklo}</span>}
+            {(piv.rok_zalozeni || piv.zaniklo) && (
+              <div className="flex flex-wrap gap-x-5 gap-y-1 text-sm text-[var(--text-soft)] mb-4">
+                {piv.rok_zalozeni && <span>Založeno {piv.rok_zalozeni}</span>}
+                {piv.zaniklo && <span>Zaniklo {piv.zaniklo}</span>}
+              </div>
+            )}
+
+            {piv.popisek && (
+              <p className="text-[var(--text)] leading-relaxed text-lg">
+                {piv.popisek}
+              </p>
+            )}
           </div>
-        )}
 
-        {piv.popisek && (
-          <p className="text-[var(--text)] leading-relaxed text-lg">
-            {piv.popisek}
-          </p>
-        )}
+          {piv.lat != null &&
+            piv.lon != null &&
+            getCountryShape(piv.zeme) && (
+              <div className="mt-6 md:mt-0 md:w-64 md:flex-shrink-0">
+                <PivovarMap
+                  zemeKod={piv.zeme}
+                  lat={piv.lat}
+                  lon={piv.lon}
+                  mesto={piv.mesto}
+                />
+              </div>
+            )}
+        </div>
       </div>
 
       {dlouheOdstavce.length > 0 && (

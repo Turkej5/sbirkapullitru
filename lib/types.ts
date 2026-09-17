@@ -19,6 +19,8 @@ export type Pivovar = {
   popisek_dlouhy?: string;
   rok_zalozeni?: number;
   zaniklo?: number;
+  lat?: number;
+  lon?: number;
 };
 
 export type Zeme = {
