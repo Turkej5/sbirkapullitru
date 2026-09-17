@@ -10,6 +10,12 @@ export type Pullitr = {
   typ: TypPullitru;
 };
 
+export type PivovarFakt = {
+  ikona?: string;
+  label: string;
+  hodnota: string;
+};
+
 export type Pivovar = {
   id: string;
   nazev: string;
@@ -21,6 +27,7 @@ export type Pivovar = {
   zaniklo?: number;
   lat?: number;
   lon?: number;
+  fakta?: PivovarFakt[];
 };
 
 export type Zeme = {

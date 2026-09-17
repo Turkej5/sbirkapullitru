@@ -145,6 +145,36 @@ export default async function PivovarPage({
         </div>
       </div>
 
+      {piv.fakta && piv.fakta.length > 0 && (
+        <section className="mb-10">
+          <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {piv.fakta.map((f, i) => (
+              <li
+                key={i}
+                className="flex gap-4 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4"
+              >
+                {f.ikona && (
+                  <span
+                    className="text-2xl flex-shrink-0 leading-none mt-0.5"
+                    aria-hidden
+                  >
+                    {f.ikona}
+                  </span>
+                )}
+                <div className="min-w-0">
+                  <div className="text-xs uppercase tracking-wider text-[var(--text-soft)] mb-1">
+                    {f.label}
+                  </div>
+                  <div className="text-[var(--text)] leading-snug">
+                    {f.hodnota}
+                  </div>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       {dlouheOdstavce.length > 0 && (
         <section className="mb-12">
           <div className="leading-relaxed text-[var(--text)]">
