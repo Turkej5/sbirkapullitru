@@ -12,32 +12,32 @@
     "lon": 13.5989,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "Rok 1472, kdy je dům veden jako „Salzfertiger-Haus“ — sídlo obchodníka se solí."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Pivovarské právo",
         "hodnota": "Uděleno roku 1504 císařem Maxmiliánem I., „posledním rytířem“."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec vaření",
         "hodnota": "Provoz ukončen 1907 kvůli dopravní izolaci a konkurenci velkých hornorakouských pivovarů."
       },
       {
-        "ikona": "🏨",
+        "ikona": "budova",
         "label": "Dnes",
         "hodnota": "Bräugasthof Lobisser — historický hostinec, hotel a restaurace přímo u nábřeží."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Vlastník",
         "hodnota": "Rodina Lobisser–Höplinger spravuje objekt zhruba posledních 150 let."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "UNESCO",
         "hodnota": "Součást památky Dachstein-Salzkammergut zapsané na seznamu UNESCO."
       }
@@ -55,32 +55,32 @@
     "lon": 15.8432,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1999 postavil Hermann Nothdurfter varnu na odlehlém statku v Reith 72 u Markt Hartmannsdorfu."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Region",
         "hodnota": "Štýrský Vulkanland — vinařsko-ovocnářský kraj mezi Grazem a maďarskou hranicí."
       },
       {
-        "ikona": "⚗️",
+        "ikona": "laborator",
         "label": "Malá varna",
         "hodnota": "Kapacita pouhých 140 litrů na várku; sládek mladinu ručně míchá dřevěným pádlem."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Bio suroviny",
         "hodnota": "Výhradně bio-certifikované; slad převážně z hornorakouského Mühlviertelu."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Pale ale s chmelem Celeja, kukuřičný pilsner, bylinné pivo s pelyňkem, kávová edice Eule."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Nástupce",
         "hodnota": "Vedení převzal Samuel Nothdurfter, který pokračuje v původní řemeslné linii."
       }
@@ -98,32 +98,32 @@
     "lon": 13.4318,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1590 založil pivovar ve Schärdingu na řece Innu Leonard Lachmüller."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Jméno značky",
         "hodnota": "Podle bavorského sládka Michaela Kapsreitera (1834–1899), který podnik převzal v roce 1863."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Rodinné vlastnictví",
         "hodnota": "Rodina Kapsreiterů hospodařila v pivovaru téměř 120 let."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec provozu",
         "hodnota": "Kapsreiterův holding vyhlásil konkurz v roce 1986; výroba definitivně skončila v roce 2012."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Obnovení značky",
         "hodnota": "V roce 2013 značku, studnu i receptury získal sousední pivovar Baumgartner."
       },
       {
-        "ikona": "🐂",
+        "ikona": "zvire",
         "label": "Návrat býka",
         "hodnota": "V roce 2019 znovu spuštěna pod původní grafikou se symbolem býka („Stier“)."
       }
@@ -141,32 +141,32 @@
     "lon": 15.17,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Rok 1708, kdy vznikla varna zapsaná jako „Preuer auf der Stiegen“ v obci Siernau."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Pátá generace",
         "hodnota": "V rukou rodiny Schwarzů od roku 1890, dnes v pátém pokolení."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Nezávislost",
         "hodnota": "Člen sdružení Die Freien Brauer, evropského spolku rodinných pivovarů."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Roční výstav zhruba 195 000 hektolitrů; patří mezi největší zaměstnavatele Waldviertelu."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Místní suroviny",
         "hodnota": "Waldviertelský chmel a slad z místního ječmene; provoz má vlastní sladovnu."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Ocenění",
         "hodnota": "Karl Schwarz mladší získal v roce 2024 titul EY Entrepreneur of the Year v kategorii obchod."
       }
@@ -185,32 +185,32 @@
     "lon": 14.8452,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Rok 1904, kdy Brauerei Hans Moser vznikl ve Wolfsbergu v korutanském Lavantském údolí."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatel",
         "hodnota": "Hans Moser postavil pivovar na vodě z místních alpských potoků."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Hlavní styly",
         "hodnota": "Wolfsberger Märzen (spodně kvašený mnichovského typu), Spezial a později tmavý Dunkles."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec výroby",
         "hodnota": "Provoz definitivně ukončen v roce 1976 pod tlakem velkých rakouských skupin."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Areál",
         "hodnota": "Po zavření byl přestavěn na komerční prostory."
       },
       {
-        "ikona": "🎨",
+        "ikona": "kultura",
         "label": "Sběratelské dědictví",
         "hodnota": "Půllitry, litografované etikety a keramické zátky jsou vyhledávaným artiklem regionálních sběratelů."
       }
@@ -228,32 +228,32 @@
     "lon": 13.504,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Počátek vaření",
         "hodnota": "Roku 1842 začal v Zipfu vařit Friedrich Hofmann; várky odebírali místní hostinští."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Oficiální založení",
         "hodnota": "20. července 1858 koupil pivovar v dražbě vídeňský bankéř Franz Schaup za 19 500 zlatých."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Průmyslová éra",
         "hodnota": "Schaupové zavedli parní stroje, umělé chlazení a vlastní vlečku na Kaiserin-Elisabeth-Westbahn."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "KZ Redl-Zipf",
         "hodnota": "Za druhé světové války sloužily podzemní sklepy jako koncentrační podtábor, vězni montovali součástky raket V2."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Milionový výstav",
         "hodnota": "Po válce se produkce postupně vyšplhala až k milionu hektolitrů."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Součást Brau Union Österreich (od 1998); od 2003 patří pod skupinu Heineken."
       }
@@ -271,32 +271,32 @@
     "lon": 4.8809,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Tradice witbieru",
         "hodnota": "V roce 1758 měla obec s dvěma tisíci obyvatel na osmatřicet pivovarů, které vyvážely bílá piva."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Zánik tradice",
         "hodnota": "V roce 1957 zavřel poslední místní witbier-pivovar Tomsin; styl v regionu vymizel."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Obnovitel",
         "hodnota": "V roce 1966 postavil novou varnu bývalý zaměstnanec pivovaru a mlékař Pierre Celis."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Receptura",
         "hodnota": "Pšenice, koriandr a sušená kůra hořkého pomeranče (curaçao); 4,9 % alkoholu."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Po požáru 1985 vstoupil Interbrew; dnes patří pod koncern Anheuser-Busch InBev."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Světový etalon",
         "hodnota": "Značka se stala globálním etalonem stylu witbier."
       }
@@ -314,32 +314,32 @@
     "lon": 4.7084,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Kořeny",
         "hodnota": "Pivovar Den Hoorn („U rohu“) v Lovani je doložen od roku 1466."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Jméno značky",
         "hodnota": "Podle Sébastiena Artoise, který pivovar koupil v roce 1717."
       },
       {
-        "ikona": "⭐",
+        "ikona": "oceneni",
         "label": "První várka Stelly",
         "hodnota": "Říjen 1925 pod krycím označením „X“; do prodeje uvedena v lednu 1926 jako vánoční pivo."
       },
       {
-        "ikona": "💫",
+        "ikona": "oceneni",
         "label": "Význam jména",
         "hodnota": "„Stella“ latinsky hvězda — odkaz na betlémskou hvězdu."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2008 součást globálního koncernu AB InBev."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Receptura",
         "hodnota": "Sladovný ječmen, kukuřice, žatecký chmel (Saaz) a vlastní kvasnice; 5,2 % alkoholu."
       }
@@ -357,32 +357,32 @@
     "lon": 4.9078,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení opatství",
         "hodnota": "Roku 1152 jako premonstrátský klášter na břehu řeky Mázy poblíž Dinantu."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Vaření piva",
         "hodnota": "Klášter získal vlastní pivovar v roce 1240; pivo bylo bezpečnější než místní voda."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Pohromy",
         "hodnota": "Povodeň 1460, požár 1466, definitivní zavření kláštera státem 1809."
       },
       {
-        "ikona": "👨‍💼",
+        "ikona": "vlastnik",
         "label": "Návrat piva",
         "hodnota": "V roce 1952 uvedl opat Nys se sládkem Albertem Lootvoetem tmavé Leffe Brune."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Značku vaří AB InBev v lovaňském pivovaru; klášter dostává royalty za užívání jména."
       },
       {
-        "ikona": "🏨",
+        "ikona": "budova",
         "label": "Návštěvnické centrum",
         "hodnota": "V Dinantu funguje Maison Leffe věnované klášterní historii a opatským pivům."
       }
@@ -400,32 +400,32 @@
     "lon": 16.0817,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "Rok 1609 v Moravských zemských deskách; majitelem byl Jiří z Náchoda."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Baron Dreher",
         "hodnota": "V roce 1882 koupil panství baron Anton Dreher, majitel největšího pivovaru monarchie ve Schwechatu."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec výroby",
         "hodnota": "Poslední várka uvařena 19. srpna 1977 kvůli nedostatku vody a zastaralé technologii."
       },
       {
-        "ikona": "🎬",
+        "ikona": "kultura",
         "label": "Postřižiny",
         "hodnota": "V květnu 1980 zde Jiří Menzel natočil film podle stejnojmenné Hrabalovy povídky."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Znovuobnovení",
         "hodnota": "19. srpna 2002 — přesně čtvrt století po ukončení výroby — se v Dalešicích znovu uvařilo pivo."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Dnešní výstav",
         "hodnota": "Roční výstav kolem 7 500 hektolitrů; hlavním produktem světlý ležák plzeňského typu."
       }
@@ -442,32 +442,32 @@
     "lon": 14.0887,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Historické kořeny",
         "hodnota": "V 16. století vařil ve Slaném měšťan Václav Antoš; jeho otec je doložen jako sladovník už roku 1518."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Přestávka",
         "hodnota": "Vlastní pivovarnictví ve Slaném bylo v 19. století přerušeno na více než 135 let."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Novodobé založení",
         "hodnota": "V roce 2010 obnovil pan Paulík pivovar v renesančním Modletickém domě ve Vinařického ulici 14."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Expanze",
         "hodnota": "V roce 2015 se výroba přesunula do většího provozu v Pražské ulici."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Současný majitel",
         "hodnota": "Od roku 2021 pivovar vedou Šárka a David Šrámkovi, dlouholetí pivovarníci z Budějovického Budvaru."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Suroviny",
         "hodnota": "Žatecký chmel a moravský ječný slad."
       }
@@ -485,32 +485,32 @@
     "lon": 14.1272,
     "fakta": [
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Diecézní dům kardinála Trochty v Litoměřicích, hned vedle dómu sv. Štěpána."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Historie budovy",
         "hodnota": "Původně z roku 1858 jako ústav pro hluchoněmé; po roce 1945 kněžský seminář."
       },
       {
-        "ikona": "⛪",
+        "ikona": "budova",
         "label": "Vznik pivovaru",
         "hodnota": "Rok 2015, otevření proběhlo ve spolupráci s Litoměřickou diecézí."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Suroviny",
         "hodnota": "Litoměřická voda, slad ze sladovny Ferdinand v Bochoři a žatecký chmel."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Samoobslužný výčep",
         "hodnota": "Každý stůl má vlastní kohout s odečítáním spotřeby — v Česku stále vzácný koncept."
       },
       {
-        "ikona": "🎯",
+        "ikona": "oceneni",
         "label": "Poslání",
         "hodnota": "Provoz podporuje aktivity diecéze a navazuje na tradici klášterních pivovarů."
       }
@@ -527,32 +527,32 @@
     "lon": 14.4213,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Původ",
         "hodnota": "Vzešel ze spojení dvou pražských pivních hospod — Kulového blesku ve Vršovicích a Zlých časů na Nuslích."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Sládek",
         "hodnota": "Američan Chris Baerwaldt, který se nikdy nenaučil česky — anglické jméno vzniklo doslovným překladem."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Létavý pivovar",
         "hodnota": "Dlouho vařil své recepty v pronajatých kapacitách jiných pivovarů."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Vlastní varna",
         "hodnota": "Otevřel v září 2021 v pražských Kobylisích v ulici U Kotelny."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Portfolio",
         "hodnota": "Klasický ležák, IPA, NEIPA, imperiální stouty i ovocné a kyselé speciály včetně gose a berliner weisse."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Inspirace",
         "hodnota": "Průkopník české craftové scény, hlásí se k britské a nizozemské pivní kultuře."
       }
@@ -570,32 +570,32 @@
     "lon": 14.4759,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Rok 1895 českými podnikateli v čele s Augustem Zátkou a Františkem Hromadou jako Český akciový pivovar."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "První sládek",
         "hodnota": "Antonín Holeček uvařil první várku na jaře 1895."
       },
       {
-        "ikona": "™️",
+        "ikona": "znamka",
         "label": "Ochranná známka",
         "hodnota": "Budvar jako zkratka celého jména zaregistrována v roce 1930."
       },
       {
-        "ikona": "⚖️",
+        "ikona": "spor",
         "label": "Spory o Budweiser",
         "hodnota": "Vedeny od roku 1907 s americkou skupinou Anheuser-Busch; ze 173 sporů vyhráno 120."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Czechvar",
         "hodnota": "V severní Americe prodává pivo pod tímto názvem — kvůli sporům o značku Budweiser."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Rekord",
         "hodnota": "V roce 2025 poprvé překonal roční výstav dva miliony hektolitrů."
       }
@@ -613,32 +613,32 @@
     "lon": 14.4743,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Právo várečné",
         "hodnota": "Budějovičtí měšťané ho získali už při založení města Přemyslem Otakarem II. roku 1265."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Historické rozdělení",
         "hodnota": "Dohoda z roku 1495: měšťané „červené“ pivo z ječného sladu, město „bílé“ pšeničné."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Budova",
         "hodnota": "Moderní pivovarská stavba, ve které se vaří dodnes, pochází z roku 1848."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Znárodnění",
         "hodnota": "Po roce 1948 součást národního podniku Jihočeské pivovary."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Prodej",
         "hodnota": "V roce 2014 koupila obě části americká skupina Anheuser-Busch — přímý konkurent Budějovického Budvaru."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Hlavní značky",
         "hodnota": "Samson v deseti-, jedenácti- a dvanáctistupňové variantě; B.B. Budweiser Bier pro export."
       }
@@ -656,32 +656,32 @@
     "lon": 14.1389,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Rok 1753, kdy pivovar ve Velkém Březně nechal postavit hrabě Ferdinand Bonaventura Harrach."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Modernizace",
         "hodnota": "Za hraběte Karla Chotka, českého místodržícího, prošel zásadní přestavbou."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Průkopník technologií",
         "hodnota": "V roce 1930 první provozovna v Československu s automatickým zátkovacím strojem."
       },
       {
-        "ikona": "⚙️",
+        "ikona": "vystavba",
         "label": "Historická varna",
         "hodnota": "Měděná varní pánev z roku 1933 je dodnes v provozu."
       },
       {
-        "ikona": "🎨",
+        "ikona": "kultura",
         "label": "„Severočeský dědek“",
         "hodnota": "Ochranná známka s podobiznou Viktora Cibicha používaná od roku 1906; nejportrétovanější Čech na světě."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Součást Heineken Česká republika od roku 2008."
       }
@@ -699,32 +699,32 @@
     "lon": 13.3974,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Založení",
         "hodnota": "24. ledna 1869 na schůzce v plzeňském hostinci U císaře rakouského."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatelé",
         "hodnota": "Mezi nimi Emil Škoda, Adolf Hýra a Martin Stelzer; akciová jistina milion zlatých."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "První pivo",
         "hodnota": "Prodáno 10. prosince 1870; už v roce 1872 se výstav vyšplhal na 70 000 hektolitrů."
       },
       {
-        "ikona": "™️",
+        "ikona": "znamka",
         "label": "Značka",
         "hodnota": "„Plzeňský Gambrinus“ registrován v roce 1919 — nahradil původní „Kaiserquell“."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2016 japonská skupina Asahi, dříve SABMiller (1999)."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Nejprodávanější",
         "hodnota": "Každé čtvrté pivo vypité v Česku nese jméno Gambrinus."
       }
@@ -741,32 +741,32 @@
     "lon": 16.1702,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení Primátoru",
         "hodnota": "8. dubna 1872 podle projektu pražského inženýra Josefa Vincence Nováka."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "První sládek",
         "hodnota": "Antonín Lutz uvařil první várky desetistupňového a jedenáctistupňového piva v říjnu 1873."
       },
       {
-        "ikona": "🕰️",
+        "ikona": "datum",
         "label": "Původní receptura",
         "hodnota": "Hron vychází z receptu z roku 1935; obnoven po téměř 80 letech."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Návrat značky",
         "hodnota": "Na trh se pivo Hron vrátilo v roce 2012."
       },
       {
-        "ikona": "🐎",
+        "ikona": "zvire",
         "label": "Jméno",
         "hodnota": "Podle rytíře Hrona, mýtického zakladatele města Náchoda."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Roční výstav Primátoru kolem 115 500 hektolitrů; v portfoliu přes 17 druhů piv."
       }
@@ -784,32 +784,32 @@
     "lon": 13.7704,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Královský pivovar",
         "hodnota": "Roku 1583 koupil pivovar Rudolf II. pro českou korunu; tradice dodávek na Pražský hrad."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "Rok 1581, kdy Jiří Bírka z Násilí nabídl pivovar Rudolfu II."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Šlechtičtí majitelé",
         "hodnota": "Valdštejnové od 1685, Fürstenbergové od 1733; oba rody modernizovali sladovnu."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Znárodnění",
         "hodnota": "15. listopadu 1945 na základě Benešových dekretů."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Německý kapitál",
         "hodnota": "V roce 1994 koupila německá Binding-Gruppe (později Radeberger)."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Vlastník",
         "hodnota": "Od roku 2007 součást skupiny Heineken Česká republika."
       }
@@ -827,32 +827,32 @@
     "lon": 14.5069,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Restaurace",
         "hodnota": "Školička vznikla v srpnu 1995 přestavbou budovy bývalé mateřské školy Na Prosečku v Praze 9."
       },
       {
-        "ikona": "🏫",
+        "ikona": "skolstvi",
         "label": "Interiér",
         "hodnota": "Vystaveny dobové fotografie a původní školní tabule z dob provozu školky."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Vznik minipivovaru",
         "hodnota": "Rok 2013; přestavba proběhla ve dvou fázích, druhá byla dokončena na začátku 2015."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Nabídka",
         "hodnota": "Světlá desítka a ležák, tmavá piva, pale ale, stout a pšeničná piva — 6 až 8 piv na čepu."
       },
       {
-        "ikona": "🏨",
+        "ikona": "budova",
         "label": "Kombinace",
         "hodnota": "Součástí areálu je pivnice, restaurace tradiční české kuchyně a malý penzion."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Poloha",
         "hodnota": "Hluboko v prosecké vilové zástavbě; působí spíš jako venkovský než pražský podnik."
       }
@@ -870,32 +870,32 @@
     "lon": 14.2093,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Rok 2012 v Zadní Třebani; založili Martin Kudláček a Pavel Bartůněk."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Sklepní prostory bývalého mlýna na říčce Berounce, zhruba 30 km jihozápadně od Prahy."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Sládek",
         "hodnota": "Pavel Bartůněk vaří klasické české pivo plzeňského typu."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Malá kapacita",
         "hodnota": "Objem várky 5 hektolitrů, roční výstav kolem 500 hektolitrů."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Piva",
         "hodnota": "Bobr 11° světlý, Bobr 12° polotmavý; sezónní Bobr 13° speciál."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Přerušení",
         "hodnota": "Provoz byl v srpnu 2026 dočasně přerušen; osud minipivovaru zůstává otevřený."
       }
@@ -913,32 +913,32 @@
     "lon": 15.5796,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Právo várečné",
         "hodnota": "Tehdejší Německý Brod ho získal už ve 14. století."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Novodobé založení",
         "hodnota": "18. října 1834, kdy právováreční měšťané zakoupili rytířský dům Bukovských — dnešní pivovarskou restauraci."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Znárodnění",
         "hodnota": "Po roce 1948 součást Horáckých pivovarů se sídlem v Jihlavě."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Restituce",
         "hodnota": "V roce 1995 se pivovar po sporech vrátil potomkům původních právovárečných měšťanů."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Jméno značky",
         "hodnota": "Rebel vznikl v roce 1964 jako tmavý čtrnáctistupňový speciál po Karlu Havlíčku Borovském."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Roční výstav kolem 84 tisíc hektolitrů; oceňován na European Beer Star."
       }
@@ -956,27 +956,27 @@
     "lon": 14.4743,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Uvedení",
         "hodnota": "V roce 2007 uvedl Budějovický Budvar Pardála jako výčepní ležák s výraznější hořkostí pro hospodské publikum."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vaří",
         "hodnota": "Budějovický Budvar, národní podnik — jeden z posledních větších pivovarů v Česku ve státním majetku."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Suroviny",
         "hodnota": "Žatecký chmel a kombinace plzeňského a karamelového sladu, který mu dodává charakteristický nádech."
       },
       {
-        "ikona": "👥",
+        "ikona": "osoba",
         "label": "Vývoj",
         "hodnota": "Při přípravě senzorického profilu zapojena skupina několika stovek konzumentů — na tehdejší dobu neobvyklé."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Varianty",
         "hodnota": "Pardál Echt (4,5 %), Pardál (3,8 %) a míšený nápoj s bezinkou Pardálovo Bezové."
       }
@@ -994,32 +994,32 @@
     "lon": 15.6967,
     "fakta": [
       {
-        "ikona": "⛰️",
+        "ikona": "svet",
         "label": "Umístění",
         "hodnota": "Horský hotel Luční bouda v nadmořské výšce 1 410 m n. m. — jeden z nejvýše položených pivovarů ve střední Evropě."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Založení",
         "hodnota": "Vaření piva zahájeno v roce 2012 v nejstarší horské chatě na krkonošských hřebenech."
       },
       {
-        "ikona": "🎖️",
+        "ikona": "oceneni",
         "label": "Slavnostní otevření",
         "hodnota": "Přišel tehdejší prezident Václav Klaus; jméno odkazuje k jelenu pohybujícímu se v okolí boudy."
       },
       {
-        "ikona": "💧",
+        "ikona": "voda",
         "label": "Voda",
         "hodnota": "Pramen Bílého Labe protékající pod boudou; horská voda s nízkým obsahem minerálů dodává pivům jemnější profil."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Světlý a polotmavý ležák, tmavé pivo, pšeničný speciál a svrchně kvašené styly typu IPA."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Uzavření",
         "hodnota": "Od června 2025 Luční bouda pro veřejnost uzavřena kvůli sporům s Krkonošským národním parkem."
       }
@@ -1038,32 +1038,32 @@
     "lon": 14.4103,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Založení",
         "hodnota": "V roce 1899 spolek Společenský pivovar pražských sládků — družstvo třinácti sládků a majitelů menších pražských pivovarů."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Otevření",
         "hodnota": "5. září 1900; sedm budov v secesně-modernistickém pojetí navrhl architekt Jan Herain."
       },
       {
-        "ikona": "🚢",
+        "ikona": "doprava",
         "label": "Vlastní přístav",
         "hodnota": "Před otevřením vyšehradského tunelu v roce 1903 provozoval vlastní přístav a dvě lodě rozvážející pivo po Praze."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Císařská návštěva",
         "hodnota": "V roce 1907 pivovar navštívil rakousko-uherský císař František Josef I."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec vaření",
         "hodnota": "Poslední várka v lednu 2007 při ročním výstavu 1,1 milionu hektolitrů; památková ochrana bránila modernizaci."
       },
       {
-        "ikona": "🎭",
+        "ikona": "kultura",
         "label": "Dnes",
         "hodnota": "Dům tanečního umění včetně Pražského komorního baletu a od roku 2016 samostatný minipivovar Moucha."
       }
@@ -1081,32 +1081,32 @@
     "lon": 15.6967,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První pivo",
         "hodnota": "3. července 2009 — první nově postavený průmyslový pivovar v novodobé české pivovarské historii."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Průmyslová ulice 1755, vstupní brána chotěbořské průmyslové zóny v Železných horách."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Technologie",
         "hodnota": "Klasická česká varna s dvourmutovým vařením, otevřené spilky a ležáky dozrávající minimálně 30 dní."
       },
       {
-        "ikona": "👩",
+        "ikona": "osoba",
         "label": "Sládková",
         "hodnota": "Za varnou stojí jedna z prvních žen v čele české průmyslové pivnice."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Z původních 10 000 hektolitrů vzrostl během několika let na zhruba 25 000 hektolitrů."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Distribuce",
         "hodnota": "Region i Praha, střední a jižní Čechy, Pardubicko, Královéhradecko, jižní Morava, Olomoucko a menší export."
       }
@@ -1124,32 +1124,32 @@
     "lon": 16.3578,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První várka",
         "hodnota": "7. dubna 2014 ve sklepních prostorách rodinného domu na Tišnovsku."
       },
       {
-        "ikona": "👥",
+        "ikona": "osoba",
         "label": "Zakladatelé",
         "hodnota": "Brňané Jiří Žák a Vítězslav Kopřiva, kteří se seznámili už v roce 1981 v Československé televizi Brno."
       },
       {
-        "ikona": "💿",
+        "ikona": "kultura",
         "label": "Kuriozita",
         "hodnota": "Kopřiva v roce 2000 vydal CD-ROM „Pivovary Čech, Moravy a Slezska“ mapující 50 českých pivovarů."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Kraj",
         "hodnota": "Doubravník patřil k pernštejnskému panství, okolí je znám gotickým kostelem Povýšení sv. Kříže."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Spodně kvašené ležáky stupňovitosti desítka až dvanáctka, doplněné sezónními speciály."
       },
       {
-        "ikona": "🏷️",
+        "ikona": "znamka",
         "label": "Motto",
         "hodnota": "„Pivo s tradicí“ — roční výstav v řádu stovek hektolitrů, distribuce v okolí Tišnovska."
       }
@@ -1167,32 +1167,32 @@
     "lon": 14.5077,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Otevření",
         "hodnota": "V srpnu 2013 v historickém domě na Křinickém náměstí v Krásné Lípě."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Předchůdce",
         "hodnota": "Brauerei Schönlinde založená 1878 Corneliusem Häuserem; provoz skončil po druhé světové válce, v 60. letech zbourán."
       },
       {
-        "ikona": "⛰️",
+        "ikona": "svet",
         "label": "Jméno",
         "hodnota": "Odkazuje na skalní hrad Falkenštejn u Jetřichovic a stejnojmenný pískovcový masiv v Saském Švýcarsku."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Světlý ležák Světák (4,5 %), polotmavý Ostroff (4,8 %), tmavý ležák (5,5 %) a American Pale Ale (5,1 %)."
       },
       {
-        "ikona": "🌿",
+        "ikona": "chmel",
         "label": "Speciály",
         "hodnota": "Měsíční série sahající od pšeničných po robustní tmavé; mezi surovinami se objevilo i konopí."
       },
       {
-        "ikona": "🏨",
+        "ikona": "budova",
         "label": "Rozšíření",
         "hodnota": "V roce 2017 provoz přesunut do sousedního „White House“; pivovarský penzion pojme 30 hostů."
       }
@@ -1210,32 +1210,32 @@
     "lon": 13.9589,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "V roce 1506 prodal Václav Zmrzlík ze Svojšína březnické panství i s pivovarem Zdeňku Malovcovi z Chejnova za 4 500 grošů."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Vlastníci",
         "hodnota": "Kolowratové-Krakowští od roku 1700 (jejich orlice zdobí etikety Heroldu dodnes), Pálffyové 1872–1945."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sladovna",
         "hodnota": "Barokní kulturní památka z roku 1720, dodnes dominantní budova areálu."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Požár",
         "hodnota": "V roce 1906 rozsáhlý požár zničil celé jedno křídlo areálu."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Mezinárodní uznání",
         "hodnota": "Britský pivní kritik Michael Jackson vybral Herold do své ročenky jako Beer of the Month."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Přerušení výroby",
         "hodnota": "Na začátku června 2025 pivovar přerušil výrobu; management hledá partnera pro obnovu provozu."
       }
@@ -1253,32 +1253,32 @@
     "lon": 16.9347,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První várka",
         "hodnota": "28. prosince 1874 v Hanušovicích; základní kámen položen na jaře 1873."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatel",
         "hodnota": "Sládek Josef Müllschitzký; místo si vybral pro blízkost železnice ze Šumperku do Jeseníku."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Vrchol",
         "hodnota": "Předválečné maximum 170 064 hektolitrů ve 30. letech; dnes cca 350 000 hl ročně."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Skupina",
         "hodnota": "Od druhé poloviny 20. století součást skupiny PMS Přerov spolu s pivovary Zubr a Litovel."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Značky",
         "hodnota": "Vlajkovou lodí je Holba Šerák (podle nejvyšší hory v okolí), Horské výčepní a Premium ležák."
       },
       {
-        "ikona": "🏷️",
+        "ikona": "znamka",
         "label": "Slogan",
         "hodnota": "„Ryzí pivo z hor“ — pracuje s vazbou na jesenickou krajinu a místní vodu."
       }
@@ -1295,32 +1295,32 @@
     "lon": 16.0489,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Privilegium",
         "hodnota": "V roce 1278 udělil římský král Rudolf I. Habsburský Znojmu várečné a mílové právo."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Původ jména",
         "hodnota": "Sládek Hostan zapsán ve znojemské „Losunkové knize“ z doby Karla IV. k roku 1363."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Dnešní pivovar",
         "hodnota": "Postaven městem počátkem 18. století vedle hradu; první várka roku 1720."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Vrchol",
         "hodnota": "V roce 1974 výstav 246 595 hektolitrů — hodnota, kterou se nikdy nepodařilo překonat."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2003 nizozemská skupina Heineken; před tím Starobrno a v roce 1993 privatizace."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec vaření ve Znojmě",
         "hodnota": "15. června 2009 Heineken definitivně ukončil vaření piva ve městě; značka Hostan se dnes vaří v Brně."
       }
@@ -1338,32 +1338,32 @@
     "lon": 15.5903,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Nejstarší zmínka",
         "hodnota": "3. května 1348, kdy Karel IV. zakázal magistrátu vaření piva ve vesnicích v okolí Jihlavy."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Právovárečné domy",
         "hodnota": "V roce 1748 stanovila Marie Terezie jejich definitivní počet na 123."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sjednocení",
         "hodnota": "V roce 1859 vložil sladovnický cech všech 123 práv do nového průmyslového pivovaru (otevřen 4. dubna 1861)."
       },
       {
-        "ikona": "⚙️",
+        "ikona": "vystavba",
         "label": "Kuriozita",
         "hodnota": "Pivovarské chladicí kompresory sloužily i k chlazení ledové plochy jihlavského zimního stadionu."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Privatizace",
         "hodnota": "V roce 1995 podnik získal Karl Schwarz z rakouského pivovaru Zwettl a investoval 270 milionů korun."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Dnešní vlastník",
         "hodnota": "Od konce roku 2008 K Brewery Group, později přejmenovaná na Pivovary Lobkowicz."
       }
@@ -1382,32 +1382,32 @@
     "lon": 14.9477,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Jméno",
         "hodnota": "Po cisterciáckém klášteře založeném ve druhé polovině 12. století, který byl v roce 1420 zpustošen husity."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "První pivo",
         "hodnota": "V roce 1570 uvařil Jiří Labouňský z Labouně, který zde tehdy začal stavět renesanční zámek."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Valdštejnové",
         "hodnota": "Panství přešlo po popravě Václava Budovce z Budova (1621) na Albrechta z Valdštejna; rod jej držel do roku 1945."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Modernizace",
         "hodnota": "V roce 1864 Valdštejnové postavili „jeden z nejmodernějších pivovarů své doby“; koncem 19. století patřil mezi sedm největších v českých zemích."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Požár",
         "hodnota": "V roce 1869 poznamenal areál rozsáhlý požár."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec vaření",
         "hodnota": "Na přelomu 2020/2021 pod skupinou Pivovary Lobkowicz definitivně ukončena výroba; značky se vaří jinde v rámci portfolia."
       }
@@ -1425,32 +1425,32 @@
     "lon": 14.6038,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Založení",
         "hodnota": "V roce 2008 ve Varnsdorfu jako první minipivovar Ústeckého kraje."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Technologie",
         "hodnota": "Infuzní rmutovací metoda pro svrchně kvašená piva — vědomě se vymezuje vůči české dekokční tradici."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Portfolio",
         "hodnota": "American Pale Ale, English Pale Ale, American IPA, stouty, saison, weizen i tradiční ležák Kocour 12°."
       },
       {
-        "ikona": "💪",
+        "ikona": "oceneni",
         "label": "Extrémní speciál",
         "hodnota": "Speciál 31° s alkoholem 12,3 %, monastický ale v belgickém stylu a tmavý svrchně kvašený s kávovými tóny."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Spolupráce",
         "hodnota": "Kouřová V3 Rauchbier ve spolupráci se slovenským Kalteneckerem a maďarským craft producentem."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Restaurace",
         "hodnota": "Od roku 2010 kulturní bod Varnsdorfska — pivní slavnosti, tap takeovery i hostování zahraničních sládků."
       }
@@ -1468,32 +1468,32 @@
     "lon": 14.4213,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Původní pivovar",
         "hodnota": "V Libni založil roku 1874 Albrecht Goldfinger; podle Karla Knoblocha (od 1880) se jmenoval."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec původního",
         "hodnota": "V roce 1928 v atmosféře konsolidace pražských pivovarů — desítky drobných provozů tehdy skončily."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Obnova",
         "hodnota": "Slavnostní spuštění 30. října 2014 v ulici Nad Kolčavkou; iniciativa party přátel s pivní vášní."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Dnešní sídlo",
         "hodnota": "Lihovarská ulice v bývalém industriálním areálu spolu s restaurací a galerií Beseder."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Portfolio",
         "hodnota": "Nefiltrovaná a nepasterizovaná piva v rozsahu 8° až 15° — od výčepních přes ležáky až po speciály."
       },
       {
-        "ikona": "🎨",
+        "ikona": "kultura",
         "label": "Koncept",
         "hodnota": "Řemeslné pivo, středomořská kuchyně a současné umění „pod jednou střechou“ v areálu bývalé libeňské továrny."
       }
@@ -1511,32 +1511,32 @@
     "lon": 15.0894,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Založení",
         "hodnota": "Slavnostní zahájení 24. ledna 1874 ve Vratislavicích nad Nisou; v prvním roce výstav 34 680 hektolitrů."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Císařská návštěva",
         "hodnota": "V roce 1891 přijel do pivovaru císař František Josef I."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Rekord",
         "hodnota": "V roce 1989 rekordní výstav 305 190 hektolitrů."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Uzavření",
         "hodnota": "25. května 1998 rozhodli zahraniční vlastníci o náhlém uzavření a hromadném propouštění."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Obnova",
         "hodnota": "V roce 2000 podnik koupila česká firma Hols a začala vařit pod novou značkou Konrad."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Ocenění",
         "hodnota": "Dvanáctka Konrad získala v roce 2013 první místo ve World Beer Awards ve své kategorii."
       }
@@ -1554,32 +1554,32 @@
     "lon": 15.9091,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Právo várečné",
         "hodnota": "Trutnov získal jako královské zástavní město právo vaření piva už v roce 1260."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Měšťanský pivovar",
         "hodnota": "V roce 1582 se právovárečníci sjednotili — v polovině 16. století vařilo pivo 149 domů s tímto právem."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Požáry",
         "hodnota": "Trutnov hořel celkem třináctkrát; v roce 1583 plameny během tří hodin strávily 180 domů."
       },
       {
-        "ikona": "🎭",
+        "ikona": "kultura",
         "label": "Kulturní odkaz",
         "hodnota": "V roce 1974 zde jako dělník pracoval Václav Havel — pobyt ho inspiroval k jednoaktové hře Audience."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Roční výstav přesahuje 100 000 hektolitrů; piva jsou nepasterizovaná a jen mikrobiologicky filtrovaná."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 1994 provozuje trutnovská společnost Krakonoš spol. s r.o."
       }
@@ -1597,32 +1597,32 @@
     "lon": 14.042,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Otevření",
         "hodnota": "9. října 2010 — návrat vlastního piva do Ústí nad Labem po více než 140 letech."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Předchůdce",
         "hodnota": "Poslední ústecký pivovar zanikl v roce 1867 v Dlouhé ulici, zastíněný většími provozy okolní aglomerace."
       },
       {
-        "ikona": "🏨",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Historická budova, kde stávala známá hospoda „U Hüblů“ v centru města."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Kolem 1 200 hektolitrů ročně; piva nefiltrovaná i nepasterovaná pro vlastní pivnici a hotel."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Ocenění",
         "hodnota": "Sládek Jaroslav Rottenborn získal Pivo roku 2011 i 2012 — v Ústí dosud jediný pivovar na absolutní špici."
       },
       {
-        "ikona": "🏨",
+        "ikona": "budova",
         "label": "Komplex",
         "hodnota": "Restaurace, hotel a pivnice — místní pivařské centrum a zastávka na turistické trase Labskou stezkou."
       }
@@ -1640,32 +1640,32 @@
     "lon": 16.6113,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Otevření",
         "hodnota": "V září 1992 v centru Brna — jeden z prvních minipivovarů v Česku po 1989, na Moravě první vůbec."
       },
       {
-        "ikona": "👥",
+        "ikona": "osoba",
         "label": "Zakladatelé",
         "hodnota": "Bratři Oto a Kamil Rinchenbacherovi zprovoznili pivovar, restauraci i hotelovou část."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Měšťanský dům se základy ze 14. století poblíž kostela svatého Jakuba, v památkové rezervaci."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Varna",
         "hodnota": "Měděné kotle jsou celé vidět od stolů restaurace; technologii dodala německá Caspary-Schulz-Ziemann."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Světlý ležák 12°, Oatmeal Stout 13° s ovsem, Pegas Gold 16° a Pšeničné pivo 12° podávané s citronem."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Archeologie",
         "hodnota": "Při rekonstrukci nalezeno razidlo na brakteáty z doby Václava II. (přelom 13. a 14. století)."
       }
@@ -1683,32 +1683,32 @@
     "lon": 14.2178,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "29. listopadu 1540 předal Jan z Pernštejna protivínské panství s pivovarem Ondřeji Ungnadovi."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Schwarzenbergové",
         "hodnota": "Od roku 1711 v držení rodu Schwarzenbergů — déle než dvě století."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Netypické kotle",
         "hodnota": "Čtvercové měděné kotle; nejstarší funkční varní kotel v celém Česku pochází z roku 1928 od československé ČKD."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Rozmach",
         "hodnota": "Kolem roku 1902 produkce 147 745 hektolitrů; sklady v Praze, Vídni, Terstu, Záhřebu, Berlíně i New Yorku."
       },
       {
-        "ikona": "🌳",
+        "ikona": "chmel",
         "label": "Jméno",
         "hodnota": "Platan odkazuje k platanovému stromořadí kolem pivovaru; značka se používá od roku 1974."
       },
       {
-        "ikona": "🦞",
+        "ikona": "zvire",
         "label": "Signální raci",
         "hodnota": "Monitorují kvalitu vody — při zhoršení se jim mění srdeční frekvence i chování a systém funguje jako přírodní alarm."
       }
@@ -1726,32 +1726,32 @@
     "lon": 16.1623,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Založení",
         "hodnota": "Základní kámen položen 8. dubna 1872 v Náchodě; projekt vypracoval Ing. Josef Vincenc Novák."
       },
       {
-        "ikona": "™️",
+        "ikona": "znamka",
         "label": "Ochranná známka",
         "hodnota": "„Náchodský Primátor“ zaregistrována 30. prosince 1935 pro tmavou dvanáctku bavorského typu."
       },
       {
-        "ikona": "💪",
+        "ikona": "oceneni",
         "label": "Nejsilnější v Česku",
         "hodnota": "Primátor Double 24° z roku 1999 — dodnes nejsilnější pivo vyráběné v České republice."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Ocenění",
         "hodnota": "Weizenbier získal v roce 2013 titul nejlepšího pšeničného piva světa na World Beer Awards v Londýně."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Kolem 124 000 hektolitrů ročně, portfolio čítá 18 druhů piva plus sezónní speciály."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Export",
         "hodnota": "Do více než 30 zemí, především Polsko, Francie a Čína."
       }
@@ -1769,32 +1769,32 @@
     "lon": 15.1473,
     "fakta": [
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatel",
         "hodnota": "Ferdinand Xaver Unger, pojizerský obchodník sklem přezdívaný „král sklářství“."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Otevření",
         "hodnota": "V roce 1850, čtyři roky po povolení stavby; zakladatel se otevření nedožil kvůli epidemii tyfu."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Modernost",
         "hodnota": "Jeden z prvních parostrojních pivovarů v českých zemích."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Šlechtictví",
         "hodnota": "Syn Karel Augustin Unger dovedl pivovar k rozmachu a v roce 1872 byl za zásluhy povýšen do šlechtického stavu."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Kolem tuctu druhů — světlé a tmavé ležáky, výčepní, speciály (vlajkový Skalák a 13° speciál), radlery a limonády."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Region",
         "hodnota": "Prodává se především v Libereckém a Královéhradeckém kraji a v Českém ráji, kde patří k nejsilnějším regionálním značkám."
       }
@@ -1812,32 +1812,32 @@
     "lon": 15.9155,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První pivo",
         "hodnota": "12. prosince 1913 — poslední pivovar postavený v Čechách před dlouhou stavební pauzou (dalšími byly až Nošovice a Most)."
       },
       {
-        "ikona": "👥",
+        "ikona": "osoba",
         "label": "Založení",
         "hodnota": "V roce 1912 Sdružení místních podnikatelů založilo Společenský pivovar v Hlinsku."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Modernita",
         "hodnota": "Na svou dobu vyspělý provoz: elektrický pohon, varna o kapacitě 100 hektolitrů, meziválečný výstav cca 25 000 hl."
       },
       {
-        "ikona": "™️",
+        "ikona": "znamka",
         "label": "Vznik značky",
         "hodnota": "Jméno Rychtář se poprvé objevilo na etiketě dvanáctky v roce 1981; postupně nahradilo celý sortiment i jméno pivovaru."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "V září 2008 podnik získala skupina Pivovary Lobkowicz."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Přes 80 000 hektolitrů ročně; klasická technologie bez pasterizace, ošetření mikrofiltry."
       }
@@ -1855,32 +1855,32 @@
     "lon": 14.4742,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Privilegium",
         "hodnota": "Přemysl Otakar II. udělil Českým Budějovicím várečná práva už roku 1265."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1795 spojili právováreční měšťané Malý a Velký (Bílý) pivovar do jednoho podniku."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Nový areál",
         "hodnota": "V roce 1848 se výroba přesunula do nového areálu na Linecké předměstí, kde stojí dodnes."
       },
       {
-        "ikona": "🦁",
+        "ikona": "zvire",
         "label": "Jméno Samson",
         "hodnota": "Oficiálně od roku 1960 podle barokní sochy Samsona krotícího lva na náměstí Přemysla Otakara II."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2014 americká skupina Anheuser-Busch InBev."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Kolem 90 000 hektolitrů ročně; hlavní značky Samson 10, 11 a 12."
       }
@@ -1898,32 +1898,32 @@
     "lon": 14.8747,
     "fakta": [
       {
-        "ikona": "🎓",
+        "ikona": "skolstvi",
         "label": "Provozovatel",
         "hodnota": "Katedra technologických zařízení staveb Technické fakulty České zemědělské univerzity v Praze."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Otevřen",
         "hodnota": "Roku 2006 v areálu univerzitního kampusu ČZU v Praze-Suchdole."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Kapacita",
         "hodnota": "10 hektolitrů na várku — jeden z největších univerzitních pivovarů v Česku."
       },
       {
-        "ikona": "🔬",
+        "ikona": "laborator",
         "label": "Účel",
         "hodnota": "Výuka a experimentální práce, ne komerční výroba; laboratoř pro závěrečné práce."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Roční výstav",
         "hodnota": "Zhruba 300 hektolitrů světlého, polotmavého a tmavého ležáku."
       },
       {
-        "ikona": "🎵",
+        "ikona": "kultura",
         "label": "Jméno",
         "hodnota": "Odkazuje k Suchdolu a lidové písni „Náš táta Jeníček“."
       }
@@ -1941,32 +1941,32 @@
     "lon": 15.0525,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1564 jako součást tvrze, kterou stavěl Adam z Vartemberka pro svého syna Jaroslava."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Rohanové",
         "hodnota": "Od roku 1820 patřil pivovar knížeti Karlu Alainu Gabrielu Rohanovi; rod ho držel bezmála sto let."
       },
       {
-        "ikona": "🔄",
+        "ikona": "zmena",
         "label": "Obnova",
         "hodnota": "Zlom nastal v roce 1998; nové vedení Romana Havlíka pivovar postupně vzkřísilo z hrozby uzavření."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Pivovar roku",
         "hodnota": "V roce 1999 získal Pivovar roku od pivních konzumentů."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Vlajkové pivo",
         "hodnota": "Jedenáctistupňový Svijanský Máz; doplňují ho Rytíř, Kníže a řada speciálů."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Kolem 600 tisíc hektolitrů ročně, distribuce po celé republice."
       }
@@ -1984,32 +1984,32 @@
     "lon": 15.809,
     "fakta": [
       {
-        "ikona": "🥁",
+        "ikona": "kultura",
         "label": "Jméno",
         "hodnota": "Odkazuje k historickému symbolu Dvora Králové — bubeníkovi (tamborovi)."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Otevřen",
         "hodnota": "28. února 2009, přesně 30 let po zániku původního městského (Klazarova) pivovaru."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatel",
         "hodnota": "Podnikatel Nasik Kiriakovský."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Bývalá provazárna Recina se studnou v kojenecké kvalitě sahající do 130 metrů."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Ocenění",
         "hodnota": "Řada cen na Dočesné v Žatci; certifikát Regionální produkt Podkrkonoší."
       },
       {
-        "ikona": "🎭",
+        "ikona": "kultura",
         "label": "Kulturní projekt",
         "hodnota": "Vaří pivo pro evropská turné divadla Bratři Formani."
       }
@@ -2028,27 +2028,27 @@
     "lon": 15.8328,
     "fakta": [
       {
-        "ikona": "🏗️",
+        "ikona": "vystavba",
         "label": "Stavba",
         "hodnota": "1844–1846 podle projektu architekta Jana Bělského poblíž Pražského předměstí Hradce Králové."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První pivo",
         "hodnota": "Roku 1846; ve 20. století patřil k významným výrobcům Královéhradeckého kraje."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Značky",
         "hodnota": "Královský lev, Votrok, Hradecký lev a Královská desítka."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec vaření",
         "hodnota": "V letech 2005–2007 při rozsáhlé rekonstrukci areálu."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Dnes",
         "hodnota": "Regiocentrum Nový pivovar — sídlo Krajského úřadu Královéhradeckého kraje."
       }
@@ -2066,32 +2066,32 @@
     "lon": 17.4487,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Privilegium",
         "hodnota": "Právo várečné získal Přerov roku 1252 od krále Přemysla Otakara II."
       },
       {
-        "ikona": "🐂",
+        "ikona": "zvire",
         "label": "Symbol",
         "hodnota": "Zubří hlava ze znaku města, součást přerovské identity od pernštejnské doby (Vilém z Pernštejna, 1480)."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1872 jako První moravský akciový pivovar se sladovnou v Přerově."
       },
       {
-        "ikona": "🤝",
+        "ikona": "vlastnik",
         "label": "Fúze",
         "hodnota": "V roce 2001 se spojil s pivovary Litovel a Holba do skupiny Pivovary Litovel-Zubr."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2023 součást české nápojářské skupiny Kofola."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Kolem 280 000 hektolitrů ročně; portfolio Classic, Gold, Grand, Premium, Gradus, Maxxim a Free."
       }
@@ -2108,32 +2108,32 @@
     "lon": 14.3809,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Vznik",
         "hodnota": "V roce 2005 jako K Brewery Group; do 2012 sdružovala sedm českých regionálních pivovarů."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Portfolio pivovarů",
         "hodnota": "Platan Protivín, Uherský Brod, Ježek Jihlava, Klášter, Rychtář Hlinsko, Vysoký Chlumec a Černá Hora."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Čínský vstup",
         "hodnota": "V září 2015 získala 79,36 % skupina CEFC China Energy za 1,9 miliardy Kč."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Krize",
         "hodnota": "Po krachu čínské CEFC přesahovaly závazky dcery Lapasan majetek o 1,8 miliardy Kč."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Vysoký Chlumec",
         "hodnota": "Mateřský pivovar doložený od 1466 patřil lounské větvi Lobkowiczů od roku 1474."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Ukončení",
         "hodnota": "V roce 2021 skončila výroba ve Vysokém Chlumci kvůli covidu a rostoucím nákladům."
       }
@@ -2151,32 +2151,32 @@
     "lon": 13.3844,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1842 plzeňskými právovárečníky, nespokojenými s kvalitou tehdy vařeného piva."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "První várka",
         "hodnota": "5. října 1842 uvařil bavorský sládek Josef Groll první spodně kvašený světlý ležák."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Světový etalon",
         "hodnota": "Pilsnerový styl dnes tvoří přes dvě třetiny světové produkce piva."
       },
       {
-        "ikona": "™️",
+        "ikona": "znamka",
         "label": "Ochranná známka",
         "hodnota": "„Pilsner Bier — Plzeňské pivo“ registrována 1859, „Pilsner Urquell“ 1898."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Znárodnění",
         "hodnota": "13. září 1946 pivovar převzal stát; akciovou společností se stal 1. září 1994."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2017 japonská skupina Asahi Breweries (koupě za 7,3 miliardy eur)."
       }
@@ -2194,32 +2194,32 @@
     "lon": 18.4282,
     "fakta": [
       {
-        "ikona": "🏗️",
+        "ikona": "vystavba",
         "label": "Stavba",
         "hodnota": "Vznikl v letech 1966–1970 v podhůří Beskyd na úpatí hory Radhošť."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První várka",
         "hodnota": "3. prosince 1970 — pivovar vyřešil nedostatek piva na severní Moravě."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Jméno",
         "hodnota": "Podle slovanské pověsti — pohanský bůh hojnosti Radegast sídlící na Radhošti."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "První sládek",
         "hodnota": "Jaromír Franzl (1918–2013), šestý sládek slavné dynastie; prosadil výrazně hořký profil."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 1999 patří do Plzeňského Prazdroje, od 2017 do japonské skupiny Asahi."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Produkce",
         "hodnota": "V roce 2005 zhruba 2 133 000 hektolitrů ročně."
       }
@@ -2237,32 +2237,32 @@
     "lon": 15.3587,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Humpolecká tradice",
         "hodnota": "Vaření piva v Humpolci doloženo od roku 1597."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Založení",
         "hodnota": "26. října 1991 v malé privatizaci — koupili zadlužený pivovar určený k uzavření."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatelé",
         "hodnota": "Stanislav Bernard, Josef Vávra a Rudolf Šmejkal; cena v dražbě 52 milionů Kč."
       },
       {
-        "ikona": "🤝",
+        "ikona": "vlastnik",
         "label": "Partner",
         "hodnota": "Od července 2001 belgická rodinná skupina Duvel Moortgat s padesátiprocentním podílem."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Vlastní sladovna",
         "hodnota": "V Rajhradě u Brna — jedna z nejstarších dosud fungujících humnových sladoven na světě."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "V roce 2021 přes 350 tisíc hektolitrů, sortiment převážně nepasterizovaný."
       }
@@ -2280,32 +2280,32 @@
     "lon": 14.6951,
     "fakta": [
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatel",
         "hodnota": "Václav Neumann, rodák z Mělnického Vtelna a bývalý číšník, kuchař a hostinský."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Budova",
         "hodnota": "Vtelenský hostinec z roku 1756, původně sloužil jako židovská palírna."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Zahájení",
         "hodnota": "Minipivovar spustil oficiální provoz 17. února 2012."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Rodinný podnik",
         "hodnota": "Otec Václav řídí restauraci, starší syn vaří pivo, druhý syn v kuchyni, paní Alena obsluhuje."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Piva podle rodiny",
         "hodnota": "Václav 11°, Karel 12° pšeničné, Bivoj 13° tmavé, Adolf 14° speciál."
       },
       {
-        "ikona": "🍻",
+        "ikona": "pivo",
         "label": "Distribuce",
         "hodnota": "Především vlastní hospoda a vybrané podniky na Mělnicku a Mladoboleslavsku."
       }
@@ -2323,32 +2323,32 @@
     "lon": 13.926,
     "fakta": [
       {
-        "ikona": "💡",
+        "ikona": "laborator",
         "label": "Nápad",
         "hodnota": "Vznikl v roce 2010 v hlavě Ivana Husáka a jeho dvou synů; Husák je dlouholetý starosta obce."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Otevření",
         "hodnota": "Minipivovar slavnostně otevřen 29. září 2012."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Zlatá cihla",
         "hodnota": "V roce 2015 získal areál cenu Zlatá cihla za architekturu a rekonstrukci."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Styly",
         "hodnota": "Vedle ležáků IPA, wheat piva, stouty, sour piva a řada experimentálních speciálů."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Louny",
         "hodnota": "V roce 2016 vznikl větší provoz v bývalé tankové střelnici a kasárnách v Lounech."
       },
       {
-        "ikona": "🏘️",
+        "ikona": "budova",
         "label": "Komunitní centrum",
         "hodnota": "Součást komplexu s obecním úřadem, penzionem, obchodem, restaurací a kapličkou."
       }
@@ -2366,32 +2366,32 @@
     "lon": 16.5926,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Privilegium",
         "hodnota": "Právo várečné udělil Brnu král Václav I. už roku 1243."
       },
       {
-        "ikona": "⛪",
+        "ikona": "budova",
         "label": "Předchůdce",
         "hodnota": "Cisterciácký klášterní pivovar na Starém Brně; klášter založila 1323 královna Alžběta Rejčka."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Průmyslový pivovar",
         "hodnota": "V roce 1872 postavili židovští podnikatelé Josef Mandel a Hermann Hayek v ulici Hlinky."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Pivovar roku",
         "hodnota": "V roce 1998 získal titul Pivovar roku."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2003 nizozemský Heineken; v roce 2009 překročil výstav 1 milion hektolitrů."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Zelené pivo",
         "hodnota": "Tradičně vaří sezónní zelené pivo na Zelený čtvrtek."
       }
@@ -2409,32 +2409,32 @@
     "lon": 14.473,
     "fakta": [
       {
-        "ikona": "🏗️",
+        "ikona": "vystavba",
         "label": "Stavba",
         "hodnota": "V letech 1869–1871; iniciátoři Jan Kohout, Vilém Pick a Občanská záložna smíchovská."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První várka",
         "hodnota": "1. května 1871."
       },
       {
-        "ikona": "⚙️",
+        "ikona": "vystavba",
         "label": "Moderní pivovar",
         "hodnota": "Už v roce 1876 měl jednu z prvních stáčíren piva do lahví v monarchii, umělé chlazení a parní pohon."
       },
       {
-        "ikona": "™️",
+        "ikona": "znamka",
         "label": "Ochranná známka",
         "hodnota": "Registrována v roce 1911; do té doby se pivo prodávalo jednoduše jako smíchovské."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Molson Coors",
         "hodnota": "V roce 2012 získala pivovar kanadsko-americká Molson Coors za 2,65 miliardy eur."
       },
       {
-        "ikona": "🏙️",
+        "ikona": "budova",
         "label": "Postavení",
         "hodnota": "Druhý největší výrobce piva v Česku a poslední průmyslový pivovar v Praze."
       }
@@ -2452,32 +2452,32 @@
     "lon": 14.6391,
     "fakta": [
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatel",
         "hodnota": "V roce 1871 průmyslník a smíchovský starosta František Ringhoffer II."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První várka",
         "hodnota": "15. prosince 1874 uvařil sládek Přemysl Růžička."
       },
       {
-        "ikona": "🐐",
+        "ikona": "zvire",
         "label": "Znak s kozlem",
         "hodnota": "Podle legendy jej namaloval potulný francouzský malíř; oficiálně používaný od roku 1922."
       },
       {
-        "ikona": "🐐",
+        "ikona": "zvire",
         "label": "Živý kozel",
         "hodnota": "Od 30. let 20. století žije v pivovaru živý kozel; všichni se jmenují Old po prvním z nich."
       },
       {
-        "ikona": "🚛",
+        "ikona": "doprava",
         "label": "Prvenství",
         "hodnota": "V roce 1965 dodal světu vůbec první pivo ve speciálních tank-truckových cisternách."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "V roce 2002 SABMiller, od roku 2016 japonská skupina Asahi; export do ~30 zemí."
       }
@@ -2495,32 +2495,32 @@
     "lon": 14.4574,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Původní pivovar",
         "hodnota": "V roce 1893 na Královských Vinohradech, tehdy čtvrtém největším městě v českých zemích."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec původního",
         "hodnota": "Po znárodnění dekretem prezidenta z roku 1946 už výroba nebyla obnovena."
       },
       {
-        "ikona": "🔄",
+        "ikona": "zmena",
         "label": "Obnova",
         "hodnota": "V říjnu 2014 — přesně 120 let po první várce původního pivovaru."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Obnovitelé",
         "hodnota": "Bývalý novinář Jan Korselt (Reuters), právník Václav Hrabák a sládek František Richter."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Vlajkové ležáky",
         "hodnota": "Klasické české ležáky 11° a 12°; sesterská značka Károňská 9 z Káraného."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Kolem 7 tisíc hektolitrů ročně."
       }
@@ -2538,32 +2538,32 @@
     "lon": 15.0937,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Otevření",
         "hodnota": "V sobotu 24. ledna 1874; už v prvním roce dosáhl výstavu 34 680 hektolitrů."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Návštěva",
         "hodnota": "V roce 1891 pivovar navštívil rakouský císař František Josef I."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Zavření",
         "hodnota": "V květnu 1998 zahraniční majitel provoz zavřel."
       },
       {
-        "ikona": "🔄",
+        "ikona": "zmena",
         "label": "Značka Konrad",
         "hodnota": "Roku 2000 znovu spuštěn českými investory firmy Hols pod jménem Konrad (jméno Vratislav zůstalo původním majitelům)."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "World Beer Awards",
         "hodnota": "V roce 2013 získal Konrad první místo v kategorii Czech-style Lager v Londýně."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "V roce 2010 dosáhl 155 tisíc hektolitrů."
       }
@@ -2581,32 +2581,32 @@
     "lon": 14.0137,
     "fakta": [
       {
-        "ikona": "™️",
+        "ikona": "znamka",
         "label": "Vznik značky",
         "hodnota": "Registrována v roce 1967 v pivovaru v Krásném Březně (Ústí nad Labem)."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Předchůdce",
         "hodnota": "Historická značka Aussiger Bier — „Goldquell“ ústeckého měšťanského pivovaru."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2008 nizozemská skupina Heineken."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Přesun výroby",
         "hodnota": "V roce 2011 přesun do pivovaru Velké Březno; areál v Krásném Březně uzavřen."
       },
       {
-        "ikona": "🍾",
+        "ikona": "pivo",
         "label": "Plastové lahve",
         "hodnota": "V roce 2011 začal se Starobrnem jako první v Česku používat větší plastové lahve na pivo."
       },
       {
-        "ikona": "🍹",
+        "ikona": "pivo",
         "label": "Radlery",
         "hodnota": "Řada radlerů — většina nealkoholická, s příchutěmi jako brusinka–černý rybíz nebo grapefruit–rozmarýn."
       }
@@ -2624,32 +2624,32 @@
     "lon": 14.354,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínky",
         "hodnota": "Vaření piva v Úněticích doloženo od roku 1557; budova pivovaru stojí od roku 1710."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Zastavení",
         "hodnota": "Roku 1951 zcela zastavil provoz; budovy pak desítky let sloužily jako sklad."
       },
       {
-        "ikona": "🔄",
+        "ikona": "zmena",
         "label": "Vzkříšení",
         "hodnota": "V březnu 2010 získali areál manželé Tkadlecovi; první novodobá várka 15. května 2011."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Charakter",
         "hodnota": "Klasický vesnický pivovar — spodně kvašená piva bez pasterizace, podle tradiční receptury."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Kapacita",
         "hodnota": "Přibližně 14 tisíc hektolitrů ročně."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Únětická unce",
         "hodnota": "Vlastní místní měna, kterou lze proplácet pivo ve spřízněných hospodách."
       }
@@ -2666,32 +2666,32 @@
     "mesto": "Kostelec nad Černými lesy",
     "fakta": [
       {
-        "ikona": "🐖",
+        "ikona": "zvire",
         "label": "Charakter",
         "hodnota": "Vlajkový tmavý speciál 13° s výraznou vůní pražených a čokoládových sladů."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Původ",
         "hodnota": "Vaří ho pokusný minipivovar Šnajdr Černokosteleckého zájezdního pivováru od prosince 2013."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Historie",
         "hodnota": "Panský pivovar u zámku poprvé zmíněn v roce 1544; od roku 1623 patřilo panství knížatům z Liechtensteinu."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Požár",
         "hodnota": "Původní pivovar naproti zámku vyhořel v roce 1836; nová budova postavena 1837–1841."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Muzeum",
         "hodnota": "V roce 2001 zchátralý areál koupila firma Dej Bůh štěstí a vytvořila pivovarské muzeum."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Kulturní památka",
         "hodnota": "Historické strojní vybavení pivovaru je zapsáno v seznamu kulturních památek."
       }
@@ -2709,32 +2709,32 @@
     "lon": 14.4045,
     "fakta": [
       {
-        "ikona": "💡",
+        "ikona": "laborator",
         "label": "Nápad",
         "hodnota": "V roce 2016 v okruhu obchodu Království piva — pivotéky v secesním činžovním domě v Bubenči."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První várka",
         "hodnota": "Summer Ale 10° uvařil sládek Michal 29. srpna 2018."
       },
       {
-        "ikona": "🥇",
+        "ikona": "oceneni",
         "label": "Pražské prvenství",
         "hodnota": "První pražská čtvrť, která v novodobé historii získala zcela nový vlastní pivovar."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Přízemí secesního činžovního domu na místě bývalého Království piva."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Spodně i svrchně kvašená piva — desítka, jedenáctka, IPA, NEIPA, pale ale, stouty a sezónní speciály."
       },
       {
-        "ikona": "🍽️",
+        "ikona": "festival",
         "label": "Restaurace",
         "hodnota": "Doplňuje ji restaurace s klasickou českou kuchyní a shop s lahvovou nabídkou."
       }
@@ -2752,32 +2752,32 @@
     "lon": 16.5807,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "O pivu z Černé Hory dochována už z 16. července 1298."
       },
       {
-        "ikona": "⚔️",
+        "ikona": "spor",
         "label": "Templáři",
         "hodnota": "V roce 1308 uveden jako „Braxatorium Templariorum in Monte Nigro“; templářské spojení není prokazatelné."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Oficiální založení",
         "hodnota": "V roce 1530 jako majetek bratří Tase a Jaroslava Černohorských z Boskovic."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Znárodnění",
         "hodnota": "3. července 1948; nejprve pod Jihomoravské pivovary, později Pivovar Brno."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od 1. dubna 2010 součást skupiny Pivovary Lobkowicz."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Kolem 150 tisíc hektolitrů ročně; podle údajů z roku 2006 přes 158 tisíc hl."
       }
@@ -2795,32 +2795,32 @@
     "lon": 14.6769,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 2011 na zámku v Chotovinách u Tábora."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatel",
         "hodnota": "Sergej Mayzus, majitel zámku a pivovaru v ruském Gurjevsku."
       },
       {
-        "ikona": "🏰",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Klasicistní zámek z konce 18. století s vestavěnou varnou a restaurací."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Suroviny",
         "hodnota": "Výhradně žatecký chmel, chotovinská voda a klasické suroviny bez náhražek."
       },
       {
-        "ikona": "👨‍🍳",
+        "ikona": "osoba",
         "label": "Sládek",
         "hodnota": "Petr Adámek, původně vrchní správce zámku."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Roční výstav",
         "hodnota": "Nižší stovky hektolitrů — v roce 2015 činil 249 hl."
       }
@@ -2838,32 +2838,32 @@
     "lon": 15.7948,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Firma zaregistrována v březnu 2016, provoz spuštěn v říjnu 2017."
       },
       {
-        "ikona": "🎉",
+        "ikona": "festival",
         "label": "Slavnostní otevření",
         "hodnota": "„Open party“ proběhla 21. října 2017."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Památkově chráněný dům ve Filištínské ulici 34 v centru Chrudimi."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Startovní sada",
         "hodnota": "Světlý a tmavý ležák a red ale kolem 11-12 %."
       },
       {
-        "ikona": "🌶️",
+        "ikona": "chmel",
         "label": "Speciality",
         "hodnota": "Chilli ale, ovocná pšeničná piva a bylinné ležáky mezi experimenty."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Historická tradice",
         "hodnota": "Chrudimské právovárečné domy jsou uváděny už od 15. století."
       }
@@ -2881,32 +2881,32 @@
     "lon": 14.6429,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Pivovarské právo",
         "hodnota": "Uděleno 1560 zemskou vrchností 72 cvikovským měšťanům."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Uzavření",
         "hodnota": "1. ledna 1968 v rámci komunistické centralizace pivovarnictví."
       },
       {
-        "ikona": "🔨",
+        "ikona": "vystavba",
         "label": "Znovuotevření",
         "hodnota": "V listopadu 2014 po rekonstrukci majitele Jiřího Jakoubka."
       },
       {
-        "ikona": "🎉",
+        "ikona": "festival",
         "label": "Návštěvnost",
         "hodnota": "Slavnostního znovuotevření se zúčastnilo přes pět tisíc lidí."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Značky",
         "hodnota": "Ležák Klíč 12°, Luž 10° a Sklář 8° — jména podle vrcholů Lužických hor."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Ocenění",
         "hodnota": "Luž získala v roce 2015 titul 2. nejlepšího světlého výčepního piva v Česku."
       }
@@ -2923,32 +2923,32 @@
     "lon": 13.7461,
     "fakta": [
       {
-        "ikona": "🏰",
+        "ikona": "budova",
         "label": "Majitelé",
         "hodnota": "Rod Valdštejnů, kteří na duchcovském zámku hostili Casanovu."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Provoz",
         "hodnota": "Vrchnostenský pivovar existoval již v 19. století jako součást panství."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Historická zmínka",
         "hodnota": "Uváděn ve 20. letech 20. století vedle duchcovské plynárny a majolikárny."
       },
       {
-        "ikona": "📉",
+        "ikona": "konec",
         "label": "Pozemková reforma",
         "hodnota": "Roku 1922 zůstaly Adolfovi Valdštejnovi jen pivovary v Duchcově a Horním Litvínově."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Zánik",
         "hodnota": "Provoz byl ukončen v průběhu 20. století, značka Dux se z pivní mapy vytratila."
       },
       {
-        "ikona": "♻️",
+        "ikona": "zmena",
         "label": "Značka dnes",
         "hodnota": "Svijanská svatováclavská limitka Dux, bez historické vazby na duchcovský pivovar."
       }
@@ -2966,32 +2966,32 @@
     "lon": 14.3195,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Mílové právo",
         "hodnota": "Uděleno roku 1347 Petrem z Rožmberka městu Český Krumlov."
       },
       {
-        "ikona": "💧",
+        "ikona": "voda",
         "label": "Krčínův vodovod",
         "hodnota": "Postaven 1561 Jakubem Krčínem z Jelčan a Sedlčan; funguje dodnes."
       },
       {
-        "ikona": "🏰",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "V letech 1625-1630 přesunut do rožmberské zbrojnice Petra Voka."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Rody",
         "hodnota": "Eggenbergové (od 1622) a poté Schwarzenberkové (od 1719)."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Požár",
         "hodnota": "V roce 1869 zničil polovinu areálu, ta byla znovu vybudována."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Export",
         "hodnota": "Po roce 1993 do Jugoslávie, Itálie, JAR, Německa, Rakouska i Ruska."
       }
@@ -3009,32 +3009,32 @@
     "lon": 14.6908,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1872 postavila v Benešově měšťanská akciová společnost sladovnu i pivovar."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Slavný majitel",
         "hodnota": "Od jara 1887 arcivévoda František Ferdinand d'Este, pán konopišťského panství."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Přestavba",
         "hodnota": "V roce 1897 podle projektu Josefa Rosenberga ve stylu průmyslové secese."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Nejmodernější",
         "hodnota": "V době otevření byl označován za nejmodernější zařízení Rakouska-Uherska."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Kolem 25 000 hektolitrů ročně a vlastní sladovna produkuje 2 000 tun sladu."
       },
       {
-        "ikona": "⏳",
+        "ikona": "datum",
         "label": "Zrání",
         "hodnota": "Některé speciály zrají v ležáckých sklepech tradičně až 90 dní."
       }
@@ -3052,32 +3052,32 @@
     "lon": 15.0294,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "Rok 1457, pivovar založila rodina Košínových z Košína."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Habsburkové",
         "hodnota": "Od 1726 patřil Anně Marii Toskánské, v letech 1916-1918 přímo Karlu I."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Ukončení výroby",
         "hodnota": "Přesně po pěti stech letech od první zmínky, v roce 1957."
       },
       {
-        "ikona": "🔨",
+        "ikona": "vystavba",
         "label": "Obnovení",
         "hodnota": "Vaření definitivně obnoveno 2002 pod vedením Davida Hořejšího."
       },
       {
-        "ikona": "🌊",
+        "ikona": "voda",
         "label": "Povodně",
         "hodnota": "Rozvodněná Sázava pivovar zasáhla v letech 2002, 2006 a 2023."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Historická varna",
         "hodnota": "V provozu dodnes slouží měděné vaření z roku 1957."
       }
@@ -3095,32 +3095,32 @@
     "mesto": "Žamberk",
     "fakta": [
       {
-        "ikona": "🏙️",
+        "ikona": "budova",
         "label": "Původní značka",
         "hodnota": "Krátce zavedl 1995 Zámecký pivovar Břeclav pod jmény Kanec Desítka a Dvanáctka."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Skutečný domov",
         "hodnota": "Minipivovar Žamberk vznikl 1995 díky podnikateli Miloši Chmelanovi."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Průkopník",
         "hodnota": "Patnáctý minipivovar postavený firmou Intero Chmelan v Evropě."
       },
       {
-        "ikona": "🐗",
+        "ikona": "zvire",
         "label": "Etiketa",
         "hodnota": "Znak Žamberka (kanec v nábojnici) na etiketě od roku 1997."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Charakter",
         "hodnota": "Piva jsou nefiltrovaná, nepasterizovaná, s minimálními zbytky kvasnic."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Nájemce",
         "hodnota": "V letech 2000-2013 provoz vedl a stabilizoval Zdeněk Kalous."
       }
@@ -3139,27 +3139,27 @@
     "lon": 14.1318,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V lednu 2011 v zaklenutých sklepech bývalého secesního hotelu Labuť."
       },
       {
-        "ikona": "📍",
+        "ikona": "poloha",
         "label": "Sídlo",
         "hodnota": "Zítkova ulice 784/5 v historickém centru Litoměřic."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Nabídka",
         "hodnota": "Světlý a tmavý ležák 12° a svrchně kvašený ale 13° se sezónními speciály."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec provozu",
         "hodnota": "31. prosince 2021, po téměř jedenácti letech vaření."
       },
       {
-        "ikona": "♻️",
+        "ikona": "zmena",
         "label": "Dnes v prostorech",
         "hodnota": "Pivnice Rezavá pod projektem Labuť Garden s pivy jiných výrobců."
       }
@@ -3177,32 +3177,32 @@
     "lon": 13.8518,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Velikonoční pondělí 2009, první várkou byl tmavý speciál."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatel",
         "hodnota": "Martin Matuška s praxí od 1981 a předchozím působením ve Strahovském klášteře."
       },
       {
-        "ikona": "🌲",
+        "ikona": "chmel",
         "label": "Sídlo",
         "hodnota": "Obec Broumy uprostřed CHKO Křivoklátsko."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Bez zkratek",
         "hodnota": "Vaří se bez filtrace, pasterace, cukru, sirupů i chmelového extraktu."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Světové zlato",
         "hodnota": "Nefiltrovaný ležák Broumy získal zlato v kategorii Kellerbier na World Beer Cupu."
       },
       {
-        "ikona": "🎉",
+        "ikona": "festival",
         "label": "Broumyfest",
         "hodnota": "Roční festival profilovaný jako „vesnický Oktoberfest“ s pivem ze dřevěných sudů."
       }
@@ -3221,32 +3221,32 @@
     "lon": 14.3537,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Vznik",
         "hodnota": "Rok 2016, přestavba původní lochkovské hospody „Na Konci“."
       },
       {
-        "ikona": "📍",
+        "ikona": "poloha",
         "label": "Sídlo",
         "hodnota": "Okrajová část Prahy 5 Lochkov mezi Slivencem a Radotínem."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Piva",
         "hodnota": "Svrchně kvašené Álův ale 12° a Ipička 13°, spodně Lochkovská 11° a pšenka."
       },
       {
-        "ikona": "🤝",
+        "ikona": "vlastnik",
         "label": "Sesterské podniky",
         "hodnota": "Vlastní varna dodávala i do pražských restaurací Woker a Porto."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec vaření",
         "hodnota": "Rok 2020 pod tlakem covidových omezení pražských restaurací."
       },
       {
-        "ikona": "🍽️",
+        "ikona": "festival",
         "label": "Dnes",
         "hodnota": "Restaurace v Lochkově pokračuje dál i po ukončení výroby piva."
       }
@@ -3264,32 +3264,32 @@
     "lon": 15.515,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Založení",
         "hodnota": "Ustavující valná hromada 1. dubna 1870, první várka 25. července 1872."
       },
       {
-        "ikona": "🏗️",
+        "ikona": "vystavba",
         "label": "Stavba",
         "hodnota": "Podle plánů pražské firmy J. V. Novák, dochovaná v neogotickém stylu."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Bankrot",
         "hodnota": "V letech 2000-2001 pivovar zachránila společnost Isobuilding a.s."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Přes 20 000 hektolitrů ročně, přibližně 60 % míří na export."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Export",
         "hodnota": "Do Německa, Litvy, Polska, Švédska, Číny, Koreje, Izraele, USA i Kanady."
       },
       {
-        "ikona": "🌿",
+        "ikona": "chmel",
         "label": "Hemp Valley Beer",
         "hodnota": "Konopné pivo ve stálé nabídce spolu s ležáky Brouček, Kryštof a Kumburák."
       }
@@ -3307,32 +3307,32 @@
     "lon": 15.4315,
     "fakta": [
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Sklárna",
         "hodnota": "První zmínka 1712, patří k nejstarším nepřetržitě fungujícím sklárnám na světě."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Národní kulturní památka",
         "hodnota": "Sklárna Harrachov je jí od roku 1991."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Majitel",
         "hodnota": "František Novosad, vyučený sklář z Nového Boru, koupil areál 1. července 1993."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Minipivovar",
         "hodnota": "Zprovozněn v roce 2002 v areálu sklárny Novosad & syn."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Zlatá pivní pečeť",
         "hodnota": "Světlý ležák František opakovaně získal toto ocenění."
       },
       {
-        "ikona": "⚙️",
+        "ikona": "vystavba",
         "label": "Brusírna z 1895",
         "hodnota": "Francisova vodní turbína dodnes pohání původní stroje na broušení skla."
       }
@@ -3349,27 +3349,27 @@
     "mesto": "Židovice",
     "fakta": [
       {
-        "ikona": "🌹",
+        "ikona": "chmel",
         "label": "Jméno",
         "hodnota": "Pětilistá růže, znak Vítkovců a pánů z Hradce, dodnes ve znaku Jindřichova Hradce."
       },
       {
-        "ikona": "📍",
+        "ikona": "poloha",
         "label": "Původní sídlo",
         "hodnota": "Jindřichův Hradec, sídlo mocné vítkovské větve pánů z Hradce."
       },
       {
-        "ikona": "🚚",
+        "ikona": "doprava",
         "label": "Přesun",
         "hodnota": "Roku 2015 převzali provoz noví majitelé i s technologií a know-how."
       },
       {
-        "ikona": "📍",
+        "ikona": "poloha",
         "label": "Nové sídlo",
         "hodnota": "Židovice u Roudnice nad Labem (obec Hrobce, okres Litoměřice)."
       },
       {
-        "ikona": "🗺️",
+        "ikona": "svet",
         "label": "Neobvyklý přesun",
         "hodnota": "Značka si zachovala identitu, i když ji dělí přes 200 km od původního místa."
       }
@@ -3388,32 +3388,32 @@
     "lon": 15.7614,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Založení",
         "hodnota": "29. ledna 1871 městským výborem Pardubic; první várka 8. dubna 1872."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Pardubický Porter",
         "hodnota": "Zavedl 1890 sládek Alois Šimoník podle vlastní receptury; 19° tmavý speciál."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Jméno",
         "hodnota": "Odkazuje k rodině pánů z Pernštejna, kteří Pardubice koupili roku 1491."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Prodej",
         "hodnota": "V roce 2019 získala majoritní podíl (88,7 %) skupina Pivovary Staropramen."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec výroby",
         "hodnota": "31. března 2023, výroba přesunuta do Pivovaru Ostravar."
       },
       {
-        "ikona": "♻️",
+        "ikona": "zmena",
         "label": "Značka dnes",
         "hodnota": "Porter se vaří dál jinde ve skupině Staropramen; areál v likvidaci od září 2025."
       }
@@ -3431,32 +3431,32 @@
     "lon": 14.5807,
     "fakta": [
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Panský pivovar",
         "hodnota": "Vybudoval jej v letech 1749-1751 Václav Klement, baron von Saltza."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec původního provozu",
         "hodnota": "V roce 1936 při konsolidaci menších regionálních pivovarů."
       },
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "Novodobé otevření",
         "hodnota": "3. června 2016, přesně 80 let po zavření předchozího."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Kontinuita",
         "hodnota": "453 let po první doložené várce v Dolních Počernicích."
       },
       {
-        "ikona": "👨‍🍳",
+        "ikona": "osoba",
         "label": "Sládci",
         "hodnota": "Prvním byl Marcel Jelínek, od roku 2017 vaří David Urban."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Počernická 12°",
         "hodnota": "Rekonstruovaná podle původní receptury z 19. století."
       }
@@ -3474,32 +3474,32 @@
     "lon": 15.1191,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "Rok 1502, tradice trvala až do roku 1950."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Královské pivo",
         "hodnota": "V listinách vydaných v době Jiříka z Poděbrad (1458-1471)."
       },
       {
-        "ikona": "🚧",
+        "ikona": "vystavba",
         "label": "Před demolicí",
         "hodnota": "V 90. letech chátrající budova stála doslova čtrnáct dní před bouráním."
       },
       {
-        "ikona": "🔨",
+        "ikona": "vystavba",
         "label": "Záchrana",
         "hodnota": "V roce 1995 areál koupila a zrekonstruovala rodina Gebauerova."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Obnovení",
         "hodnota": "Značka obnovena 2013, první novodobá várka uvařena 2017."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Roční produkce",
         "hodnota": "Kolem 1 200 hektolitrů; točí se ve vlastní restauraci s 280 místy nad Labem."
       }
@@ -3517,32 +3517,32 @@
     "lon": 15.2192,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Várečné právo",
         "hodnota": "Pelhřimov jej získal roku 1552."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Průmyslový provoz",
         "hodnota": "Nová budova z let 1898-1899 se v ní vaří dodnes."
       },
       {
-        "ikona": "🚶",
+        "ikona": "osoba",
         "label": "Jméno",
         "hodnota": "Odkazuje k mnichu Pelegrínovi z pověsti o založení Pelhřimova."
       },
       {
-        "ikona": "💼",
+        "ikona": "vlastnik",
         "label": "Nečekaný majitel",
         "hodnota": "V privatizaci 2001 pivovar koupilo pelhřimovské družstvo DUP, výrobce manikúrových nůžek."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Portfolio",
         "hodnota": "Klasické nepasterované ležáky plzeňského typu 10°-14°."
       },
       {
-        "ikona": "🔄",
+        "ikona": "zmena",
         "label": "Rebranding",
         "hodnota": "V roce 2026 se přejmenoval na Pivovar Pelhřimov."
       }
@@ -3560,32 +3560,32 @@
     "lon": 17.1809,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Původní pivovar",
         "hodnota": "Založil 1870 podnikatel Julius Lichtwitz, první várka téhož roku."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec původního",
         "hodnota": "Ve 20. letech 20. století přestal být konkurenceschopný."
       },
       {
-        "ikona": "🔨",
+        "ikona": "vystavba",
         "label": "Znovuotevření",
         "hodnota": "V září 2011 jako rodinný restaurační minipivovar."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Jméno",
         "hodnota": "Podle Vincenze Priessnitze (1799-1851), jesenického zakladatele moderní vodoléčby."
       },
       {
-        "ikona": "🌿",
+        "ikona": "chmel",
         "label": "Lázeňský odkaz",
         "hodnota": "Priessnitzův ústav v Lázních Jeseník (Gräfenberk) proslavil město v 19. století."
       },
       {
-        "ikona": "👨‍🍳",
+        "ikona": "osoba",
         "label": "Sládek",
         "hodnota": "Stanislav Orel vaří klasická spodně kvašená piva českého typu."
       }
@@ -3603,32 +3603,32 @@
     "lon": 13.731,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Mílové právo",
         "hodnota": "Uděleno 1454 králem Ladislavem Pohrobkem."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Zlatý věk",
         "hodnota": "V 16. století zapsáno v cechovní knize až osm rakovnických pivovarů."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sídlo",
         "hodnota": "Dnešní pivovar vznikl kolem roku 1755 v původních kasárnách z doby Marie Terezie."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec provozu",
         "hodnota": "V roce 1997, vaření obnovili až noví majitelé v roce 2004."
       },
       {
-        "ikona": "🎓",
+        "ikona": "skolstvi",
         "label": "Značka Bakalář",
         "hodnota": "Odkazuje k bakaláři Jiřímu Pičkovi Píseckému, milovníku rakovnického piva doloženému 1588."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Export",
         "hodnota": "Velká část produkce (Černovar, Pražačka) míří do zahraničí."
       }
@@ -3646,32 +3646,32 @@
     "lon": 13.3775,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Říjen 2015 v plzeňské čtvrti Bolevec, začátky v pronajatých garážích."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatelé",
         "hodnota": "Ladislav Vrtiš a Filip Miller, sládek s praxí ze Sydney."
       },
       {
-        "ikona": "⭐",
+        "ikona": "oceneni",
         "label": "RateBeer",
         "hodnota": "Miller patří k českým rekordmanům s desítkami tisíc ohodnocených piv."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Prvenství",
         "hodnota": "Připisuje si první českou White IPA, Cream Porter a Pilsener Weisse."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Portfolio",
         "hodnota": "Za deset let pivovar uvařil přes stovku různých pivních stylů."
       },
       {
-        "ikona": "🏠",
+        "ikona": "budova",
         "label": "Vlastní bary",
         "hodnota": "Raven Pub Bolevec vedle pivovaru a Raven Pub City v centru Plzně."
       }
@@ -3689,27 +3689,27 @@
     "lon": 14.6605,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "Rok 1642, kdy Octavio Piccolomini zapověděl válečné rabování panství s pivovarem."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Zánik",
         "hodnota": "Mezi lety 1869 a 1877 byl objekt přeměněn na sladovnu, později lihovar."
       },
       {
-        "ikona": "👥",
+        "ikona": "osoba",
         "label": "Obnovitelé",
         "hodnota": "Bratři Martin a Jakub Kantorovi jako rodinný projekt zrozený v roce 2015."
       },
       {
-        "ikona": "🎉",
+        "ikona": "festival",
         "label": "Otevření",
         "hodnota": "V roce 2018 v prostorách bývalého panského dvora v Olivově ulici."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Přes patnáct druhů — American Blond Ale, klasické ležáky i Double IPA."
       }
@@ -3727,27 +3727,27 @@
     "lon": 17.6846,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Vznik",
         "hodnota": "V roce 2019 pod vedením Zdeňka Štokmana a družstva HelpSoul."
       },
       {
-        "ikona": "🤝",
+        "ikona": "vlastnik",
         "label": "Sociální rozměr",
         "hodnota": "Rozšíření pracovních příležitostí pro lidi se zdravotním omezením."
       },
       {
-        "ikona": "🏔️",
+        "ikona": "svet",
         "label": "Jméno",
         "hodnota": "Podle vrchu Tesák (777 m n. m.) v Hostýnských vrších na Kroměřížsku."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Kde se vaří",
         "hodnota": "Dnes v Měšťanském pivovaru v Kojetíně, jehož historie sahá do 16. století."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Distribuce",
         "hodnota": "Zlínský, Olomoucký a Moravskoslezský kraj."
       }
@@ -3765,32 +3765,32 @@
     "lon": 15.2147,
     "fakta": [
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Klášter",
         "hodnota": "Založen 1139 knížetem Soběslavem I., roku 1149 do něj přišli premonstráti ze Steinfeldu."
       },
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Vaření piva",
         "hodnota": "První zmínky ze 14. století, podrobný popis pivovaru pochází z roku 1617."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Santiniho přestavba",
         "hodnota": "Po požáru 1712 přestavěl areál Jan Blažej Santini-Aichel do barokně-gotického stylu."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec tradice",
         "hodnota": "Vaření definitivně přerušeno v roce 1907 po dalším velkém požáru."
       },
       {
-        "ikona": "⛓️",
+        "ikona": "spor",
         "label": "Internační tábor",
         "hodnota": "V letech 1950–1956 zde bylo drženo 464 kněží a řeholníků včetně pozdějšího kardinála Františka Tomáška."
       },
       {
-        "ikona": "🔄",
+        "ikona": "zmena",
         "label": "Obnova",
         "hodnota": "Kanonie premonstrátů znovu založila klášterní pivovar v roce 2016."
       }
@@ -3809,32 +3809,32 @@
     "lon": 10.1687,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Vznik",
         "hodnota": "1. června 1911 spojením tří pivovarů (Herz, Bilgram, Halder) v Memmingenu."
       },
       {
-        "ikona": "🔀",
+        "ikona": "zmena",
         "label": "Fúze",
         "hodnota": "V roce 1920 sloučení s Engelbrauerei Memmingen bratří Bilgramů do dnešní podoby."
       },
       {
-        "ikona": "🏗️",
+        "ikona": "vystavba",
         "label": "Nová varna",
         "hodnota": "Postavena 1977, při otevření označována za nejmodernější v Evropě."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Akvizice",
         "hodnota": "Alpkönig ve Weitnau (1986), Ulmer-Münster-Brauerei (2000)."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec",
         "hodnota": "1. dubna 2024 skončila výroba v Memmingenu po insolvenci."
       },
       {
-        "ikona": "🌱",
+        "ikona": "chmel",
         "label": "Dnes",
         "hodnota": "Areál v roce 2025 koupila švýcarská Planted, vyrábí zde rostlinné náhražky masa."
       }
@@ -3852,27 +3852,27 @@
     "lon": 9.6932,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1811 jako Brauerei Wohmann v obci Distelhausen, dnešní části Tauberbischofsheimu."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Rodina Bauerů",
         "hodnota": "Firma je v držení rodu od března 1876, kdy podnik převzal Ernst Bauer."
       },
       {
-        "ikona": "🚚",
+        "ikona": "doprava",
         "label": "Průkopník",
         "hodnota": "Od roku 1906 rozvážel pivo nákladními auty, v Německu tehdy zcela ojedinělé."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Z pár tisíc hektolitrů roku 1898 na zhruba 185 000 hektolitrů v roce 2015."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Sedmá generace",
         "hodnota": "Od roku 2023 vede firmu Moritz Bauer spolu s Christophem Ebersem."
       }
@@ -3890,32 +3890,32 @@
     "lon": 11.9069,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "V roce 1886, kdy pivovar patřil Johannu Kienleovi."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Přejmenování",
         "hodnota": "27. prosince 1949 dal podniku Franz Brombach dnešní jméno Erdinger Weißbräu."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Werner Brombach",
         "hodnota": "Vyučený sládek převzal firmu 1975 a vybudoval z ní specialistu na pšeničné pivo."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Milionový výstav",
         "hodnota": "V roce 1990 jako první pšeničný pivovar překročil hranici milionu hektolitrů."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Sortiment",
         "hodnota": "Kolem dvanácti variant pšeničného piva — Weißbier, Urweiße, Pikantus, Kristall."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Rodinná nadace",
         "hodnota": "V roce 2025 Werner Brombach převedl podíly do rodinné nadace."
       }
@@ -3933,27 +3933,27 @@
     "lon": 6.7763,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1873 Heinrichem Frankenheimem pod hostincem Zum Falken v Düsseldorfu."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Altbier",
         "hodnota": "Svrchně kvašené tmavé pivo — jedno z klasických düsseldorfských Alt."
       },
       {
-        "ikona": "🚚",
+        "ikona": "doprava",
         "label": "Přesun",
         "hodnota": "V roce 1991 se výroba přestěhovala do Neuss-Holzheimu na levém břehu Rýna."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Prodej Warsteineru",
         "hodnota": "V roce 2005 Peter Frankenheim prodal většinový podíl skupině Warsteiner."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec v Neussu",
         "hodnota": "V březnu 2009 se výroba definitivně přesunula do Warsteinu, kde se vaří dodnes."
       }
@@ -3971,32 +3971,32 @@
     "lon": 9.7332,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1724 Johann David Deutelin koupí hostince s právem várečným v Mauerstraße."
       },
       {
-        "ikona": "🦁",
+        "ikona": "zvire",
         "label": "Znak",
         "hodnota": "Podle hostince Zum Löwen, který v roce 1851 postavil Georg Friedrich Deutelin."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Katharinenvorstadt",
         "hodnota": "Roku 1903 otevřel Friedrich Erhard nový provoz na místě dnešní Kunsthalle Würth."
       },
       {
-        "ikona": "💧",
+        "ikona": "voda",
         "label": "Dceřiná firma",
         "hodnota": "Od roku 1968 provozuje také Wildbadquelle produkující minerální vody."
       },
       {
-        "ikona": "🏈",
+        "ikona": "festival",
         "label": "Sponzoring",
         "hodnota": "Od roku 2000 sponzoruje tým amerického fotbalu Schwäbisch Hall Unicorns."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Vedení",
         "hodnota": "Hans Firnkorn a Peter Theilacker jako čtvrtá a pátá generace rodinné tradice."
       }
@@ -4014,32 +4014,32 @@
     "lon": 11.5619,
     "fakta": [
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Vévodský původ",
         "hodnota": "Vznik na začátku září 1589 z rozhodnutí bavorského vévody Wilhelma V."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Mnichovský bock",
         "hodnota": "V roce 1614 zde sládek Elias Pichler uvařil první mnichovský bock."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Státní podnik",
         "hodnota": "V roce 1852 převedl král Maximilian II. pivovar do majetku bavorského státu."
       },
       {
-        "ikona": "™️",
+        "ikona": "znamka",
         "label": "Značka HB",
         "hodnota": "Registrována v roce 1879 spolu s královskou korunou."
       },
       {
-        "ikona": "🏨",
+        "ikona": "budova",
         "label": "Hofbräuhaus am Platzl",
         "hodnota": "Novorenesanční podobu dostal roku 1897 od architekta Maxe Littmanna."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Franšíza",
         "hodnota": "Přibližně jedenáct Hofbräuhäuser po třech kontinentech."
       }
@@ -4057,32 +4057,32 @@
     "lon": 11.5744,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1887 v hornofranckém Bayreuthu bratry Hansem a Eberhardtem Maiselovými."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Champagner-Weizen",
         "hodnota": "V roce 1955 začali vařit pšeničné pivo, z něhož vyrostla řada Maisel's Weisse."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Výstav",
         "hodnota": "Kolem 400 000 hektolitrů, jeden z největších výrobců pšeničného piva v Německu."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Guinnessův rekord",
         "hodnota": "Muzeum Bier-Erlebnis-Welt zapsáno jako nejobsáhlejší pivní muzeum světa."
       },
       {
-        "ikona": "🖼️",
+        "ikona": "kultura",
         "label": "Sbírka",
         "hodnota": "Přes 5 400 pivních sklenic a půllitrů a 400 vzácných smaltovaných reklamních cedulí."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Čtvrtá generace",
         "hodnota": "Firma zůstala v rodinných rukou dodnes."
       }
@@ -4101,32 +4101,32 @@
     "lon": 10.9812,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1712 v hornofrancouzském Erlangenu Buirettem von Oehlefeld a Christophem Beverem."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Rod Kitzmannů",
         "hodnota": "Johann Lorenz Kitzmann odkoupil pivovar v konkurzním řízení roku 1833."
       },
       {
-        "ikona": "📈",
+        "ikona": "statistika",
         "label": "Vrchol",
         "hodnota": "Ze 6 000 hektolitrů v 50. letech na přes 110 000 hektolitrů v roce 2008."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec",
         "hodnota": "28. září 2018 majitel Peter Kitzmann oznámil zastavení výroby po 35 zaměstnancům."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Značka dnes",
         "hodnota": "Kulmbacher Brauerei vaří piva Kitzmann v Kulmbachu pod hlavičkou Kitzmann Bier GmbH."
       },
       {
-        "ikona": "🎡",
+        "ikona": "kultura",
         "label": "Bergkirchweih",
         "hodnota": "Tradiční festovní várka putuje každoročně na erlangenskou pouť Bergkirchweih."
       }
@@ -4144,32 +4144,32 @@
     "lon": 9.2079,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Kořeny",
         "hodnota": "V roce 1795 založil falckrabí Nikolaus Matt v Kostnici Bierbrauerei zur Sonne."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Rodina Ruppanerů",
         "hodnota": "Pivovar převzali v roce 1872 a drží ho čtyři generace."
       },
       {
-        "ikona": "🎓",
+        "ikona": "skolstvi",
         "label": "Karl Ruppaner",
         "hodnota": "Absolvent proslulé královské zemědělské akademie ve Weihenstephanu."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Reinheitsgebot",
         "hodnota": "Všechna piva se vaří podle bavorského zákona o čistotě z roku 1516."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Bodensee Pils, Bio Schimmele, tmavé 1414 Extra k výročí kostnického koncilu."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "DLG medaile",
         "hodnota": "Hefeweizen a Bio Schimmele opakovaně získávají zlatou medaili DLG."
       }
@@ -4187,32 +4187,32 @@
     "lon": 11.5534,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "První zmínka",
         "hodnota": "V roce 1397 v mnichovských daňových knihách jako pivovar Welser Prew."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Sedlmayrové",
         "hodnota": "Od roku 1807, kdy podnik koupil Gabriel Sedlmayr starší."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Münchner Hell",
         "hodnota": "V roce 1894 zde jako první uvařili mnichovský světlý ležák."
       },
       {
-        "ikona": "📢",
+        "ikona": "osoba",
         "label": "Slogan",
         "hodnota": "„Lass Dir raten, trinke Spaten\" z roku 1924 se používá dodnes."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "AB InBev",
         "hodnota": "V roce 2003 belgická Interbrew koupila skupinu Spaten-Löwenbräu za 530 milionů eur."
       },
       {
-        "ikona": "🎡",
+        "ikona": "kultura",
         "label": "Oktoberfest",
         "hodnota": "Jeden ze šesti mnichovských pivovarů oprávněných vařit pivo pro Oktoberfest."
       }
@@ -4230,32 +4230,32 @@
     "lon": 8.3554,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Kořeny",
         "hodnota": "V roce 1753, kdy byl sedlák Antonius Cramer poprvé zdaněn za vlastní vaření piva."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Požár Warsteinu",
         "hodnota": "Prosinec 1802 zničil velkou část města; pivovar obnoven roku 1803."
       },
       {
-        "ikona": "💧",
+        "ikona": "voda",
         "label": "Kaiserquelle",
         "hodnota": "V roce 1927 objevený nízko mineralizovaný pramen ideální pro pilsner."
       },
       {
-        "ikona": "🏗️",
+        "ikona": "vystavba",
         "label": "Waldparkbrauerei",
         "hodnota": "V roce 1976 označována za největší a nejmodernější pivovar v Evropě."
       },
       {
-        "ikona": "📈",
+        "ikona": "statistika",
         "label": "Rekord",
         "hodnota": "V roce 1994 dosáhl výstavu přes šest milionů hektolitrů."
       },
       {
-        "ikona": "👩",
+        "ikona": "osoba",
         "label": "Devátá generace",
         "hodnota": "Od roku 2006 vede skupinu Catharina Cramer jako první žena a jediná majitelka."
       }
@@ -4273,32 +4273,32 @@
     "lon": 14.4276,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1847 v hornolužickém Bautzenu (Budyšíně) sdružením 77 hostinských."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Družstvo → akciovka",
         "hodnota": "Commun-Brauerei se v roce 1880 změnila na akciovou společnost."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Znárodnění",
         "hodnota": "Po druhé světové válce; jako VEB Bautzener Brauerei fungoval od 50. let."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Nový majitel",
         "hodnota": "Značku po roce 1992 převzal Dr. Horst Herrmann."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Konec areálu",
         "hodnota": "Původní pivovar v Neusalzaer Straße v roce 1996 shořel; dnes zde stojí úřad práce."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Kde se vaří",
         "hodnota": "Od 90. let ve franském Friedenfelsu a v městské pivnici Bautzener Brauhaus."
       }
@@ -4316,32 +4316,32 @@
     "lon": 12.9189,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Vznik",
         "hodnota": "V roce 1868, kdy zemědělec a cihlář F. A. Kupfer začal expedovat pivo v Altendorfu u Chemnitz."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Feldschlößchen AG",
         "hodnota": "V roce 1900 se stal součástí Feldschlößchen-Brauerei AG zu Chemnitz-Kappel."
       },
       {
-        "ikona": "🏷️",
+        "ikona": "znamka",
         "label": "Značka Braustolz",
         "hodnota": "Používá se jako obchodní název od roku 1954."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Akvizice",
         "hodnota": "V roce 1991 pivovar převzala bavorská skupina Kulmbacher."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Konec v Chemnitzu",
         "hodnota": "V roce 2017 skončil provoz; poslední várka naplnila 28 milionů lahví."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Památka",
         "hodnota": "Původní budovy patří k nejstarší dochované průmyslové architektuře Chemnitzu."
       }
@@ -4359,27 +4359,27 @@
     "lon": 10.531,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "28. prosince 1871 bratry Christianem Gustavem a Carlem Heinrichem Bendtovými u zámku Richmond."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Otto Böhme",
         "hodnota": "Vedl firmu 1895–1942 a udělal z ní velkopivovar s výstavem přes 100 000 hl."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Holsten a Carlsberg",
         "hodnota": "V roce 1989 přešel pod Holsten, v roce 2004 s ním do dánského koncernu Carlsberg."
       },
       {
-        "ikona": "🔀",
+        "ikona": "zmena",
         "label": "Oettinger",
         "hodnota": "V červnu 2009 areál (ne značku) koupila skupina Oettinger a přejmenovala jej na Brauerei Braunschweig."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Plánovaný konec",
         "hodnota": "Skupina Oettinger oznámila ukončení výroby v Braunschweigu na jaře 2026."
       }
@@ -4397,32 +4397,32 @@
     "lon": 9.9437,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "24. května 1879 v tehdy pruské Altoně u Hamburku, první stáčení 6. května 1880."
       },
       {
-        "ikona": "🐴",
+        "ikona": "zvire",
         "label": "Rytíř na koni",
         "hodnota": "Ochranná známka Holsten od prvních dnů existence firmy."
       },
       {
-        "ikona": "🥫",
+        "ikona": "plechovka",
         "label": "První plechovka",
         "hodnota": "V roce 1952 první v Německu, kdo uvedl pivo v plechovce na trh."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Astra Urtyp",
         "hodnota": "Ikonické pivo hamburského St. Pauli získal Holsten koupí Bavaria-St. Pauli-Brauerei v roce 1998."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Carlsberg",
         "hodnota": "Od roku 2004 součást dánské skupiny Carlsberg Deutschland."
       },
       {
-        "ikona": "🏗️",
+        "ikona": "vystavba",
         "label": "Nový pivovar",
         "hodnota": "V listopadu 2019 se výroba přesunula do Hamburg-Hausbruchu; spotřebu vody snížil o čtvrtinu."
       }
@@ -4440,32 +4440,32 @@
     "lon": 7.3454,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1878 Christianem Weberem převzetím zkrachovalého pivovaru Jacoby v Homburgu."
       },
       {
-        "ikona": "🏰",
+        "ikona": "budova",
         "label": "Jméno",
         "hodnota": "Podle tehdy již zříceného zámku Karlsberg v okolí Homburgu."
       },
       {
-        "ikona": "🚂",
+        "ikona": "doprava",
         "label": "Vlastní vagony",
         "hodnota": "Richard Weber od roku 1910 rozvážel Karlsberg vlastními železničními vagony."
       },
       {
-        "ikona": "🥫",
+        "ikona": "plechovka",
         "label": "Plechovky",
         "hodnota": "V roce 1953 jako první německo-francouzský pivovar začal plnit pivo do plechovek."
       },
       {
-        "ikona": "⚖️",
+        "ikona": "spor",
         "label": "Karlsbräu",
         "hodnota": "Kvůli sporu s dánským Carlsbergem prodává exportní varianty od roku 1956 pod touto značkou."
       },
       {
-        "ikona": "🥤",
+        "ikona": "pivo",
         "label": "MiXery",
         "hodnota": "V roce 1996 přišel s míchaným nápojem piva a coly, který se stal v Německu jedničkou kategorie."
       }
@@ -4483,32 +4483,32 @@
     "lon": 14.6692,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Kořeny",
         "hodnota": "V roce 1846 v Löbau na místě dnešního Theaterplatz."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Porter",
         "hodnota": "Od roku 1895 se v Bergquellu čepoval oblíbený porter, jedna z lužických specialit."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "VEB v NDR",
         "hodnota": "Od roku 1972 fungoval jako plně znárodněný podnik s výstavem přes 82 500 hektolitrů."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Privatizace",
         "hodnota": "V roce 1991 pivovar odkoupila Hochdorfer Kronenbrauerei s podmínkou pokračování vaření."
       },
       {
-        "ikona": "🏗️",
+        "ikona": "vystavba",
         "label": "Nová varna",
         "hodnota": "V roce 1996 otevřena v průmyslové zóně Löbau-West k výročí 150 let od založení."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Obnova porteru",
         "hodnota": "V roce 1999 Steffen Dittmar znovu zavedl silný Lausitzer Porter."
       }
@@ -4526,32 +4526,32 @@
     "lon": 13.9175,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1872 v saském Radebergu jako Aktienbrauerei Zum Bergkeller."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Plzeňský styl",
         "hodnota": "Podle vlastních údajů první německý pivovar výhradně věnovaný plzeňskému stylu."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Královský dvůr",
         "hodnota": "V prosinci 1905 povoleno označovat pivo jako „stolní nápoj krále Fridricha Augusta Saského\"."
       },
       {
-        "ikona": "📈",
+        "ikona": "statistika",
         "label": "Růst po sjednocení",
         "hodnota": "Ze 400 000 hektolitrů v roce 1990 na 1,81 milionu hektolitrů v roce 2009."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Radeberger Gruppe",
         "hodnota": "Největší pivovarská skupina v Německu, patří pod Dr. August Oetker KG."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Památka",
         "hodnota": "Historické provozní budovy jsou památkově chráněné."
       }
@@ -4569,32 +4569,32 @@
     "lon": 11.8748,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1872 Georg Schneider I. koupil od krále Ludvíka II. mnichovský Weisses Brauhaus, nejstarší pšeničný pivovar ve městě."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Výsada",
         "hodnota": "Spolu s pivovarem získal Schneider dříve výhradně panovnickou výsadu vařit pšeničné pivo."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Válka",
         "hodnota": "Obě mnichovské varny byly 1944 rozbombardovány; výroba se přesunula do Kelheimu, kde firma sídlí dodnes."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Vlajkové pivo",
         "hodnota": "TAP 7 Mein Original vaří pšenici od roku 1872; TAP 6 Aventinus je nejstarší bavorský pšeničný doppelbock (od 1907)."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Aventinus Eisbock",
         "hodnota": "V roce 2002 uvedl pivovar TAP 9 Aventinus Eisbock, vzniklý zmražením původního doppelbocku."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Produkce",
         "hodnota": "Přibližně 300 000 hektolitrů ročně, ~100 zaměstnanců, čtvrtinu odbytu tvoří vývoz do 27 zemí."
       }
@@ -4611,32 +4611,32 @@
     "lon": 9.4926,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Pivovarská tradice",
         "hodnota": "První „Bräuhaus“ postaven na zámku Seefeld roku 1601; celková tradice sahá přes pět staletí."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Šlechtický rod",
         "hodnota": "Zámek je od roku 1472 majetkem rodu Toerring (Törring), spojence Wittelsbachů."
       },
       {
-        "ikona": "👑",
+        "ikona": "koruna",
         "label": "Privilegium",
         "hodnota": "Kolem roku 1500 získali Toerringové vévodské právo vařit pivo pro veřejný prodej."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Značka",
         "hodnota": "V historických prostorách se čepuje Graf-Toerring-Bier — Helles, Weißbier a sezónní speciality."
       },
       {
-        "ikona": "🏨",
+        "ikona": "budova",
         "label": "Dnes",
         "hodnota": "Bräustüberl otevřený od poloviny 90. let; areál kombinuje pivovar, muzeum, kino a sudový sál."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Majitel",
         "hodnota": "Hans Caspar hrabě zu Törring-Jettenbach z větve Törring-Stein „ze Seefeldu“."
       }
@@ -4654,32 +4654,32 @@
     "lon": 12.5362,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "10. listopadu 1847 v Kodani, průmyslník J. C. Jacobsen; jméno po synu Carlovi a vršku „berg“."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Kvasnice",
         "hodnota": "V Carlsberg Laboratoriu izoloval 1879 Emil Christian Hansen kvasnici Saccharomyces carlsbergensis."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "První export",
         "hodnota": "V roce 1868 putoval jeden sud do skotského Edinburghu."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Pilsner",
         "hodnota": "Vlajkový Carlsberg Pilsner v původní podobě z roku 1904 spolu se secesním logem, dnes téměř nezměněným."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Velké akvizice",
         "hodnota": "V roce 2008 s Heinekenem koupili Scottish & Newcastle za 7,8 miliardy liber; 2024 přibyl Britvic za 3,3 miliardy."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Nadace",
         "hodnota": "Od Jacobsenovy smrti 1887 většinu drží Carlsberg Foundation, financující vědu, muzea a umění."
       }
@@ -4697,27 +4697,27 @@
     "lon": -15.4349,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Značku uvedl na trh roku 1924 podnikatel Cástor Gómez Navarro v Las Palmas de Gran Canaria."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Expanze",
         "hodnota": "Nová továrna v areálu Barranco Seco (1960) pokryla poptávku z turistického boomu na Kanárech."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Světlý ležák plzeňského typu (4,7 %), verze Sin, LimonLimón (radler) a silnější sezónní Bock."
       },
       {
-        "ikona": "🎭",
+        "ikona": "kultura",
         "label": "Ostrovní rivalita",
         "hodnota": "„Gran canárská“ Tropical proti „tenerifské“ Dorada — předmět lidových vtipů mezi ostrovany."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Compañía Cervecera de Canarias (fúze 1994), dnes součást nadnárodní skupiny AB InBev."
       }
@@ -4735,27 +4735,27 @@
     "lon": -3.6027,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1925 v Granadě z místního andaluského kapitálu za účasti podnikatele Josepha Gurneyho."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Jméno",
         "hodnota": "Podle slavné mauritánské pevnosti Alhambra, dominanty města Granady."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Krize",
         "hodnota": "V roce 1995 se firma potýkala s dluhem kolem 600 milionů peset; už v roce 1996 se vrátila k zisku."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2006 patří madridské skupině Mahou-San Miguel, která ji koupila za 200 milionů eur."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Vlajková značka",
         "hodnota": "Alhambra Reserva 1925, jejíž recepturu vyvinul na počátku 20. století chemik D. Thompson."
       }
@@ -4773,27 +4773,27 @@
     "lon": 27.1844,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1878 v severosavolském Iisalmi otevřel pivovar William Gideon Åberg se ženou Onni."
       },
       {
-        "ikona": "🇫🇮",
+        "ikona": "svet",
         "label": "Finské vlastnictví",
         "hodnota": "Největší nápojářská firma ve finských rukou; drží ~18,7 % finského trhu."
       },
       {
-        "ikona": "📈",
+        "ikona": "statistika",
         "label": "Burza",
         "hodnota": "Akcie na Nasdaq Helsinki pod symbolem OLVAS; v roce 2022 tržby 583,7 milionu eur."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Regionální značky",
         "hodnota": "Vlastní estonský A. Le Coq, litevský Volfas Engelman a lotyšský Cēsu Alus."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Odchod z Ruska",
         "hodnota": "Po ruské invazi na Ukrajinu 2022 ukončila vývozy do Ruska a stáhla se z Běloruska."
       }
@@ -4811,27 +4811,27 @@
     "lon": 20.9863,
     "fakta": [
       {
-        "ikona": "📅",
+        "ikona": "datum",
         "label": "První láhev",
         "hodnota": "Výstavba začala 1969, první láhev Borsodi Világos sjela z linky 5. dubna 1973."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Značky",
         "hodnota": "Vlajkový světlý ležák Borsodi Világos a ležák Kinizsi pojmenovaný po uherském vojevůdci."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Surovina",
         "hodnota": "Postaveno u zdroje kvalitní vody a severomaďarského ječmene v obci Bőcs."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od 1993 Interbrew, přes InBev a AB InBev, dnes americko-kanadská Molson Coors."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Jméno",
         "hodnota": "Odkazuje k historické stolici Borsod, ve které Bőcs leží."
       }
@@ -4849,32 +4849,32 @@
     "lon": 19.1473,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Základ",
         "hodnota": "1854 Kőbányai Serfőző Társaság Petera Schmidta; 1862 pivovar odkoupil vídeňský „král piva“ Anton Dreher."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Anton Dreher",
         "hodnota": "Nejvlivnější středoevropský pivovarník své doby, otec „vídeňského typu“ (Vienna lager)."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Světová výstava",
         "hodnota": "Zlatá medaile na Světové výstavě v Paříži roku 1900."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Podíl trhu",
         "hodnota": "V roce 1933 kontroloval Dreher-Haggenmacher zhruba 70 % maďarského pivního trhu."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Znárodnění",
         "hodnota": "V letech 1948–1949; po 1993 SAB, 2002 SABMiller, od prosince 2016 japonská Asahi Breweries."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Značky",
         "hodnota": "Dreher Classic, Dreher Bak (tmavý), Dreher Gold a Dreher 24."
       }
@@ -4892,27 +4892,27 @@
     "lon": 16.5749,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1895 skupinou sopronských obchodníků; hlavním sládkem byl Gyula Lenck."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "První pivo",
         "hodnota": "Světlý ležák Arany Ászok; koncem 19. století už pivovar vařil ~20 000 hektolitrů ročně."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Znárodnění",
         "hodnota": "V roce 1949 byl začleněn do státního pivovarnického trustu."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 2003 součást koncernu Heineken; dnes hlavní závod Heineken Hungária."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Licenční výroba",
         "hodnota": "Vaří licenčně Heineken, Amstel, Gösser i slovenský Zlatý Bažant pro maďarský trh."
       }
@@ -4930,27 +4930,27 @@
     "lon": 12.2785,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1846 v lombardském Vigevanu, Francesco Peroni."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Římský pivovar",
         "hodnota": "Otevřen 1864 — šest let předtím, než se Řím stal hlavním městem sjednocené Itálie."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od února 2016 japonská Asahi Breweries (přes SABMiller a AB InBev)."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Nastro Azzurro",
         "hodnota": "Prémiový ležák z roku 1963; jméno podle „Modré stuhy“ transatlantiku Rex za rychlost 1933."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Americká licence",
         "hodnota": "Pro americký trh vaří Peroni Molson Coors ve svém závodě v Albany v Georgii."
       }
@@ -4968,27 +4968,27 @@
     "lon": 4.9052,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Roku 1870 v Amsterdamu tři podnikatelé; první várka října 1871, první láhve 9. ledna 1872."
       },
       {
-        "ikona": "🌊",
+        "ikona": "voda",
         "label": "Jméno",
         "hodnota": "Podle řeky Amstel, ze které se v zimě řezaly ledové kry a chladily spodně kvašené várky."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 1968 Heineken; výroba přesunuta 1972 z Amsterdamu do Zoeterwoude."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Distribuce",
         "hodnota": "Distribuce do ~75 zemí, výstav kolem 36 milionů hektolitrů ročně."
       },
       {
-        "ikona": "🎽",
+        "ikona": "festival",
         "label": "Sponzorství",
         "hodnota": "Dlouholetý sponzor řeckého fotbalu a nizozemské cyklistické klasiky Amstel Gold Race."
       }
@@ -5006,32 +5006,32 @@
     "lon": 4.9442,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "15. února 1864, kdy Gerard Adriaan Heineken koupil amsterdamský pivovar De Hooiberg z roku 1592."
       },
       {
-        "ikona": "👤",
+        "ikona": "osoba",
         "label": "Zakladatel",
         "hodnota": "Třiadvacetiletý Gerard Adriaan Heineken; peníze zdědil po otci."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Heineken A-kvasnice",
         "hodnota": "V roce 1886 ji izoloval chemik H. Elion, žák Louise Pasteura; používá se dodnes."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Pařížské zlato",
         "hodnota": "Médaille d'Or 1875 na Mezinárodní námořní výstavě; největší exportér piva do Francie."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Působnost",
         "hodnota": "V roce 2022 aktivní ve 192 zemích světa."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Heineken Experience",
         "hodnota": "Původní amsterdamský pivovar zavřen 1988, od 2001 slouží jako návštěvnické centrum."
       }
@@ -5049,32 +5049,32 @@
     "lon": 29.7064,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V Leningradu roku 1990; k zakladatelům patřili Nikita Kefirov a manažer Naif Ačakzai."
       },
       {
-        "ikona": "📈",
+        "ikona": "statistika",
         "label": "Burza",
         "hodnota": "V září 2001 vstoupila na burzu RTS; počátkem 2002 tržní kapitalizace 1,3 miliardy dolarů."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Konsolidace",
         "hodnota": "V letech 2006–2007 pohltila Venu, Pikru a Jarpivo, získala přes 38 % ruského trhu."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Číselná řada",
         "hodnota": "Světlý Baltika 3, pšeničná Baltika 8, silný ležák Baltika 9 a dále Něvskoje či Žatecký Gus."
       },
       {
-        "ikona": "🚫",
+        "ikona": "konec",
         "label": "Zabavení",
         "hodnota": "Po ruské invazi na Ukrajinu 16. července 2023 zabavena ruskými úřady; v čele Taimuraz Bollojev."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "Nový vlastník",
         "hodnota": "V prosinci 2024 přešla pod JSC VG Invest za zhruba 34 miliard rublů."
       }
@@ -5092,32 +5092,32 @@
     "lon": 18.2006,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Základní kámen",
         "hodnota": "Položen 1. listopadu 1964 v Hurbanově; první várky piva byly stočeny v roce 1969."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Jméno",
         "hodnota": "Podle hojného výskytu bažantů v okolních polích Podunajské nížiny."
       },
       {
-        "ikona": "🥫",
+        "ikona": "plechovka",
         "label": "Prvenství",
         "hodnota": "V roce 1971 první pivo stočené v Československu do plechovky."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 1995 nizozemský Heineken International."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Export",
         "hodnota": "Vyváží se do ~16 zemí; v Severní Americe pod jménem Golden Pheasant."
       },
       {
-        "ikona": "🌾",
+        "ikona": "chmel",
         "label": "Sladovna",
         "hodnota": "V areálu jedna z největších sladoven ve střední Evropě, kapacita přes 145 000 tun sladu ročně."
       }
@@ -5135,27 +5135,27 @@
     "lon": 21.1761,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Základní kámen 1964 ve Veľkém Šariši; první várka Šariš 10° byla uvařena 26. května 1967."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Produkce",
         "hodnota": "Přes 1,2 milionu hektolitrů piva ročně, kolem 550 zaměstnanců."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od 1997 SAB (později SABMiller); od prosince 2016 japonská Asahi Breweries."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Licenční výroba",
         "hodnota": "Vaří Pilsner Urquell, Velkopopovický Kozel, Gambrinus, Radegast, Topvar i nealko Birell."
       },
       {
-        "ikona": "📈",
+        "ikona": "statistika",
         "label": "Celkový výstav",
         "hodnota": "Od otevření tu bylo uvařeno více než 25 milionů hektolitrů piva."
       }
@@ -5173,32 +5173,32 @@
     "lon": 7.5663,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "V roce 1640 v alsaském Hochfeldenu založil provoz Jean Klein."
       },
       {
-        "ikona": "👨‍👩‍👧",
+        "ikona": "rodina",
         "label": "Nejstarší ve Francii",
         "hodnota": "Dnes nejstarší nepřetržitě fungující francouzský pivovar; vede jej osmá generace rodu Haagů."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Meteor Pils",
         "hodnota": "Uvařen 1927 s českým chmelem Žatec — první pivo plzeňského typu vyráběné ve Francii."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "Ocenění",
         "hodnota": "Zlaté medaile 2014 a 2016 na Mondial de la Bière Europe a Concours Général Agricole."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Muzeum",
         "hodnota": "Villa Meteor otevřená v roce 2016 v areálu pivovaru."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Produkce",
         "hodnota": "V roce 2019 zhruba 490 000 hektolitrů, obrat 43 milionů eur, ~230 zaměstnanců."
       }
@@ -5216,32 +5216,32 @@
     "lon": 21.0957,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Kořeny sahají do roku 1784, kdy v pruském Memelu (dnes Klaipėda) rozjel výrobu obchodník J. W. Reincke."
       },
       {
-        "ikona": "🔥",
+        "ikona": "pozar",
         "label": "Válka a obnova",
         "hodnota": "V roce 1944 byl areál téměř úplně zničen; obnova 1946 pod novým jménem Švyturys („maják“)."
       },
       {
-        "ikona": "🏆",
+        "ikona": "oceneni",
         "label": "World Beer Cup",
         "hodnota": "Světlý ležák Švyturys Ekstra získal zlato na World Beer Cupu 2012."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od roku 1999 dánský Carlsberg (přes Baltic Beverages Holding)."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Značky",
         "hodnota": "Světlý Švyturys Ekstra, pšeničný Baltas, silný Baltijos vyvinutý v roce 1960."
       },
       {
-        "ikona": "🧪",
+        "ikona": "laborator",
         "label": "Technologie",
         "hodnota": "Jediný velký litevský pivovar, který stále používá tradiční německé ležácké tanky."
       }
@@ -5259,32 +5259,32 @@
     "lon": 28.8381,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "První pivovar v Moldavsku vznikl 1873 v Kišiněvě; založil jej podnikatel německého původu."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Sovětská fúze",
         "hodnota": "V roce 1974 se sloučil s pivovarem Kišiněv č. 2 do jednoho státního závodu."
       },
       {
-        "ikona": "🏭",
+        "ikona": "vlastnik",
         "label": "Vlastník",
         "hodnota": "Od ledna 2003 turecká Efes Beverage Group; provoz dnes působí jako Efes Vitanta Moldova Brewery."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Podíl trhu",
         "hodnota": "Drží přes 70 % moldavského pivního trhu a je největším výrobcem piva v zemi."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Licenční výroba",
         "hodnota": "Vaří i Efes Pilsener, Timișoreana, Corona Extra, Stary Melnik, Velkopopovický Kozel a Grolsch."
       },
       {
-        "ikona": "🎭",
+        "ikona": "kultura",
         "label": "Identita",
         "hodnota": "Reklama často odkazuje na historickou postavu Ștefana cel Mare a moldavské tradice."
       }
@@ -5302,32 +5302,32 @@
     "lon": 28.9759,
     "fakta": [
       {
-        "ikona": "📜",
+        "ikona": "zalozeni",
         "label": "Založení",
         "hodnota": "Anadolu Efes vznikla 2. února 1966 spojením rodin Yazıcı a Özilhan; pivovarnická výroba od 1969."
       },
       {
-        "ikona": "🏛️",
+        "ikona": "budova",
         "label": "Jméno",
         "hodnota": "Podle antického města Efesos — symbol maloasijské historie."
       },
       {
-        "ikona": "🍺",
+        "ikona": "pivo",
         "label": "Sortiment",
         "hodnota": "Efes Pilsener, Dark, Light, Extra, Ice a pšeničné Gusta; licenčně Beck's a Foster's."
       },
       {
-        "ikona": "🌍",
+        "ikona": "svet",
         "label": "Působnost",
         "hodnota": "18 pivovarů a 7 sladoven v šesti zemích, export do více než 80 zemí."
       },
       {
-        "ikona": "💰",
+        "ikona": "penize",
         "label": "AB InBev Efes",
         "hodnota": "V roce 2018 vznikl v Rusku a na Ukrajině společný podnik s AB InBev."
       },
       {
-        "ikona": "📊",
+        "ikona": "statistika",
         "label": "Velikost",
         "hodnota": "V roce 2025 ~15 300 zaměstnanců a tržby 243+ mld tureckých lir; 6. největší v Evropě."
       }

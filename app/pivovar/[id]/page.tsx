@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import JsonLd from "@/components/json-ld";
+import PivovarIkona from "@/components/pivovar-ikona";
 import PivovarMap from "@/components/pivovar-map";
 import PullitrGrid from "@/components/pullitr-grid";
 import ZemeFlag from "@/components/zeme-flag";
@@ -154,11 +155,8 @@ export default async function PivovarPage({
                 className="flex gap-4 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4"
               >
                 {f.ikona && (
-                  <span
-                    className="text-2xl flex-shrink-0 leading-none mt-0.5"
-                    aria-hidden
-                  >
-                    {f.ikona}
+                  <span className="flex-shrink-0 mt-1">
+                    <PivovarIkona ikona={f.ikona} />
                   </span>
                 )}
                 <div className="min-w-0">
