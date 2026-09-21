@@ -4,7 +4,7 @@
     "nazev_zobrazovany": "Hallstatt",
     "pivovar_id": "hallstatt",
     "zeme": "at",
-    "fotka": "hallstatt.jpg",
+    "fotka": "hallstatt.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -13,7 +13,7 @@
     "nazev_zobrazovany": "Hermax",
     "pivovar_id": "hermax",
     "zeme": "at",
-    "fotka": "hermax.jpg",
+    "fotka": "hermax.webp",
     "pridano": "2018-03-10",
     "typ": "pivovarni"
   },
@@ -22,7 +22,7 @@
     "nazev_zobrazovany": "Kapsreiter",
     "pivovar_id": "kapsreiter",
     "zeme": "at",
-    "fotka": "kapsreiter.jpg",
+    "fotka": "kapsreiter.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -31,7 +31,7 @@
     "nazev_zobrazovany": "Wolfsberger",
     "pivovar_id": "wolfsberger",
     "zeme": "at",
-    "fotka": "wolfsberger.jpg",
+    "fotka": "wolfsberger.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -40,7 +40,7 @@
     "nazev_zobrazovany": "Zipfer (1)",
     "pivovar_id": "zipfer",
     "zeme": "at",
-    "fotka": "zipfer-1.jpg",
+    "fotka": "zipfer-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -49,7 +49,7 @@
     "nazev_zobrazovany": "Zipfer (2)",
     "pivovar_id": "zipfer",
     "zeme": "at",
-    "fotka": "zipfer-2.jpg",
+    "fotka": "zipfer-2.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -58,7 +58,7 @@
     "nazev_zobrazovany": "Zwettler",
     "pivovar_id": "zwettler",
     "zeme": "at",
-    "fotka": "zwettler.jpg",
+    "fotka": "zwettler.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -67,7 +67,7 @@
     "nazev_zobrazovany": "Hoegaarden",
     "pivovar_id": "hoegaarden",
     "zeme": "be",
-    "fotka": "hoegaarden.jpg",
+    "fotka": "hoegaarden.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -76,7 +76,7 @@
     "nazev_zobrazovany": "Stella Artois (1)",
     "pivovar_id": "stella-artois",
     "zeme": "be",
-    "fotka": "stella-artois-1.jpg",
+    "fotka": "stella-artois-1.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -85,7 +85,7 @@
     "nazev_zobrazovany": "Stella Artois (2)",
     "pivovar_id": "stella-artois",
     "zeme": "be",
-    "fotka": "stella-artois-2.jpg",
+    "fotka": "stella-artois-2.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -94,7 +94,7 @@
     "nazev_zobrazovany": "Bad Flash",
     "pivovar_id": "bad-flash",
     "zeme": "cz",
-    "fotka": "bad-flash.jpg",
+    "fotka": "bad-flash.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -103,7 +103,7 @@
     "nazev_zobrazovany": "Bernard (1)",
     "pivovar_id": "bernard",
     "zeme": "cz",
-    "fotka": "bernard-1.jpg",
+    "fotka": "bernard-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -112,7 +112,7 @@
     "nazev_zobrazovany": "Bernard (2)",
     "pivovar_id": "bernard",
     "zeme": "cz",
-    "fotka": "bernard-2.jpg",
+    "fotka": "bernard-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -121,7 +121,7 @@
     "nazev_zobrazovany": "Bernard (3)",
     "pivovar_id": "bernard",
     "zeme": "cz",
-    "fotka": "bernard-3.jpg",
+    "fotka": "bernard-3.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -130,7 +130,7 @@
     "nazev_zobrazovany": "Beznoska (1)",
     "pivovar_id": "beznoska",
     "zeme": "cz",
-    "fotka": "beznoska-1.jpg",
+    "fotka": "beznoska-1.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -139,7 +139,7 @@
     "nazev_zobrazovany": "Beznoska (2)",
     "pivovar_id": "beznoska",
     "zeme": "cz",
-    "fotka": "beznoska-2.jpg",
+    "fotka": "beznoska-2.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -148,7 +148,7 @@
     "nazev_zobrazovany": "Bobr",
     "pivovar_id": "bobr",
     "zeme": "cz",
-    "fotka": "bobr.jpg",
+    "fotka": "bobr.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -157,7 +157,7 @@
     "nazev_zobrazovany": "Braník",
     "pivovar_id": "branik",
     "zeme": "cz",
-    "fotka": "branik.jpg",
+    "fotka": "branik.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -166,7 +166,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (1)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-1.jpg",
+    "fotka": "budvar-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -175,7 +175,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (2)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-2.jpg",
+    "fotka": "budvar-2.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -184,7 +184,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (3)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-3.jpg",
+    "fotka": "budvar-3.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -193,7 +193,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (4)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-4.jpg",
+    "fotka": "budvar-4.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -202,7 +202,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (5)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-5.jpg",
+    "fotka": "budvar-5.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -211,7 +211,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (6)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-6.jpg",
+    "fotka": "budvar-6.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -220,7 +220,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (7)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-7.jpg",
+    "fotka": "budvar-7.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -229,7 +229,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (8)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-8.jpg",
+    "fotka": "budvar-8.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -238,7 +238,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (9)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-9.jpg",
+    "fotka": "budvar-9.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -247,7 +247,7 @@
     "nazev_zobrazovany": "Budweiser Bürgerbräu",
     "pivovar_id": "budweiser-burgerbrau",
     "zeme": "cz",
-    "fotka": "budweiser-burgerbrau.jpg",
+    "fotka": "budweiser-burgerbrau.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -256,7 +256,7 @@
     "nazev_zobrazovany": "Březňák",
     "pivovar_id": "breznak",
     "zeme": "cz",
-    "fotka": "breznak.jpg",
+    "fotka": "breznak.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -265,7 +265,7 @@
     "nazev_zobrazovany": "Chotěboř",
     "pivovar_id": "chotebor",
     "zeme": "cz",
-    "fotka": "chotebor.jpg",
+    "fotka": "chotebor.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -274,7 +274,7 @@
     "nazev_zobrazovany": "Dalešice",
     "pivovar_id": "dalesice",
     "zeme": "cz",
-    "fotka": "dalesice.jpg",
+    "fotka": "dalesice.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -283,7 +283,7 @@
     "nazev_zobrazovany": "Doubravník",
     "pivovar_id": "doubravnik",
     "zeme": "cz",
-    "fotka": "doubravnik.jpg",
+    "fotka": "doubravnik.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -292,7 +292,7 @@
     "nazev_zobrazovany": "Falkenštejn",
     "pivovar_id": "falkenstejn",
     "zeme": "cz",
-    "fotka": "falkenstejn.jpg",
+    "fotka": "falkenstejn.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -301,7 +301,7 @@
     "nazev_zobrazovany": "Gambrinus (1)",
     "pivovar_id": "gambrinus",
     "zeme": "cz",
-    "fotka": "gambrinus-1.jpg",
+    "fotka": "gambrinus-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -310,7 +310,7 @@
     "nazev_zobrazovany": "Gambrinus (2)",
     "pivovar_id": "gambrinus",
     "zeme": "cz",
-    "fotka": "gambrinus-2.jpg",
+    "fotka": "gambrinus-2.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -319,7 +319,7 @@
     "nazev_zobrazovany": "Gambrinus (3)",
     "pivovar_id": "gambrinus",
     "zeme": "cz",
-    "fotka": "gambrinus-3.jpg",
+    "fotka": "gambrinus-3.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -328,7 +328,7 @@
     "nazev_zobrazovany": "Gambrinus (4)",
     "pivovar_id": "gambrinus",
     "zeme": "cz",
-    "fotka": "gambrinus-4.jpg",
+    "fotka": "gambrinus-4.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -337,7 +337,7 @@
     "nazev_zobrazovany": "Gambrinus (5)",
     "pivovar_id": "gambrinus",
     "zeme": "cz",
-    "fotka": "gambrinus-5.jpg",
+    "fotka": "gambrinus-5.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -346,7 +346,7 @@
     "nazev_zobrazovany": "Gambrinus (6)",
     "pivovar_id": "gambrinus",
     "zeme": "cz",
-    "fotka": "gambrinus-6.jpg",
+    "fotka": "gambrinus-6.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -355,7 +355,7 @@
     "nazev_zobrazovany": "Gambrinus (7)",
     "pivovar_id": "gambrinus",
     "zeme": "cz",
-    "fotka": "gambrinus-7.jpg",
+    "fotka": "gambrinus-7.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -364,7 +364,7 @@
     "nazev_zobrazovany": "Gambrinus (8)",
     "pivovar_id": "gambrinus",
     "zeme": "cz",
-    "fotka": "gambrinus-8.jpg",
+    "fotka": "gambrinus-8.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -373,7 +373,7 @@
     "nazev_zobrazovany": "Herold",
     "pivovar_id": "herold",
     "zeme": "cz",
-    "fotka": "herold.jpg",
+    "fotka": "herold.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -382,7 +382,7 @@
     "nazev_zobrazovany": "Holba (1)",
     "pivovar_id": "holba",
     "zeme": "cz",
-    "fotka": "holba-1.jpg",
+    "fotka": "holba-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -391,7 +391,7 @@
     "nazev_zobrazovany": "Holba (2)",
     "pivovar_id": "holba",
     "zeme": "cz",
-    "fotka": "holba-2.jpg",
+    "fotka": "holba-2.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -400,7 +400,7 @@
     "nazev_zobrazovany": "Hostan (1)",
     "pivovar_id": "hostan",
     "zeme": "cz",
-    "fotka": "hostan-1.jpg",
+    "fotka": "hostan-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -409,7 +409,7 @@
     "nazev_zobrazovany": "Hostan (2)",
     "pivovar_id": "hostan",
     "zeme": "cz",
-    "fotka": "hostan-2.jpg",
+    "fotka": "hostan-2.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -418,7 +418,7 @@
     "nazev_zobrazovany": "Hron",
     "pivovar_id": "hron",
     "zeme": "cz",
-    "fotka": "hron.jpg",
+    "fotka": "hron.webp",
     "pridano": "2018-03-10",
     "typ": "pivovarni"
   },
@@ -427,7 +427,7 @@
     "nazev_zobrazovany": "Ježek",
     "pivovar_id": "jezek",
     "zeme": "cz",
-    "fotka": "jezek.jpg",
+    "fotka": "jezek.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -436,7 +436,7 @@
     "nazev_zobrazovany": "Klášter",
     "pivovar_id": "klaster",
     "zeme": "cz",
-    "fotka": "klaster.jpg",
+    "fotka": "klaster.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -445,7 +445,7 @@
     "nazev_zobrazovany": "Kocour (1)",
     "pivovar_id": "kocour",
     "zeme": "cz",
-    "fotka": "kocour-1.jpg",
+    "fotka": "kocour-1.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -454,7 +454,7 @@
     "nazev_zobrazovany": "Kocour (2)",
     "pivovar_id": "kocour",
     "zeme": "cz",
-    "fotka": "kocour-2.jpg",
+    "fotka": "kocour-2.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -463,7 +463,7 @@
     "nazev_zobrazovany": "Kolčavka",
     "pivovar_id": "kolcavka",
     "zeme": "cz",
-    "fotka": "kolcavka.jpg",
+    "fotka": "kolcavka.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -472,7 +472,7 @@
     "nazev_zobrazovany": "Konrad (1)",
     "pivovar_id": "konrad",
     "zeme": "cz",
-    "fotka": "konrad-1.jpg",
+    "fotka": "konrad-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -481,7 +481,7 @@
     "nazev_zobrazovany": "Konrad (2)",
     "pivovar_id": "konrad",
     "zeme": "cz",
-    "fotka": "konrad-2.jpg",
+    "fotka": "konrad-2.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -490,7 +490,7 @@
     "nazev_zobrazovany": "Konrad (3)",
     "pivovar_id": "konrad",
     "zeme": "cz",
-    "fotka": "konrad-3.jpg",
+    "fotka": "konrad-3.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -499,7 +499,7 @@
     "nazev_zobrazovany": "Konrad (4)",
     "pivovar_id": "konrad",
     "zeme": "cz",
-    "fotka": "konrad-4.jpg",
+    "fotka": "konrad-4.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -508,7 +508,7 @@
     "nazev_zobrazovany": "Konrad (5)",
     "pivovar_id": "konrad",
     "zeme": "cz",
-    "fotka": "konrad-5.jpg",
+    "fotka": "konrad-5.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -517,7 +517,7 @@
     "nazev_zobrazovany": "Krakonoš",
     "pivovar_id": "krakonos",
     "zeme": "cz",
-    "fotka": "krakonos.jpg",
+    "fotka": "krakonos.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -526,7 +526,7 @@
     "nazev_zobrazovany": "Krušovice (1)",
     "pivovar_id": "krusovice",
     "zeme": "cz",
-    "fotka": "krusovice-1.jpg",
+    "fotka": "krusovice-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -535,7 +535,7 @@
     "nazev_zobrazovany": "Krušovice (2)",
     "pivovar_id": "krusovice",
     "zeme": "cz",
-    "fotka": "krusovice-2.jpg",
+    "fotka": "krusovice-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -544,7 +544,7 @@
     "nazev_zobrazovany": "Krušovice (3)",
     "pivovar_id": "krusovice",
     "zeme": "cz",
-    "fotka": "krusovice-3.jpg",
+    "fotka": "krusovice-3.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -553,7 +553,7 @@
     "nazev_zobrazovany": "Krušovice (4)",
     "pivovar_id": "krusovice",
     "zeme": "cz",
-    "fotka": "krusovice-4.jpg",
+    "fotka": "krusovice-4.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -562,7 +562,7 @@
     "nazev_zobrazovany": "Lobkowicz (1)",
     "pivovar_id": "lobkowicz",
     "zeme": "cz",
-    "fotka": "lobkowicz-1.jpg",
+    "fotka": "lobkowicz-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -571,7 +571,7 @@
     "nazev_zobrazovany": "Lobkowicz (2)",
     "pivovar_id": "lobkowicz",
     "zeme": "cz",
-    "fotka": "lobkowicz-2.jpg",
+    "fotka": "lobkowicz-2.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -580,7 +580,7 @@
     "nazev_zobrazovany": "Lobkowicz (3)",
     "pivovar_id": "lobkowicz",
     "zeme": "cz",
-    "fotka": "lobkowicz-3.jpg",
+    "fotka": "lobkowicz-3.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -589,7 +589,7 @@
     "nazev_zobrazovany": "Na Rychtě",
     "pivovar_id": "na-rychte",
     "zeme": "cz",
-    "fotka": "na-rychte.jpg",
+    "fotka": "na-rychte.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -598,7 +598,7 @@
     "nazev_zobrazovany": "Neumann",
     "pivovar_id": "neumann",
     "zeme": "cz",
-    "fotka": "neumann.jpg",
+    "fotka": "neumann.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -607,7 +607,7 @@
     "nazev_zobrazovany": "Pardál",
     "pivovar_id": "pardal",
     "zeme": "cz",
-    "fotka": "pardal.jpg",
+    "fotka": "pardal.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -616,7 +616,7 @@
     "nazev_zobrazovany": "Paroháč",
     "pivovar_id": "parohac",
     "zeme": "cz",
-    "fotka": "parohac.jpg",
+    "fotka": "parohac.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -625,7 +625,7 @@
     "nazev_zobrazovany": "Pegas (1)",
     "pivovar_id": "pegas",
     "zeme": "cz",
-    "fotka": "pegas-1.jpg",
+    "fotka": "pegas-1.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -634,7 +634,7 @@
     "nazev_zobrazovany": "Pegas (2)",
     "pivovar_id": "pegas",
     "zeme": "cz",
-    "fotka": "pegas-2.jpg",
+    "fotka": "pegas-2.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -643,7 +643,7 @@
     "nazev_zobrazovany": "Pilsner Urquell (1)",
     "pivovar_id": "plzensky-prazdroj",
     "zeme": "cz",
-    "fotka": "plzensky-prazdroj-1.jpg",
+    "fotka": "plzensky-prazdroj-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -652,7 +652,7 @@
     "nazev_zobrazovany": "Pilsner Urquell (2)",
     "pivovar_id": "plzensky-prazdroj",
     "zeme": "cz",
-    "fotka": "plzensky-prazdroj-2.jpg",
+    "fotka": "plzensky-prazdroj-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -661,7 +661,7 @@
     "nazev_zobrazovany": "Pilsner Urquell (3)",
     "pivovar_id": "plzensky-prazdroj",
     "zeme": "cz",
-    "fotka": "plzensky-prazdroj-3.jpg",
+    "fotka": "plzensky-prazdroj-3.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -670,7 +670,7 @@
     "nazev_zobrazovany": "Pilsner Urquell (4)",
     "pivovar_id": "plzensky-prazdroj",
     "zeme": "cz",
-    "fotka": "plzensky-prazdroj-4.jpg",
+    "fotka": "plzensky-prazdroj-4.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -679,7 +679,7 @@
     "nazev_zobrazovany": "Pilsner Urquell (5)",
     "pivovar_id": "plzensky-prazdroj",
     "zeme": "cz",
-    "fotka": "plzensky-prazdroj-5.jpg",
+    "fotka": "plzensky-prazdroj-5.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -688,7 +688,7 @@
     "nazev_zobrazovany": "Platan (1)",
     "pivovar_id": "platan",
     "zeme": "cz",
-    "fotka": "platan-1.jpg",
+    "fotka": "platan-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -697,7 +697,7 @@
     "nazev_zobrazovany": "Platan (2)",
     "pivovar_id": "platan",
     "zeme": "cz",
-    "fotka": "platan-2.jpg",
+    "fotka": "platan-2.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -706,7 +706,7 @@
     "nazev_zobrazovany": "Platan (3)",
     "pivovar_id": "platan",
     "zeme": "cz",
-    "fotka": "platan-3.jpg",
+    "fotka": "platan-3.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -715,7 +715,7 @@
     "nazev_zobrazovany": "Primátor",
     "pivovar_id": "primator",
     "zeme": "cz",
-    "fotka": "primator-1.jpg",
+    "fotka": "primator-1.webp",
     "pridano": "2018-03-10",
     "typ": "pivovarni"
   },
@@ -724,7 +724,7 @@
     "nazev_zobrazovany": "Radegast (1)",
     "pivovar_id": "radegast",
     "zeme": "cz",
-    "fotka": "radegast-1.jpg",
+    "fotka": "radegast-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -733,7 +733,7 @@
     "nazev_zobrazovany": "Radegast (2)",
     "pivovar_id": "radegast",
     "zeme": "cz",
-    "fotka": "radegast-2.jpg",
+    "fotka": "radegast-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -742,7 +742,7 @@
     "nazev_zobrazovany": "Radegast (3)",
     "pivovar_id": "radegast",
     "zeme": "cz",
-    "fotka": "radegast-3.jpg",
+    "fotka": "radegast-3.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -751,7 +751,7 @@
     "nazev_zobrazovany": "Rebel (1)",
     "pivovar_id": "rebel",
     "zeme": "cz",
-    "fotka": "rebel-1.jpg",
+    "fotka": "rebel-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -760,7 +760,7 @@
     "nazev_zobrazovany": "Rebel (2)",
     "pivovar_id": "rebel",
     "zeme": "cz",
-    "fotka": "rebel-2.jpg",
+    "fotka": "rebel-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -769,7 +769,7 @@
     "nazev_zobrazovany": "Rebel (3)",
     "pivovar_id": "rebel",
     "zeme": "cz",
-    "fotka": "rebel-3.jpg",
+    "fotka": "rebel-3.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -778,7 +778,7 @@
     "nazev_zobrazovany": "Rohozec",
     "pivovar_id": "rohozec",
     "zeme": "cz",
-    "fotka": "rohozec.jpg",
+    "fotka": "rohozec.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -787,7 +787,7 @@
     "nazev_zobrazovany": "Rychtář",
     "pivovar_id": "rychtar",
     "zeme": "cz",
-    "fotka": "rychtar.jpg",
+    "fotka": "rychtar.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -796,7 +796,7 @@
     "nazev_zobrazovany": "Samson (1)",
     "pivovar_id": "samson",
     "zeme": "cz",
-    "fotka": "samson-1.jpg",
+    "fotka": "samson-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -805,7 +805,7 @@
     "nazev_zobrazovany": "Samson (2)",
     "pivovar_id": "samson",
     "zeme": "cz",
-    "fotka": "samson-2.jpg",
+    "fotka": "samson-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -814,7 +814,7 @@
     "nazev_zobrazovany": "Starobrno (1)",
     "pivovar_id": "starobrno",
     "zeme": "cz",
-    "fotka": "starobrno-1.jpg",
+    "fotka": "starobrno-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -823,7 +823,7 @@
     "nazev_zobrazovany": "Starobrno (2)",
     "pivovar_id": "starobrno",
     "zeme": "cz",
-    "fotka": "starobrno-2.jpg",
+    "fotka": "starobrno-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -832,7 +832,7 @@
     "nazev_zobrazovany": "Staropramen (1)",
     "pivovar_id": "staropramen",
     "zeme": "cz",
-    "fotka": "staropramen-1.jpg",
+    "fotka": "staropramen-1.webp",
     "pridano": "2018-03-10",
     "typ": "pivovarni"
   },
@@ -841,7 +841,7 @@
     "nazev_zobrazovany": "Staropramen (2)",
     "pivovar_id": "staropramen",
     "zeme": "cz",
-    "fotka": "staropramen-2.jpg",
+    "fotka": "staropramen-2.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -850,7 +850,7 @@
     "nazev_zobrazovany": "Staropramen (3)",
     "pivovar_id": "staropramen",
     "zeme": "cz",
-    "fotka": "staropramen-3.jpg",
+    "fotka": "staropramen-3.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -859,7 +859,7 @@
     "nazev_zobrazovany": "Staropramen (4)",
     "pivovar_id": "staropramen",
     "zeme": "cz",
-    "fotka": "staropramen-4.jpg",
+    "fotka": "staropramen-4.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -868,7 +868,7 @@
     "nazev_zobrazovany": "Staropramen (5)",
     "pivovar_id": "staropramen",
     "zeme": "cz",
-    "fotka": "staropramen-5.jpg",
+    "fotka": "staropramen-5.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -877,7 +877,7 @@
     "nazev_zobrazovany": "Staropramen (6)",
     "pivovar_id": "staropramen",
     "zeme": "cz",
-    "fotka": "staropramen-6.jpg",
+    "fotka": "staropramen-6.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -886,7 +886,7 @@
     "nazev_zobrazovany": "Suchdolský Jeník",
     "pivovar_id": "suchdolsky-jenik",
     "zeme": "cz",
-    "fotka": "suchdolsky-jenik.jpg",
+    "fotka": "suchdolsky-jenik.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -895,7 +895,7 @@
     "nazev_zobrazovany": "Svijany (1)",
     "pivovar_id": "svijany",
     "zeme": "cz",
-    "fotka": "svijany-1.jpg",
+    "fotka": "svijany-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -904,7 +904,7 @@
     "nazev_zobrazovany": "Svijany (2)",
     "pivovar_id": "svijany",
     "zeme": "cz",
-    "fotka": "svijany-2.jpg",
+    "fotka": "svijany-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -913,7 +913,7 @@
     "nazev_zobrazovany": "Svijany (3)",
     "pivovar_id": "svijany",
     "zeme": "cz",
-    "fotka": "svijany-3.jpg",
+    "fotka": "svijany-3.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -922,7 +922,7 @@
     "nazev_zobrazovany": "Tambor",
     "pivovar_id": "tambor",
     "zeme": "cz",
-    "fotka": "tambor.jpg",
+    "fotka": "tambor.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -931,7 +931,7 @@
     "nazev_zobrazovany": "Velkopopovický Kozel (1)",
     "pivovar_id": "kozel",
     "zeme": "cz",
-    "fotka": "kozel-1.jpg",
+    "fotka": "kozel-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -940,7 +940,7 @@
     "nazev_zobrazovany": "Velkopopovický Kozel (2)",
     "pivovar_id": "kozel",
     "zeme": "cz",
-    "fotka": "kozel-2.jpg",
+    "fotka": "kozel-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -949,7 +949,7 @@
     "nazev_zobrazovany": "Velkopopovický Kozel (3)",
     "pivovar_id": "kozel",
     "zeme": "cz",
-    "fotka": "kozel-3.jpg",
+    "fotka": "kozel-3.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -958,7 +958,7 @@
     "nazev_zobrazovany": "Velkopopovický Kozel (4)",
     "pivovar_id": "kozel",
     "zeme": "cz",
-    "fotka": "kozel-4.jpg",
+    "fotka": "kozel-4.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -967,7 +967,7 @@
     "nazev_zobrazovany": "Vinohradský pivovar",
     "pivovar_id": "vinohradsky-pivovar",
     "zeme": "cz",
-    "fotka": "vinohradsky-pivovar.jpg",
+    "fotka": "vinohradsky-pivovar.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -976,7 +976,7 @@
     "nazev_zobrazovany": "Votrok",
     "pivovar_id": "votrok",
     "zeme": "cz",
-    "fotka": "votrok.jpg",
+    "fotka": "votrok.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -985,7 +985,7 @@
     "nazev_zobrazovany": "Vratislav (1)",
     "pivovar_id": "vratislav",
     "zeme": "cz",
-    "fotka": "vratislav-1.jpg",
+    "fotka": "vratislav-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -994,7 +994,7 @@
     "nazev_zobrazovany": "Vratislav (2)",
     "pivovar_id": "vratislav",
     "zeme": "cz",
-    "fotka": "vratislav-2.jpg",
+    "fotka": "vratislav-2.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1003,7 +1003,7 @@
     "nazev_zobrazovany": "Zichovec",
     "pivovar_id": "zichovec",
     "zeme": "cz",
-    "fotka": "zichovec.jpg",
+    "fotka": "zichovec.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -1012,7 +1012,7 @@
     "nazev_zobrazovany": "Zlatopramen",
     "pivovar_id": "zlatopramen",
     "zeme": "cz",
-    "fotka": "zlatopramen.jpg",
+    "fotka": "zlatopramen.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1021,7 +1021,7 @@
     "nazev_zobrazovany": "Zubr (1)",
     "pivovar_id": "zubr",
     "zeme": "cz",
-    "fotka": "zubr-1.jpg",
+    "fotka": "zubr-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1030,7 +1030,7 @@
     "nazev_zobrazovany": "Zubr (2)",
     "pivovar_id": "zubr",
     "zeme": "cz",
-    "fotka": "zubr-2.jpg",
+    "fotka": "zubr-2.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1039,7 +1039,7 @@
     "nazev_zobrazovany": "Únětický pivovar",
     "pivovar_id": "uneticky-pivovar",
     "zeme": "cz",
-    "fotka": "uneticky-pivovar.jpg",
+    "fotka": "uneticky-pivovar.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -1048,7 +1048,7 @@
     "nazev_zobrazovany": "Černá svině",
     "pivovar_id": "cerna-svine",
     "zeme": "cz",
-    "fotka": "cerna-svine.jpg",
+    "fotka": "cerna-svine.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -1057,7 +1057,7 @@
     "nazev_zobrazovany": "Bürger- und Engelbräu",
     "pivovar_id": "burger-engelbrau",
     "zeme": "de",
-    "fotka": "burger-engelbrau.jpg",
+    "fotka": "burger-engelbrau.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1066,7 +1066,7 @@
     "nazev_zobrazovany": "Distelhäuser",
     "pivovar_id": "distelhauser",
     "zeme": "de",
-    "fotka": "distelhauser.jpg",
+    "fotka": "distelhauser.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -1075,7 +1075,7 @@
     "nazev_zobrazovany": "Erdinger (1)",
     "pivovar_id": "erdinger",
     "zeme": "de",
-    "fotka": "erdinger-1.jpg",
+    "fotka": "erdinger-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1084,7 +1084,7 @@
     "nazev_zobrazovany": "Erdinger (2)",
     "pivovar_id": "erdinger",
     "zeme": "de",
-    "fotka": "erdinger-2.jpg",
+    "fotka": "erdinger-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -1093,7 +1093,7 @@
     "nazev_zobrazovany": "Frankenheim",
     "pivovar_id": "frankenheim",
     "zeme": "de",
-    "fotka": "frankenheim.jpg",
+    "fotka": "frankenheim.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -1102,7 +1102,7 @@
     "nazev_zobrazovany": "Haller Löwenbräu",
     "pivovar_id": "haller-lowenbrau",
     "zeme": "de",
-    "fotka": "haller-lowenbrau.jpg",
+    "fotka": "haller-lowenbrau.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1111,7 +1111,7 @@
     "nazev_zobrazovany": "Hofbräu München",
     "pivovar_id": "hofbrau-munchen",
     "zeme": "de",
-    "fotka": "hofbrau-munchen.jpg",
+    "fotka": "hofbrau-munchen.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -1120,7 +1120,7 @@
     "nazev_zobrazovany": "Kitzmann",
     "pivovar_id": "kitzmann",
     "zeme": "de",
-    "fotka": "kitzmann.jpg",
+    "fotka": "kitzmann.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1129,7 +1129,7 @@
     "nazev_zobrazovany": "Maisel's Weisse",
     "pivovar_id": "maisels-weisse",
     "zeme": "de",
-    "fotka": "maisels-weisse.jpg",
+    "fotka": "maisels-weisse.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1138,7 +1138,7 @@
     "nazev_zobrazovany": "Ruppaner",
     "pivovar_id": "ruppaner",
     "zeme": "de",
-    "fotka": "ruppaner.jpg",
+    "fotka": "ruppaner.webp",
     "pridano": "2018-03-10",
     "typ": "pivovarni"
   },
@@ -1147,7 +1147,7 @@
     "nazev_zobrazovany": "Spaten",
     "pivovar_id": "spaten",
     "zeme": "de",
-    "fotka": "spaten.jpg",
+    "fotka": "spaten.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1156,7 +1156,7 @@
     "nazev_zobrazovany": "Warsteiner",
     "pivovar_id": "warsteiner",
     "zeme": "de",
-    "fotka": "warsteiner.jpg",
+    "fotka": "warsteiner.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1165,7 +1165,7 @@
     "nazev_zobrazovany": "Carlsberg",
     "pivovar_id": "carlsberg",
     "zeme": "dk",
-    "fotka": "carlsberg.jpg",
+    "fotka": "carlsberg.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1174,7 +1174,7 @@
     "nazev_zobrazovany": "Tropical",
     "pivovar_id": "tropical",
     "zeme": "es",
-    "fotka": "tropical.jpg",
+    "fotka": "tropical.webp",
     "pridano": "2009-12-31",
     "typ": "pivovarni"
   },
@@ -1183,7 +1183,7 @@
     "nazev_zobrazovany": "Olvi",
     "pivovar_id": "olvi",
     "zeme": "fi",
-    "fotka": "olvi.jpg",
+    "fotka": "olvi.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1192,7 +1192,7 @@
     "nazev_zobrazovany": "Borsodi",
     "pivovar_id": "borsodi",
     "zeme": "hu",
-    "fotka": "borsodi.jpg",
+    "fotka": "borsodi.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1201,7 +1201,7 @@
     "nazev_zobrazovany": "Dreher (1)",
     "pivovar_id": "dreher",
     "zeme": "hu",
-    "fotka": "dreher-1.jpg",
+    "fotka": "dreher-1.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1210,7 +1210,7 @@
     "nazev_zobrazovany": "Dreher (2)",
     "pivovar_id": "dreher",
     "zeme": "hu",
-    "fotka": "dreher-2.jpg",
+    "fotka": "dreher-2.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -1219,7 +1219,7 @@
     "nazev_zobrazovany": "Soproni",
     "pivovar_id": "soproni",
     "zeme": "hu",
-    "fotka": "soproni.jpg",
+    "fotka": "soproni.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1228,7 +1228,7 @@
     "nazev_zobrazovany": "Peroni",
     "pivovar_id": "peroni",
     "zeme": "it",
-    "fotka": "peroni.jpg",
+    "fotka": "peroni.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -1237,7 +1237,7 @@
     "nazev_zobrazovany": "Amstel",
     "pivovar_id": "amstel",
     "zeme": "nl",
-    "fotka": "amstel.jpg",
+    "fotka": "amstel.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1246,7 +1246,7 @@
     "nazev_zobrazovany": "Fešák",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "fesak.jpg",
+    "fotka": "fesak.webp",
     "pridano": "2015-03-22",
     "typ": "akcni"
   },
@@ -1255,7 +1255,7 @@
     "nazev_zobrazovany": "Italia '90",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "italia-90.jpg",
+    "fotka": "italia-90.webp",
     "pridano": "2015-03-22",
     "typ": "akcni"
   },
@@ -1264,7 +1264,7 @@
     "nazev_zobrazovany": "Kofola",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "kofola.jpg",
+    "fotka": "kofola.webp",
     "pridano": "2015-01-24",
     "typ": "akcni"
   },
@@ -1273,7 +1273,7 @@
     "nazev_zobrazovany": "Královéhradecké pivní slavnosti 2010",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "kralovehradecke-pivni-slavnosti-2010.jpg",
+    "fotka": "kralovehradecke-pivni-slavnosti-2010.webp",
     "pridano": "2015-01-24",
     "typ": "akcni"
   },
@@ -1282,7 +1282,7 @@
     "nazev_zobrazovany": "Little Prague Pub",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "little-prague-pub.jpg",
+    "fotka": "little-prague-pub.webp",
     "pridano": "2016-05-22",
     "typ": "akcni"
   },
@@ -1291,7 +1291,7 @@
     "nazev_zobrazovany": "Lovu zdar (myslivecký půllitr)",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "lovu-zdar-myslivecky-pullitr.jpg",
+    "fotka": "lovu-zdar-myslivecky-pullitr.webp",
     "pridano": "2015-03-22",
     "typ": "akcni"
   },
@@ -1300,7 +1300,7 @@
     "nazev_zobrazovany": "MS v hokeji 2015 (IIHF)",
     "pivovar_id": null,
     "zeme": "reklamni",
-    "fotka": "ms-v-hokeji-2015-iihf.jpg",
+    "fotka": "ms-v-hokeji-2015-iihf.webp",
     "pridano": "2016-05-22",
     "typ": "reklamni"
   },
@@ -1309,7 +1309,7 @@
     "nazev_zobrazovany": "Mercedes-Benz Unimog",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "mercedes-benz-unimog.jpg",
+    "fotka": "mercedes-benz-unimog.webp",
     "pridano": "2018-03-10",
     "typ": "akcni"
   },
@@ -1318,7 +1318,7 @@
     "nazev_zobrazovany": "Neidentifikovaná sklenice",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "neidentifikovana-sklenice.jpg",
+    "fotka": "neidentifikovana-sklenice.webp",
     "pridano": "2015-03-22",
     "typ": "akcni"
   },
@@ -1327,7 +1327,7 @@
     "nazev_zobrazovany": "O.k. Tip (Tipsport)",
     "pivovar_id": null,
     "zeme": "reklamni",
-    "fotka": "o-k-tip-tipsport.jpg",
+    "fotka": "o-k-tip-tipsport.webp",
     "pridano": "2015-03-22",
     "typ": "reklamni"
   },
@@ -1336,7 +1336,7 @@
     "nazev_zobrazovany": "O.k. Tip (Tipsport)",
     "pivovar_id": null,
     "zeme": "reklamni",
-    "fotka": "o-k-tip-tipsport-2.jpg",
+    "fotka": "o-k-tip-tipsport-2.webp",
     "pridano": "2015-03-22",
     "typ": "reklamni"
   },
@@ -1345,7 +1345,7 @@
     "nazev_zobrazovany": "Pivo mění tvé svaly (vtipný půllitr)",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "pivo-meni-tve-svaly-vtipny-pullitr.jpg",
+    "fotka": "pivo-meni-tve-svaly-vtipny-pullitr.webp",
     "pridano": "2015-01-24",
     "typ": "akcni"
   },
@@ -1354,7 +1354,7 @@
     "nazev_zobrazovany": "Pivovarský klub",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "pivovarsky-klub.jpg",
+    "fotka": "pivovarsky-klub.webp",
     "pridano": "2009-12-31",
     "typ": "akcni"
   },
@@ -1363,7 +1363,7 @@
     "nazev_zobrazovany": "Půllitr bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "pullitr-bez-oznaceni.jpg",
+    "fotka": "pullitr-bez-oznaceni.webp",
     "pridano": "2018-03-10",
     "typ": "akcni"
   },
@@ -1372,7 +1372,7 @@
     "nazev_zobrazovany": "Půllitr bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "pullitr-bez-oznaceni-2.jpg",
+    "fotka": "pullitr-bez-oznaceni-2.webp",
     "pridano": "2018-03-10",
     "typ": "akcni"
   },
@@ -1381,7 +1381,7 @@
     "nazev_zobrazovany": "Půllitr bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "pullitr-bez-oznaceni-3.jpg",
+    "fotka": "pullitr-bez-oznaceni-3.webp",
     "pridano": "2018-03-10",
     "typ": "akcni"
   },
@@ -1390,7 +1390,7 @@
     "nazev_zobrazovany": "Půllitr bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "pullitr-bez-oznaceni-4.jpg",
+    "fotka": "pullitr-bez-oznaceni-4.webp",
     "pridano": "2018-03-10",
     "typ": "akcni"
   },
@@ -1399,7 +1399,7 @@
     "nazev_zobrazovany": "Půllitr bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "pullitr-bez-oznaceni-5.jpg",
+    "fotka": "pullitr-bez-oznaceni-5.webp",
     "pridano": "2018-03-10",
     "typ": "akcni"
   },
@@ -1408,7 +1408,7 @@
     "nazev_zobrazovany": "Půllitr bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "pullitr-bez-oznaceni-6.jpg",
+    "fotka": "pullitr-bez-oznaceni-6.webp",
     "pridano": "2015-01-24",
     "typ": "akcni"
   },
@@ -1417,7 +1417,7 @@
     "nazev_zobrazovany": "Sklenice bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "sklenice-bez-oznaceni.jpg",
+    "fotka": "sklenice-bez-oznaceni.webp",
     "pridano": "2018-03-10",
     "typ": "akcni"
   },
@@ -1426,7 +1426,7 @@
     "nazev_zobrazovany": "Sklenice bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "sklenice-bez-oznaceni-2.jpg",
+    "fotka": "sklenice-bez-oznaceni-2.webp",
     "pridano": "2018-03-10",
     "typ": "akcni"
   },
@@ -1435,7 +1435,7 @@
     "nazev_zobrazovany": "Sklenice bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "sklenice-bez-oznaceni-3.jpg",
+    "fotka": "sklenice-bez-oznaceni-3.webp",
     "pridano": "2015-01-24",
     "typ": "akcni"
   },
@@ -1444,7 +1444,7 @@
     "nazev_zobrazovany": "Tipsport",
     "pivovar_id": null,
     "zeme": "reklamni",
-    "fotka": "tipsport.jpg",
+    "fotka": "tipsport.webp",
     "pridano": "2015-03-22",
     "typ": "reklamni"
   },
@@ -1453,7 +1453,7 @@
     "nazev_zobrazovany": "Tipsport",
     "pivovar_id": null,
     "zeme": "reklamni",
-    "fotka": "tipsport-2.jpg",
+    "fotka": "tipsport-2.webp",
     "pridano": "2015-03-22",
     "typ": "reklamni"
   },
@@ -1462,7 +1462,7 @@
     "nazev_zobrazovany": "To chce klid (vtipný půllitr)",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "to-chce-klid-vtipny-pullitr.jpg",
+    "fotka": "to-chce-klid-vtipny-pullitr.webp",
     "pridano": "2015-03-22",
     "typ": "akcni"
   },
@@ -1471,7 +1471,7 @@
     "nazev_zobrazovany": "Baltika",
     "pivovar_id": "baltika",
     "zeme": "ru",
-    "fotka": "baltika.jpg",
+    "fotka": "baltika.webp",
     "pridano": "2016-05-22",
     "typ": "pivovarni"
   },
@@ -1480,7 +1480,7 @@
     "nazev_zobrazovany": "Zlatý Bažant (1)",
     "pivovar_id": "zlaty-bazant",
     "zeme": "sk",
-    "fotka": "zlaty-bazant-1.jpg",
+    "fotka": "zlaty-bazant-1.webp",
     "pridano": "2018-03-10",
     "typ": "pivovarni"
   },
@@ -1489,7 +1489,7 @@
     "nazev_zobrazovany": "Zlatý Bažant (2)",
     "pivovar_id": "zlaty-bazant",
     "zeme": "sk",
-    "fotka": "zlaty-bazant-2.jpg",
+    "fotka": "zlaty-bazant-2.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -1498,7 +1498,7 @@
     "nazev_zobrazovany": "Zlatý Bažant (3)",
     "pivovar_id": "zlaty-bazant",
     "zeme": "sk",
-    "fotka": "zlaty-bazant-3.jpg",
+    "fotka": "zlaty-bazant-3.webp",
     "pridano": "2015-03-22",
     "typ": "pivovarni"
   },
@@ -1507,7 +1507,7 @@
     "nazev_zobrazovany": "Šariš",
     "pivovar_id": "saris",
     "zeme": "sk",
-    "fotka": "saris.jpg",
+    "fotka": "saris.webp",
     "pridano": "2015-01-24",
     "typ": "pivovarni"
   },
@@ -1516,7 +1516,7 @@
     "nazev_zobrazovany": "Falkenštejn (2)",
     "pivovar_id": "falkenstejn",
     "zeme": "cz",
-    "fotka": "falkenstejn-2.jpg",
+    "fotka": "falkenstejn-2.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1525,7 +1525,7 @@
     "nazev_zobrazovany": "Biskupský pivovar U sv. Štěpána",
     "pivovar_id": "biskupsky-pivovar",
     "zeme": "cz",
-    "fotka": "biskupsky-pivovar.jpg",
+    "fotka": "biskupsky-pivovar.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1534,7 +1534,7 @@
     "nazev_zobrazovany": "Pilsner Urquell (6)",
     "pivovar_id": "plzensky-prazdroj",
     "zeme": "cz",
-    "fotka": "plzensky-prazdroj-6.jpg",
+    "fotka": "plzensky-prazdroj-6.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1543,7 +1543,7 @@
     "nazev_zobrazovany": "Na Lochkově",
     "pivovar_id": "na-lochkove",
     "zeme": "cz",
-    "fotka": "na-lochkove.jpg",
+    "fotka": "na-lochkove.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1552,7 +1552,7 @@
     "nazev_zobrazovany": "Bubeneč",
     "pivovar_id": "bubenec",
     "zeme": "cz",
-    "fotka": "bubenec.jpg",
+    "fotka": "bubenec.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1561,7 +1561,7 @@
     "nazev_zobrazovany": "Filištín (Chrudimský pivovar)",
     "pivovar_id": "chrudimsky-pivovar",
     "zeme": "cz",
-    "fotka": "chrudimsky-pivovar.jpg",
+    "fotka": "chrudimsky-pivovar.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1570,7 +1570,7 @@
     "nazev_zobrazovany": "Počernický pivovar",
     "pivovar_id": "pocernicky-pivovar",
     "zeme": "cz",
-    "fotka": "pocernicky-pivovar.jpg",
+    "fotka": "pocernicky-pivovar.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1579,7 +1579,7 @@
     "nazev_zobrazovany": "Poutník",
     "pivovar_id": "poutnik",
     "zeme": "cz",
-    "fotka": "poutnik.jpg",
+    "fotka": "poutnik.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1588,7 +1588,7 @@
     "nazev_zobrazovany": "Heineken (1)",
     "pivovar_id": "heineken",
     "zeme": "nl",
-    "fotka": "heineken.jpg",
+    "fotka": "heineken.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1597,7 +1597,7 @@
     "nazev_zobrazovany": "Antoš",
     "pivovar_id": "antos",
     "zeme": "cz",
-    "fotka": "antos.jpg",
+    "fotka": "antos.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1606,7 +1606,7 @@
     "nazev_zobrazovany": "Labuť",
     "pivovar_id": "labut",
     "zeme": "cz",
-    "fotka": "labut.jpg",
+    "fotka": "labut.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1615,7 +1615,7 @@
     "nazev_zobrazovany": "Půllitr s reliéfem krále",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "pullitr-s-reliefem-krale.jpg",
+    "fotka": "pullitr-s-reliefem-krale.webp",
     "pridano": "2026-08-25",
     "typ": "akcni"
   },
@@ -1624,7 +1624,7 @@
     "nazev_zobrazovany": "Chotoviny",
     "pivovar_id": "chotoviny",
     "zeme": "cz",
-    "fotka": "chotoviny.jpg",
+    "fotka": "chotoviny.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1633,7 +1633,7 @@
     "nazev_zobrazovany": "Gambrinus (9)",
     "pivovar_id": "gambrinus",
     "zeme": "cz",
-    "fotka": "gambrinus-9.jpg",
+    "fotka": "gambrinus-9.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1642,7 +1642,7 @@
     "nazev_zobrazovany": "Pivovárek pánů z Růže",
     "pivovar_id": "panu-z-ruze",
     "zeme": "cz",
-    "fotka": "panu-z-ruze.jpg",
+    "fotka": "panu-z-ruze.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1651,7 +1651,7 @@
     "nazev_zobrazovany": "Heineken (2)",
     "pivovar_id": "heineken",
     "zeme": "nl",
-    "fotka": "heineken-2.jpg",
+    "fotka": "heineken-2.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1660,7 +1660,7 @@
     "nazev_zobrazovany": "Beer Station",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "beer-station.jpg",
+    "fotka": "beer-station.webp",
     "pridano": "2026-08-25",
     "typ": "akcni"
   },
@@ -1669,7 +1669,7 @@
     "nazev_zobrazovany": "Říčanský pivovar",
     "pivovar_id": "ricansky-pivovar",
     "zeme": "cz",
-    "fotka": "ricansky-pivovar.jpg",
+    "fotka": "ricansky-pivovar.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1678,7 +1678,7 @@
     "nazev_zobrazovany": "Švyturys",
     "pivovar_id": "svyturys",
     "zeme": "lt",
-    "fotka": "svyturys.jpg",
+    "fotka": "svyturys.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1687,7 +1687,7 @@
     "nazev_zobrazovany": "Efes Pilsen (1)",
     "pivovar_id": "efes",
     "zeme": "tr",
-    "fotka": "efes.jpg",
+    "fotka": "efes.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1696,7 +1696,7 @@
     "nazev_zobrazovany": "Pernštejn",
     "pivovar_id": "pernstejn",
     "zeme": "cz",
-    "fotka": "pernstejn.jpg",
+    "fotka": "pernstejn.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1705,7 +1705,7 @@
     "nazev_zobrazovany": "Hubertus (Kácov)",
     "pivovar_id": "kacov",
     "zeme": "cz",
-    "fotka": "kacov.jpg",
+    "fotka": "kacov.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1714,7 +1714,7 @@
     "nazev_zobrazovany": "Matuška",
     "pivovar_id": "matuska",
     "zeme": "cz",
-    "fotka": "matuska.jpg",
+    "fotka": "matuska.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1723,7 +1723,7 @@
     "nazev_zobrazovany": "Hostan (3)",
     "pivovar_id": "hostan",
     "zeme": "cz",
-    "fotka": "hostan-3.jpg",
+    "fotka": "hostan-3.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1732,7 +1732,7 @@
     "nazev_zobrazovany": "Tatra 148",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "tatra-148.jpg",
+    "fotka": "tatra-148.webp",
     "pridano": "2026-08-25",
     "typ": "akcni"
   },
@@ -1741,7 +1741,7 @@
     "nazev_zobrazovany": "Novopacké pivo",
     "pivovar_id": "nova-paka",
     "zeme": "cz",
-    "fotka": "nova-paka.jpg",
+    "fotka": "nova-paka.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1750,7 +1750,7 @@
     "nazev_zobrazovany": "Krušovice (5)",
     "pivovar_id": "krusovice",
     "zeme": "cz",
-    "fotka": "krusovice-5.jpg",
+    "fotka": "krusovice-5.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1759,7 +1759,7 @@
     "nazev_zobrazovany": "Ferdinand",
     "pivovar_id": "ferdinand",
     "zeme": "cz",
-    "fotka": "ferdinand.jpg",
+    "fotka": "ferdinand.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1768,7 +1768,7 @@
     "nazev_zobrazovany": "Staropramen (7)",
     "pivovar_id": "staropramen",
     "zeme": "cz",
-    "fotka": "staropramen-7.jpg",
+    "fotka": "staropramen-7.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1777,7 +1777,7 @@
     "nazev_zobrazovany": "Budweiser Budvar (10)",
     "pivovar_id": "budvar",
     "zeme": "cz",
-    "fotka": "budvar-10.jpg",
+    "fotka": "budvar-10.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1786,7 +1786,7 @@
     "nazev_zobrazovany": "Sklenice bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "sklenice-bez-oznaceni-4.jpg",
+    "fotka": "sklenice-bez-oznaceni-4.webp",
     "pridano": "2026-08-25",
     "typ": "akcni"
   },
@@ -1795,7 +1795,7 @@
     "nazev_zobrazovany": "Svijany (4)",
     "pivovar_id": "svijany",
     "zeme": "cz",
-    "fotka": "svijany-4.jpg",
+    "fotka": "svijany-4.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1804,7 +1804,7 @@
     "nazev_zobrazovany": "Lobkowicz (4)",
     "pivovar_id": "lobkowicz",
     "zeme": "cz",
-    "fotka": "lobkowicz-4.jpg",
+    "fotka": "lobkowicz-4.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1813,7 +1813,7 @@
     "nazev_zobrazovany": "Dux",
     "pivovar_id": "dux",
     "zeme": "cz",
-    "fotka": "dux.jpg",
+    "fotka": "dux.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1822,7 +1822,7 @@
     "nazev_zobrazovany": "Tesák",
     "pivovar_id": "tesak",
     "zeme": "cz",
-    "fotka": "tesak.jpg",
+    "fotka": "tesak.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1831,7 +1831,7 @@
     "nazev_zobrazovany": "Raven",
     "pivovar_id": "raven",
     "zeme": "cz",
-    "fotka": "raven.jpg",
+    "fotka": "raven.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1840,7 +1840,7 @@
     "nazev_zobrazovany": "Poděbradský Zdroj",
     "pivovar_id": "podebradsky-zdroj",
     "zeme": "cz",
-    "fotka": "podebradsky-zdroj.jpg",
+    "fotka": "podebradsky-zdroj.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1849,7 +1849,7 @@
     "nazev_zobrazovany": "Stella Artois (3)",
     "pivovar_id": "stella-artois",
     "zeme": "be",
-    "fotka": "stella-artois-3.jpg",
+    "fotka": "stella-artois-3.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1858,7 +1858,7 @@
     "nazev_zobrazovany": "Pilsner Urquell (7)",
     "pivovar_id": "plzensky-prazdroj",
     "zeme": "cz",
-    "fotka": "plzensky-prazdroj-7.jpg",
+    "fotka": "plzensky-prazdroj-7.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1867,7 +1867,7 @@
     "nazev_zobrazovany": "Svijany (5)",
     "pivovar_id": "svijany",
     "zeme": "cz",
-    "fotka": "svijany-5.jpg",
+    "fotka": "svijany-5.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1876,7 +1876,7 @@
     "nazev_zobrazovany": "Cervezas Alhambra",
     "pivovar_id": "alhambra",
     "zeme": "es",
-    "fotka": "alhambra.jpg",
+    "fotka": "alhambra.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1885,7 +1885,7 @@
     "nazev_zobrazovany": "František (Novosad)",
     "pivovar_id": "novosad",
     "zeme": "cz",
-    "fotka": "novosad.jpg",
+    "fotka": "novosad.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1894,7 +1894,7 @@
     "nazev_zobrazovany": "Primátor (2)",
     "pivovar_id": "primator",
     "zeme": "cz",
-    "fotka": "primator-2.jpg",
+    "fotka": "primator-2.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1903,7 +1903,7 @@
     "nazev_zobrazovany": "Kanec",
     "pivovar_id": "kanec",
     "zeme": "cz",
-    "fotka": "kanec.jpg",
+    "fotka": "kanec.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1912,7 +1912,7 @@
     "nazev_zobrazovany": "Priessnitz",
     "pivovar_id": "priessnitz",
     "zeme": "cz",
-    "fotka": "priessnitz.jpg",
+    "fotka": "priessnitz.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1921,7 +1921,7 @@
     "nazev_zobrazovany": "Klášter Želiv",
     "pivovar_id": "zeliv",
     "zeme": "cz",
-    "fotka": "zeliv.jpg",
+    "fotka": "zeliv.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1930,7 +1930,7 @@
     "nazev_zobrazovany": "Efes Pilsen (2)",
     "pivovar_id": "efes",
     "zeme": "tr",
-    "fotka": "efes-2.jpg",
+    "fotka": "efes-2.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1939,7 +1939,7 @@
     "nazev_zobrazovany": "Eggenberg (1)",
     "pivovar_id": "eggenberg",
     "zeme": "cz",
-    "fotka": "eggenberg.jpg",
+    "fotka": "eggenberg.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1948,7 +1948,7 @@
     "nazev_zobrazovany": "Warsteiner (2)",
     "pivovar_id": "warsteiner",
     "zeme": "de",
-    "fotka": "warsteiner-2.jpg",
+    "fotka": "warsteiner-2.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1957,7 +1957,7 @@
     "nazev_zobrazovany": "Rohozec (2)",
     "pivovar_id": "rohozec",
     "zeme": "cz",
-    "fotka": "rohozec-2.jpg",
+    "fotka": "rohozec-2.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1966,7 +1966,7 @@
     "nazev_zobrazovany": "Velen (Černá Hora)",
     "pivovar_id": "cerna-hora",
     "zeme": "cz",
-    "fotka": "cerna-hora.jpg",
+    "fotka": "cerna-hora.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1975,7 +1975,7 @@
     "nazev_zobrazovany": "Hvozd (Cvikov)",
     "pivovar_id": "cvikov",
     "zeme": "cz",
-    "fotka": "cvikov.jpg",
+    "fotka": "cvikov.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1984,7 +1984,7 @@
     "nazev_zobrazovany": "Löbauer Bergquell",
     "pivovar_id": "lobauer-bergquell",
     "zeme": "de",
-    "fotka": "lobauer-bergquell.jpg",
+    "fotka": "lobauer-bergquell.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -1993,7 +1993,7 @@
     "nazev_zobrazovany": "Braustolz",
     "pivovar_id": "braustolz",
     "zeme": "de",
-    "fotka": "braustolz.jpg",
+    "fotka": "braustolz.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2002,7 +2002,7 @@
     "nazev_zobrazovany": "Velkopopovický Kozel (5)",
     "pivovar_id": "kozel",
     "zeme": "cz",
-    "fotka": "kozel-5.jpg",
+    "fotka": "kozel-5.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2011,7 +2011,7 @@
     "nazev_zobrazovany": "Sklenice bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "sklenice-bez-oznaceni-5.jpg",
+    "fotka": "sklenice-bez-oznaceni-5.webp",
     "pridano": "2026-08-25",
     "typ": "akcni"
   },
@@ -2020,7 +2020,7 @@
     "nazev_zobrazovany": "Eggenberg (2)",
     "pivovar_id": "eggenberg",
     "zeme": "cz",
-    "fotka": "eggenberg-2.jpg",
+    "fotka": "eggenberg-2.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2029,7 +2029,7 @@
     "nazev_zobrazovany": "Bautzener Edel Pils",
     "pivovar_id": "bautzener",
     "zeme": "de",
-    "fotka": "bautzener.jpg",
+    "fotka": "bautzener.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2038,7 +2038,7 @@
     "nazev_zobrazovany": "Luž (Cvikov)",
     "pivovar_id": "cvikov",
     "zeme": "cz",
-    "fotka": "cvikov-2.jpg",
+    "fotka": "cvikov-2.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2047,7 +2047,7 @@
     "nazev_zobrazovany": "Radeberger Pilsner",
     "pivovar_id": "radeberger",
     "zeme": "de",
-    "fotka": "radeberger.jpg",
+    "fotka": "radeberger.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2056,7 +2056,7 @@
     "nazev_zobrazovany": "Sklenice bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "sklenice-bez-oznaceni-6.jpg",
+    "fotka": "sklenice-bez-oznaceni-6.webp",
     "pridano": "2026-08-25",
     "typ": "akcni"
   },
@@ -2065,7 +2065,7 @@
     "nazev_zobrazovany": "Karlsberg Weizen",
     "pivovar_id": "karlsberg",
     "zeme": "de",
-    "fotka": "karlsberg.jpg",
+    "fotka": "karlsberg.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2074,7 +2074,7 @@
     "nazev_zobrazovany": "Sklenice bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "sklenice-bez-oznaceni-7.jpg",
+    "fotka": "sklenice-bez-oznaceni-7.webp",
     "pridano": "2026-08-25",
     "typ": "akcni"
   },
@@ -2083,7 +2083,7 @@
     "nazev_zobrazovany": "Pilsner Urquell (8)",
     "pivovar_id": "plzensky-prazdroj",
     "zeme": "cz",
-    "fotka": "plzensky-prazdroj-8.jpg",
+    "fotka": "plzensky-prazdroj-8.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2092,7 +2092,7 @@
     "nazev_zobrazovany": "Holsten Pilsener",
     "pivovar_id": "holsten",
     "zeme": "de",
-    "fotka": "holsten.jpg",
+    "fotka": "holsten.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2101,7 +2101,7 @@
     "nazev_zobrazovany": "Heineken (3)",
     "pivovar_id": "heineken",
     "zeme": "nl",
-    "fotka": "heineken-3.jpg",
+    "fotka": "heineken-3.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2110,7 +2110,7 @@
     "nazev_zobrazovany": "Samson (3)",
     "pivovar_id": "samson",
     "zeme": "cz",
-    "fotka": "samson-3.jpg",
+    "fotka": "samson-3.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2119,7 +2119,7 @@
     "nazev_zobrazovany": "Chișinău",
     "pivovar_id": "chisinau",
     "zeme": "md",
-    "fotka": "chisinau.jpg",
+    "fotka": "chisinau.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2128,7 +2128,7 @@
     "nazev_zobrazovany": "Meteor",
     "pivovar_id": "meteor",
     "zeme": "fr",
-    "fotka": "meteor.jpg",
+    "fotka": "meteor.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2137,7 +2137,7 @@
     "nazev_zobrazovany": "Rakovar",
     "pivovar_id": "rakovar",
     "zeme": "cz",
-    "fotka": "rakovar.jpg",
+    "fotka": "rakovar.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2146,7 +2146,7 @@
     "nazev_zobrazovany": "Feldschlößchen Pilsner",
     "pivovar_id": "feldschlosschen",
     "zeme": "de",
-    "fotka": "feldschlosschen.jpg",
+    "fotka": "feldschlosschen.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2155,7 +2155,7 @@
     "nazev_zobrazovany": "Vratislav (3)",
     "pivovar_id": "vratislav",
     "zeme": "cz",
-    "fotka": "vratislav-3.jpg",
+    "fotka": "vratislav-3.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2164,7 +2164,7 @@
     "nazev_zobrazovany": "Schneider Weisse",
     "pivovar_id": "schneider-weisse",
     "zeme": "de",
-    "fotka": "schneider-weisse.jpg",
+    "fotka": "schneider-weisse.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2173,7 +2173,7 @@
     "nazev_zobrazovany": "Törring Bier",
     "pivovar_id": "torring",
     "zeme": "de",
-    "fotka": "torring.jpg",
+    "fotka": "torring.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2182,7 +2182,7 @@
     "nazev_zobrazovany": "Sklenice bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "sklenice-bez-oznaceni-8.jpg",
+    "fotka": "sklenice-bez-oznaceni-8.webp",
     "pridano": "2026-08-25",
     "typ": "akcni"
   },
@@ -2191,7 +2191,7 @@
     "nazev_zobrazovany": "Krušovice (6)",
     "pivovar_id": "krusovice",
     "zeme": "cz",
-    "fotka": "krusovice-6.jpg",
+    "fotka": "krusovice-6.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2200,7 +2200,7 @@
     "nazev_zobrazovany": "Svijany (6)",
     "pivovar_id": "svijany",
     "zeme": "cz",
-    "fotka": "svijany-6.jpg",
+    "fotka": "svijany-6.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2209,7 +2209,7 @@
     "nazev_zobrazovany": "Sklenice bez označení",
     "pivovar_id": null,
     "zeme": "ostatni",
-    "fotka": "sklenice-bez-oznaceni-9.jpg",
+    "fotka": "sklenice-bez-oznaceni-9.webp",
     "pridano": "2026-08-25",
     "typ": "akcni"
   },
@@ -2218,7 +2218,7 @@
     "nazev_zobrazovany": "Staropramen (8)",
     "pivovar_id": "staropramen",
     "zeme": "cz",
-    "fotka": "staropramen-8.jpg",
+    "fotka": "staropramen-8.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2227,7 +2227,7 @@
     "nazev_zobrazovany": "Pilsner Urquell (9)",
     "pivovar_id": "plzensky-prazdroj",
     "zeme": "cz",
-    "fotka": "plzensky-prazdroj-9.jpg",
+    "fotka": "plzensky-prazdroj-9.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2236,7 +2236,7 @@
     "nazev_zobrazovany": "Radegast (4)",
     "pivovar_id": "radegast",
     "zeme": "cz",
-    "fotka": "radegast-4.jpg",
+    "fotka": "radegast-4.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   },
@@ -2245,7 +2245,7 @@
     "nazev_zobrazovany": "Leffe",
     "pivovar_id": "leffe",
     "zeme": "be",
-    "fotka": "leffe.jpg",
+    "fotka": "leffe.webp",
     "pridano": "2026-08-25",
     "typ": "pivovarni"
   }
