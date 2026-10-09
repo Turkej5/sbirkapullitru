@@ -2563,5 +2563,23 @@
     "fotka": "trautenberk.webp",
     "pridano": "2026-10-09",
     "typ": "pivovarni"
+  },
+  {
+    "id": "lobec",
+    "nazev_zobrazovany": "Pivovar Lobeč",
+    "pivovar_id": "lobec",
+    "zeme": "cz",
+    "fotka": "lobec.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "gambrinus-11",
+    "nazev_zobrazovany": "Gambrinus (11)",
+    "pivovar_id": "gambrinus",
+    "zeme": "cz",
+    "fotka": "gambrinus-11.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
   }
 ]

@@ -5970,5 +5970,47 @@
         "hodnota": "Zářijový festival s výběrem piv z českých minipivovarů, který Volt pořádá."
       }
     ]
+  },
+  {
+    "id": "lobec",
+    "nazev": "Pivovar Lobeč",
+    "zeme": "cz",
+    "mesto": "Lobeč",
+    "popisek": "Parostrojní pivovar v obci Lobeč u Mšena na okraji Kokořínska, písemně doložený už roku 1586. Výroba skončila v roce 1943, areál pak desítky let chátral. Od roku 2007 ho obnovují architekti Jana a Pavel Prouzovi a od roku 2015 se tu znovu vaří pivo.",
+    "popisek_dlouhy": "První písemná zmínka o pivovaru v Lobči pochází z roku 1586, z inventáře majetku panství. Renesanční jádro dnešní budovy vzniklo kolem přelomu 16. a 17. století. V roce 1891 koupil panství Mšeno-Lobeč i s pivovarem Rudolf Cicvárek a v letech 1894–1897 nechal provoz přestavět na parostrojní podle plánů inženýra Josefa Rosenberga, který si patentoval i systém podzemních sklepů s ústředním ledovým sklepem. Na přestavbu se zadlužil, panství prodal a sedmnáct let pak strávil v Číně, na Jávě a na Borneu.\n\nNejlepší léta zažil pivovar za sládka Josefa Tománka, který tu působil v letech 1907–1921; roční výstav tehdy dosahoval zhruba 10 tisíc hektolitrů. Za první světové války Tománek vařil náhražkové pivo z kořenů pýru. Od roku 1927 patřil lobečský pivovar Společenskému pivovaru v nedaleké Podkováni a poslední pivo se tu uvařilo v roce 1943. Po roce 1948 přešel areál pod národní správu a za socialismu sloužil státnímu statku jako sklad ovoce a zeleniny, garáž a dílny. Původní parní stroj byl v 50. letech sešrotován a od 80. let stál pivovar opuštěný.\n\nV dubnu 2007 objevili zchátralý areál architekti Jana a Pavel Prouzovi a koupili ho. Obnovu začali sklepy a střechami, kterých je v areálu patnáct, a sami bydlí v bývalém domě sládka. V roce 2009 prohlásilo ministerstvo kultury pivovar kulturní památkou a v roce 2013 se stal součástí Evropské cesty industriálního dědictví (ERIH). Obnovený pivovar byl slavnostně požehnán 30. května 2015 a od téhož měsíce dohlíží na vaření sládek Tomáš Fencl. Základem výroby je jedenáctistupňový světlý ležák, vedle něj vzniká třináctistupňový jantarový ležák Tománek pojmenovaný po někdejším sládkovi, dále red ale, IPA, stout a gruit – historický styl vařený bez chmele.\n\nV roce 2023 získala obnova pivovaru cenu Evropské unie za kulturní dědictví / Europa Nostra Awards; porota ji označila za příklad citlivé rehabilitace industriálního dědictví. Místo původního parního stroje pořídili majitelé stroj z roku 1895 od firmy Bolzano, Tedesco a spol. ze Slaného, který koupili od mlynáře z Rakovnicka. Podle Technického muzea v Brně jde možná o jediný dochovaný kus tohoto výrobce. Stroj nepohání výrobu, je vystavený ve strojovně jako součást expozice o parostrojním pivovarnictví. Renesanční sladovna se sklepenými prostorami a kamennou máčírnou na namáčení obilí zůstává záměrně bez provozu, aby se zachovala její památková hodnota.",
+    "lat": 50.461,
+    "lon": 14.6669,
+    "fakta": [
+      {
+        "ikona": "datum",
+        "label": "První zmínka",
+        "hodnota": "Rok 1586 v inventáři majetku panství; renesanční jádro budovy vzniklo kolem roku 1600."
+      },
+      {
+        "ikona": "vystavba",
+        "label": "Parostrojní přestavba",
+        "hodnota": "V letech 1894–1897 pro Rudolfa Cicvárka podle plánů inženýra Josefa Rosenberga."
+      },
+      {
+        "ikona": "osoba",
+        "label": "Sládek Tománek",
+        "hodnota": "Josef Tománek vařil v Lobči v letech 1907–1921, výstav tehdy dosahoval asi 10 tisíc hl ročně."
+      },
+      {
+        "ikona": "konec",
+        "label": "Přerušení výroby",
+        "hodnota": "Poslední pivo před obnovou se uvařilo v roce 1943, areál pak sloužil státnímu statku."
+      },
+      {
+        "ikona": "budova",
+        "label": "Obnova",
+        "hodnota": "Od roku 2007 architekti Jana a Pavel Prouzovi; znovu se vaří od května 2015."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "Europa Nostra",
+        "hodnota": "Cena EU za kulturní dědictví / Europa Nostra Awards 2023 za obnovu pivovaru."
+      }
+    ]
   }
 ]
