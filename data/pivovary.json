@@ -5332,5 +5332,643 @@
         "hodnota": "V roce 2025 ~15 300 zaměstnanců a tržby 243+ mld tureckých lir; 6. největší v Evropě."
       }
     ]
+  },
+  {
+    "id": "nymburk",
+    "nazev": "Pivovar Nymburk (Postřižinské pivo)",
+    "zeme": "cz",
+    "mesto": "Nymburk",
+    "popisek": "Polabský pivovar založený roku 1895, známý značkou Postřižinské pivo. V letech 1920–1948 ho spravoval František Hrabal, otec spisovatele Bohumila Hrabala, a právě sem zasadil Hrabal děj novely Postřižiny.",
+    "popisek_dlouhy": "Vaření piva v Nymburce má písemný doklad už z 26. prosince 1327, kdy král Jan Lucemburský udělil městu mílové právo na výrobu piva. Dnešní pivovar vznikl roku 1895 jako Nymburský pivovar, s. r. o., na základě soudního zápisu z 29. dubna téhož roku. V letech 1897–1898 přesunul výrobu do Zálabí. Za první světové války klesl výstav zhruba na 600 hektolitrů, v roce 1927 prošel modernizací a roku 1931 otevřel stáčírnu v Kolíně.\n\nV letech 1920–1948 vykonával funkci správce pivovaru František Hrabal, otec spisovatele Bohumila Hrabala. Po válce byl podnik znárodněn, v roce 1948 krátce patřil k Polabským pivovarům Kolín a poté k národnímu podniku Nymburské pivovary, který sdružoval provozy v Nymburce, Dobrovici, Dymokurech, Brandýse nad Labem a Mělníku. Roku 1975 dosáhl výstav 100 000 hektolitrů. Po roce 1989 se stal součástí skupiny Pivovary Bohemia, a. s., dnes je samostatným pivovarem; provozuje ho společnost Pivovar Nymburk, spol. s r. o.\n\nHlavní značkou je Postřižinské pivo. Do sortimentu patří Pepinova desítka, Francinův ležák, Tmavý ležák, Doktorova 8° a další piva, například Zlatovar, Bogan, Královar, Bertold, Staročech nebo Střízlík. V roce 2022 vyrobil pivovar 198 254 hektolitrů.\n\nPivovar je spojený s novelou Bohumila Hrabala Postřižiny, jejíž děj se odehrává právě v nymburském pivovaru; Francin a strýc Pepin z knihy dali jméno dvěma pivům. Název Postřižinské pivo osobně schválil sám Hrabal v roce 1991. Filmová adaptace Jiřího Menzela se ovšem nenatáčela v Nymburce, ale v pivovaru v Dalešicích.",
+    "rok_zalozeni": 1895,
+    "lat": 50.1781,
+    "lon": 15.0386,
+    "fakta": [
+      {
+        "ikona": "datum",
+        "label": "První zmínka",
+        "hodnota": "26. prosince 1327 udělil Jan Lucemburský Nymburku mílové právo na vaření piva."
+      },
+      {
+        "ikona": "zalozeni",
+        "label": "Založení",
+        "hodnota": "Roku 1895 jako Nymburský pivovar, s. r. o.; v letech 1897–1898 se výroba přesunula do Zálabí."
+      },
+      {
+        "ikona": "osoba",
+        "label": "Správce",
+        "hodnota": "František Hrabal, otec spisovatele Bohumila Hrabala, vedl pivovar v letech 1920–1948."
+      },
+      {
+        "ikona": "kultura",
+        "label": "Postřižiny",
+        "hodnota": "Hrabalova novela se odehrává v nymburském pivovaru; Menzelův film se ale natáčel v Dalešicích."
+      },
+      {
+        "ikona": "znamka",
+        "label": "Značka",
+        "hodnota": "Název Postřižinské pivo osobně schválil Bohumil Hrabal v roce 1991."
+      },
+      {
+        "ikona": "statistika",
+        "label": "Výstav",
+        "hodnota": "100 000 hl v roce 1975, 198 254 hl v roce 2022."
+      }
+    ]
+  },
+  {
+    "id": "tahoun",
+    "nazev": "Pivovar Tahoun",
+    "zeme": "cz",
+    "mesto": "Všejany",
+    "popisek": "Minipivovar s restaurací ve Všejanech-Vanovicích na Mladoboleslavsku, otevřený v červnu 2022. Vlajkovou lodí je světlý ležák Tahoun, vedle něj vaří tmavý ležák, svrchně kvašená piva a sezónní speciály.",
+    "popisek_dlouhy": "Pivovar Tahoun stojí v domě Hlavní 58 ve Všejanech, v místní části Vanovice, asi 18 kilometrů jižně od Mladé Boleslavi. Pro veřejnost se otevřel 10. června 2022 a vedle varny provozuje i vlastní restauraci. Sládkem je Jan Seifert. Název podle pivovaru neodkazuje na lákání hostů do hospody, ale na sloveso „táhnouti“ a staré soutěžní přetahování lanem.\n\nZákladem nabídky je světlý ležák Tahoun (5 % alkoholu, 32 IBU), uvařený ze světlého sladu a žateckého poloraného červeňáku a zrající šest týdnů. Stálou řadu doplňují světlá desítka Vyrovnaná, tmavý ležák Rozvážný, americký pale ale Poklidná za studena chmelený americkými chmely a letní ale Mrazivá s kryo chmelem. Pivovar postupně přidal i řadu speciálů — ovocné kyseláče typu Catharina sour, hazy IPA, barleywine Mocný zrající na dubových štěpinách nebo nealkoholický ležák Tahounek (2025). Pro děti a řidiče vaří limonádu barvenou ibiškem.\n\nV prvním roce provozu uvařil pivovar necelých 1 000 hektolitrů, které šly převážně do vlastní restaurace. S rozšířením distribuce vzrostl výstav na zhruba 1 800 hektolitrů v roce 2025.",
+    "rok_zalozeni": 2022,
+    "lat": 50.2386,
+    "lon": 14.9561,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Otevření",
+        "hodnota": "Pro veřejnost otevřen 10. června 2022 v místní části Vanovice, s vlastní restaurací."
+      },
+      {
+        "ikona": "osoba",
+        "label": "Sládek",
+        "hodnota": "Jan Seifert, sládek minipivovaru ve Všejanech-Vanovicích."
+      },
+      {
+        "ikona": "znamka",
+        "label": "Název",
+        "hodnota": "Odvozen od slovesa „táhnouti“ a historického přetahování lanem."
+      },
+      {
+        "ikona": "pivo",
+        "label": "Vlajková loď",
+        "hodnota": "Světlý ležák Tahoun, 5 % alkoholu, žatecký poloraný červeňák, šest týdnů zrání."
+      },
+      {
+        "ikona": "chmel",
+        "label": "Kryo chmel",
+        "hodnota": "Letní ale Mrazivá je chmelená lyofilizovaným kryo chmelem z USA."
+      },
+      {
+        "ikona": "statistika",
+        "label": "Výstav",
+        "hodnota": "Necelých 1 000 hl v prvním roce, zhruba 1 800 hl v roce 2025."
+      }
+    ]
+  },
+  {
+    "id": "brezi-koza",
+    "nazev": "Pivovar Březí koza",
+    "zeme": "cz",
+    "mesto": "Vlachovo Březí",
+    "popisek": "Obnovený panský pivovar ve Vlachově Březí v podhůří Šumavy. Společnost Panský pivovar Vlachovo Březí vznikla v roce 2017 a v roce 2019 se po 97 letech v historické budově znovu začalo vařit.",
+    "popisek_dlouhy": "Vaření piva ve Vlachově Březí se datuje do roku 1538. První písemná zmínka o panském pivovaru pochází z roku 1623, kdy byl prodán; kolem roku 1670 prošel velkou přestavbou, která mu dala dodnes zachovanou podobu. Pivovar patřil k zámeckému areálu, který od roku 1858 do roku 1945 vlastnili Herbersteinové. Nejvyššího zaznamenaného výstavu, 4 480 hektolitrů, dosáhl v roce 1894 za Vojtěcha Fanfuleho. Vaření skončilo ve 20. letech 20. století, kdy bylo veškeré zařízení rozprodáno.\n\nPo konfiskaci v roce 1946 budova za socialismu chátrala. Postupně dostala novou střechu (2003) a v letech 2014–2015 opravený plášť a část interiéru. Roku 2017 vznikla společnost Panský pivovar Vlachovo Březí s. r. o., která si budovu pronajala od města s cílem obnovit vaření přímo v historických prostorách. V roce 2018 byly zrekonstruovány sklepy a varna, začátkem roku 2019 se instalovala technologie a ještě téhož roku se začalo vařit — po 97 letech přestávky.\n\nZakladatelem je bývalý manažer Radek Arnošt, sládkem a spolumajitelem Jaroslav Havlátek, který má za sebou zhruba třicet let praxe, mimo jiné v pivovaru Protivín. Piva kvasí v otevřených spilkách, dlouho zrají a nejsou filtrovaná ani pasterizovaná. Řada nese jméno Březí koza: Originál, Jantar, Vídeň, KoloBěžka a Hop Hop Hop. Pivovar nemá vlastní restauraci, pivo prodává v lahvích a sudech a dodává do okolních hospod.\n\nNázev vybrali ze zhruba 140 návrhů. Odkazuje na městský znak se šedým kozlem v modrém štítě, který Březí dostalo roku 1538 spolu s povýšením na městečko, a zároveň na dvojsmysl slova „březí“ — plné a živé.",
+    "rok_zalozeni": 2017,
+    "lat": 49.0822,
+    "lon": 13.9578,
+    "fakta": [
+      {
+        "ikona": "budova",
+        "label": "Budova",
+        "hodnota": "Panský pivovar přestavěný kolem roku 1670, součást zámeckého areálu Herbersteinů (1858–1945)."
+      },
+      {
+        "ikona": "statistika",
+        "label": "Rekord",
+        "hodnota": "4 480 hl v roce 1894 za Vojtěcha Fanfuleho."
+      },
+      {
+        "ikona": "vystavba",
+        "label": "Obnova",
+        "hodnota": "Firma založena 2017, rekonstrukce sklepů a varny 2018, vaření obnoveno 2019 po 97 letech."
+      },
+      {
+        "ikona": "osoba",
+        "label": "Sládek",
+        "hodnota": "Jaroslav Havlátek, spolumajitel s třicetiletou praxí, mimo jiné z pivovaru Protivín."
+      },
+      {
+        "ikona": "laborator",
+        "label": "Technologie",
+        "hodnota": "Kvašení v otevřených spilkách, dlouhé zrání, bez filtrace a pasterace."
+      },
+      {
+        "ikona": "zvire",
+        "label": "Název",
+        "hodnota": "Podle městského znaku s šedým kozlem z roku 1538 a dvojsmyslu slova „březí“."
+      }
+    ]
+  },
+  {
+    "id": "brewhemian",
+    "nazev": "Brewhemian",
+    "zeme": "cz",
+    "mesto": "Plzeň",
+    "popisek": "Plzeňská pivní značka, která provozuje pivní kavárnu Francis, bistro Pivstro a pořádá festival Brūstok. Sama nevaří — v Plzni hledá prostor pro piva malých pivovarů vedle Prazdroje.",
+    "popisek_dlouhy": "Brewhemian vznikl v Plzni kolem pivní kavárny Francis na náměstí Republiky, kterou v roce 2013 převzal tehdy dvaadvacetiletý Adam Vlček. Název spojuje anglické „brew“ (vařit pivo) a „Bohemian“ — obyvatele Čech i bohéma. Rodinná vazba k pivu sahá k Adamovu pradědečkovi Alexandru Vlčkovi (nar. 1877), který pracoval jako sladmistr a sládek v Plzeňském Prazdroji a později vedl pivovar Zlatozdroj.\n\nProtože Francis neumožňoval vaření jídel, otevřel Brewhemian v roce 2016 v Bezručově ulici bistro Pivstro s kuchyní laděnou k pivu. Podnik vedou Adam a jeho sestra Alžběta, k nim se přidal kuchař Petr Ján. Brewhemian sám pivo nevaří: k otevření Pivstra uvařil Chris Baerwaldt z pivovaru Zhůřák speciální House Ale a Zhůřák zůstal na pípě natrvalo. Ke značce patřila i prodejna Pivotéka.\n\nOd roku 2016 pořádá Brewhemian pivně-kulturní festival Brūstok (původně Brewstock), který se konal mimo jiné v plzeňském DEPO2015 a na nádvoří Plzeňského Prazdroje; v roce 2026 proběhl podesáté. Adam Vlček dnes působí jako Head Tapster Plzeňského Prazdroje.",
+    "lat": 49.7476,
+    "lon": 13.3774,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Začátek",
+        "hodnota": "2013 — Adam Vlček ve 22 letech převzal pivní kavárnu Francis na náměstí Republiky."
+      },
+      {
+        "ikona": "znamka",
+        "label": "Název",
+        "hodnota": "Spojení anglického „brew“ a „Bohemian“ — obyvatel Čech i bohém."
+      },
+      {
+        "ikona": "rodina",
+        "label": "Rodina",
+        "hodnota": "Praděd Alexandr Vlček (nar. 1877) byl sladmistrem a sládkem v Plzni, později vedl pivovar Zlatozdroj."
+      },
+      {
+        "ikona": "pivo",
+        "label": "Pivstro",
+        "hodnota": "Bistro otevřené 2016; k otevření pro něj Zhůřák uvařil House Ale."
+      },
+      {
+        "ikona": "festival",
+        "label": "Brūstok",
+        "hodnota": "Pivně-kulturní festival od roku 2016, v roce 2026 podesáté, i na nádvoří Prazdroje."
+      }
+    ]
+  },
+  {
+    "id": "kolstejn",
+    "nazev": "Minipivovar Kolštejn",
+    "zeme": "cz",
+    "mesto": "Branná",
+    "popisek": "Restaurační minipivovar v Branné v Jeseníkách, součást Relax centra Kolštejn. Vaří od roku 2013 v historické budově Vogtey, bývalém fojtství, a navazuje na pivovarnictví obce doložené už v 16. století.",
+    "popisek_dlouhy": "Branná, dříve Goldenstein, česky Kolštejn, má pivovarnictví doložené z doby Žerotínů — pivovar v obci zmiňují záznamy z let 1575 a 1591. Restaurace, v níž dnes minipivovar sídlí, stojí v budově Vogtey, jejíž jádro souvisí s fojtstvím ze 14. století; podle místní tradice dostal fojt kolem roku 1325 právo vařit a prodávat pivo. Vaření v obci skončilo na začátku 20. století.\n\nStavba nového minipivovaru začala v roce 2012 jako součást Relax centra Kolštejn, jehož ředitelem byl Tomáš Drápal. Pivovar byl vysvěcen 28. března 2013 a pokřtěn 28. června 2013; při stavbě se sklep prohloubil asi o metr. V přízemí stojí dvounádobová varna s pracovním objemem 500 litrů, ve sklepě šest ležáckých tanků a dvě otevřené spilky. Prvním sládkem byl Jiří Maks, který se k řemeslu dostal přes domácí vaření; od roku 2015 vařil Vojtěch Slivoň.\n\nPiva se vaří dvourmutovým dekokčním postupem a nejsou filtrovaná ani pasterizovaná. Hlavním pivem je světlý ležák Bran 12° — v bretonštině „bran“ znamená havran a jméno nese i bretonská kapela spojená s Relax centrem. Polotmavý Dolmen 11°, tmavý speciál Menhir 15° a výčepní Vogtey 10° pojmenovaný po budově fojtství doplnily postupně svrchně kvašená piva jako Wiess, Parus (APA), Oatmeal Stout nebo English Strong Ale. Už v květnu 2013 získala piva regionální značku Jeseníky – originální produkt.",
+    "rok_zalozeni": 2013,
+    "lat": 50.1503,
+    "lon": 17.0139,
+    "fakta": [
+      {
+        "ikona": "datum",
+        "label": "Historie",
+        "hodnota": "Pivovar v obci doložen v letech 1575 a 1591 za Žerotínů; vaření skončilo na počátku 20. století."
+      },
+      {
+        "ikona": "budova",
+        "label": "Budova",
+        "hodnota": "Vogtey — bývalé fojtství, jehož počátky tradice klade kolem roku 1325."
+      },
+      {
+        "ikona": "zalozeni",
+        "label": "Otevření",
+        "hodnota": "Stavba od 2012, vysvěcení 28. března a křest 28. června 2013."
+      },
+      {
+        "ikona": "laborator",
+        "label": "Varna",
+        "hodnota": "Dvounádobová varna 500 l, šest ležáckých tanků, dvě otevřené spilky, dekokce na dva rmuty."
+      },
+      {
+        "ikona": "zvire",
+        "label": "Bran",
+        "hodnota": "Vlajkový ležák Bran 12° nese bretonské slovo pro havrana."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "Regionální značka",
+        "hodnota": "V květnu 2013 získala piva značku Jeseníky – originální produkt."
+      }
+    ]
+  },
+  {
+    "id": "bohdanec",
+    "nazev": "Pivovar Bohdaneč",
+    "zeme": "cz",
+    "mesto": "Bohdaneč",
+    "popisek": "Minipivovar se šunkárnou v obci Bohdaneč na Kutnohorsku, součást projektu Dobrý kraj. Vaří spodně i svrchně kvašená piva ve staré vesnické hospodě a v roce 2023 uvařil podle nálezu z doby bronzové prosné pivo Sluneční bárka.",
+    "popisek_dlouhy": "Pivovar Bohdaneč stojí v obci Bohdaneč na Kutnohorsku, v údolí Ostrovského potoka na pomezí Středočeského kraje a Vysočiny. Za jeho vznikem stojí čtveřice přátel z lesnického prostředí — Jan Mičánek, Stanislav Plešák, Jan Petrásek a Pavel Faltýnek — kteří neměli zkušenosti z gastronomie, ale doma vařili pivo a sušili maso. Obnovili bývalou vesnickou hospodu, která v obci fungovala po generace, a v ní dnes pivovar čepuje své pivo. Provozovatelem je společnost Pivovar Bohdaneč s.r.o.\n\nPivovar je součástí širšího projektu Dobrý kraj, k němuž patří také hotel Agnes, restaurace, pálenice, moštárna, ekofarma a zámeček Ostrov. Stálou nabídku tvoří dva spodně kvašené ležáky, jedenáctka a třináctka, a svrchně kvašený čtrnáctistupňový speciál IPA. Mezi pojmenovanými pivy jsou Agnes 11°, kouřový ležák Řeplice 11°, tmavý Šlechtín 12°, Kotoučov 13° nebo Nová louka 14°; sezonně vzniká Bohdanečské smrkové s výhonky smrku. Chmel si pivovar pěstuje sám a ječmen pochází z velké části rovněž z vlastních polí. Výčep má asi dvacet míst.\n\nK pivovaru patří šunkárna, která ročně zpracuje až tisíc vepřových kýt na sušenou šunku typu pršut. Maso pochází z prasat plemene mangalica chovaných na pastvě na vlastní farmě a krmených mimo jiné mláto z pivovaru a výlisky z moštárny. Šunka zraje nejméně osmnáct měsíců a v roce 2024 získala ocenění Regionální potravina Středočeského kraje.\n\nNejvíce pozornosti vzbudilo pivo Sluneční bárka. Vychází z nálezu bronzového vědra z 9. století před naším letopočtem, objeveného v roce 2017 u Kladiny na Pardubicku, v němž vědci z Univerzity Palackého v Olomouci, Masarykovy a Jihočeské univerzity identifikovali zbytky nejstaršího známého prosného bylinného piva v Evropě. Pivovar Bohdaneč ho ve spolupráci s Experimentálním pivovarem Univerzity Palackého uvařil z prosa s bylinami, jako jsou světlík, mochna stříbrná, tužebník nebo pelyněk. Premiéru mělo pivo v červnu 2023 na Pardubickém pivním festivalu.",
+    "lat": 49.7783,
+    "lon": 15.2234,
+    "fakta": [
+      {
+        "ikona": "osoba",
+        "label": "Zakladatelé",
+        "hodnota": "Jan Mičánek, Stanislav Plešák, Jan Petrásek a Pavel Faltýnek, přátelé z lesnického prostředí."
+      },
+      {
+        "ikona": "budova",
+        "label": "Budova",
+        "hodnota": "Bývalá vesnická hospoda v Bohdanči, která v obci fungovala po generace."
+      },
+      {
+        "ikona": "chmel",
+        "label": "Suroviny",
+        "hodnota": "Chmel z vlastní pěstírny, ječmen z velké části z vlastních polí."
+      },
+      {
+        "ikona": "pivo",
+        "label": "Piva",
+        "hodnota": "Ležáky 11° a 13°, IPA 14° a pojmenovaná piva jako kouřový ležák Řeplice nebo tmavý Šlechtín."
+      },
+      {
+        "ikona": "kultura",
+        "label": "Sluneční bárka",
+        "hodnota": "Prosné bylinné pivo podle nálezu bronzového vědra z 9. století př. n. l., premiéra v červnu 2023."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "Šunkárna",
+        "hodnota": "Pršut z mangalice zraje nejméně 18 měsíců, v roce 2024 ocenění Regionální potravina."
+      }
+    ]
+  },
+  {
+    "id": "kbelsky-pivovar",
+    "nazev": "Kbelský pivovar",
+    "zeme": "cz",
+    "mesto": "Praha-Kbely",
+    "popisek": "Minipivovar v pražských Kbelích na trase historické poutní cesty z Prahy do Staré Boleslavi. Akciovou společnost založilo v roce 2016 třináct akcionářů z okolí, první pivo se uvařilo koncem roku 2018.",
+    "popisek_dlouhy": "Ve Kbelích se pivo vařilo od roku 1758, kdy zdejší pivovar nad kbelským rybníkem založil hrabě Černín. Historický pivovar zanikl v roce 1929 a jeho budova se nedochovala. Na tradici navázala až o devadesát let později nová akciová společnost Kbelský pivovar, kterou 29. února 2016 založilo třináct akcionářů, převážně z nejbližšího okolí.\n\nNovostavbu na Mladoboleslavské ulici navrhl architekt Petr Švanda, autor dalších pražských a středočeských minipivovarů. Budova stojí na místě starého rozpadlého stavení, půdorysem sleduje hranici pozemku a sedlovou střechou navazuje na okolní zástavbu. Fasádu tvoří cihlové pásky, interiér kombinuje černé povrchy s masivním dubem a cihlou a varní technologie je vidět velkými okny z ulice i z restaurace. Stavba probíhala v letech 2016–2019, první pivo se uvařilo koncem roku 2018 a restaurace se veřejnosti otevřela 19. ledna 2019.\n\nPivovar pracuje na třínádobové varně o objemu 20 hektolitrů s jedenácti cylindrokónickými tanky, v nichž probíhá kvašení i dozrávání. Jako tlačný plyn včetně výčepu používá dusík. Od léta 2022 zde vaří sládek Vlasta Houdek, absolvent Podskalské pivovarské školy s praxí z Velkých Popovic, Hostomic pod Brdy a Kytína. Pivovar je členem Českomoravského svazu minipivovarů.\n\nIdentita pivovaru vychází z polohy na historické poutní cestě lemované kapličkami z Prahy do Staré Boleslavi; panorama této pouti se objevuje v interiéru i na etiketách a heslem pivovaru je „Na cestě tam a zpátky“. Piva nesou kromě stupňovitosti i jména — světlé ležáky 11 Pocestných a 12 Pilotů, tmavý silný 13 Havranů, pšeničné 10 Syslů nebo svrchně kvašené Jepice ALE. Ležák 12 Pilotů získal v letech 2023 a 2024 titul Král Prahy v soutěži První Pivní Extraliga.",
+    "rok_zalozeni": 2016,
+    "lat": 50.1306,
+    "lon": 14.5479,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Založení",
+        "hodnota": "29. února 2016 třináct akcionářů z okolí založilo akciovou společnost Kbelský pivovar."
+      },
+      {
+        "ikona": "konec",
+        "label": "Předchůdce",
+        "hodnota": "Historický kbelský pivovar hraběte Černína vařil od roku 1758 do zániku v roce 1929."
+      },
+      {
+        "ikona": "budova",
+        "label": "Architekt",
+        "hodnota": "Novostavbu s cihlovou fasádou a technologií viditelnou z ulice navrhl Petr Švanda."
+      },
+      {
+        "ikona": "doprava",
+        "label": "Poutní cesta",
+        "hodnota": "Pivovar stojí na historické poutní cestě z Prahy do Staré Boleslavi, motivu etiket."
+      },
+      {
+        "ikona": "laborator",
+        "label": "Technologie",
+        "hodnota": "Třínádobová varna o objemu 20 hl a jedenáct cylindrokónických tanků."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "Ocenění",
+        "hodnota": "Ležák 12 Pilotů byl v letech 2023 a 2024 vyhlášen Králem Prahy v První Pivní Extralize."
+      }
+    ]
+  },
+  {
+    "id": "trautenberk",
+    "nazev": "Pivovar Trautenberk",
+    "zeme": "cz",
+    "mesto": "Malá Úpa",
+    "popisek": "Horský minipivovar v Horní Malé Úpě u Pomezních Bud, ve sklepích bývalé Tippeltovy boudy ve výšce 1045 metrů. Vaří od konce roku 2015 a jméno nese po záporákovi z Krkonošských pohádek.",
+    "popisek_dlouhy": "Budovu, v níž pivovar sídlí, postavil v letech 1911–1912 stavitel Josef Tippelt z Mladých Buků. Otevřela se jako Bouda císaře Františka Josefa s restaurací a pětadvaceti lůžky. V roce 1929 ji Ignaz Tippelt nechal rozšířit o pětipodlažní přístavbu, po níž měla 63 pokojů. Jméno se měnilo s politickými poměry: po roce 1918 Nová Pomezní a Tippeltova bouda, v květnu 1945 Vachatova bouda a po roce 1948 odborářské rekreační zařízení Družba. Za odborů budova chátrala a po roce 1989 čekala zhruba dvacet let na privatizaci.\n\nRekonstrukci zahájil v roce 2014 pražský developer Martin Kulík, který Malou Úpu navštěvoval od dětství a předtím stál u vzniku pražského minipivovaru Hostivar. Pivovar Trautenberk, a.s. má přes sto akcionářů, převážně přátel a místních boudařů. První várku, svrchně kvašený Trautenberk 14 Red Ale, uvařili o Vánocích 2015 za pomoci sládků Hostivaru Jana Tržila a Františka Poláčka. V prosinci 2016 se otevřela restaurace a první patro ubytování.\n\nPivovar leží ve sklepě budovy zhruba pět metrů pod zemí, ve výšce 1045 metrů nad mořem, s kapacitou až 10 000 hektolitrů ročně. Pivo se nefiltruje ani nepasterizuje. Prvními sládky byli Tomáš Ďuríček a Vojtěch Kaprálek, absolvent Podskalské pivovarské školy; později vaří Kaprálek s Filipem Štěpánkem. Vedle ležáku Trautenberk 11 vznikají APA, Red Ale, stouty i sezonní speciály; Imperial Stout 19° zrál v roce 2017 v sudech od whiskey Jameson. Na festivalu Pivní pečeť v Litoměřicích získal Trautenberk Stout stříbro. V červnu 2026 otevřel pivovar celoroční restauraci a bistro v areálu Bojiště v Trutnově.\n\nJméno odkazuje na Trautenberka, hlavní postavu a záporáka televizního seriálu Krkonošské pohádky; logo tvoří šiška ve tvaru písmene T. Rekonstrukci podle návrhu ateliéru ADR (Petr Kolář, Aleš Lapka) dokončenou v roce 2017 ocenila Česká cena za architekturu 2018 zvláštní cenou Agentury ochrany přírody a krajiny. Obnoveny byly mřížové sloupy z roku 1930 i sál s velkými kamny v uspořádání z Tippeltových časů.",
+    "rok_zalozeni": 2015,
+    "lat": 50.7455,
+    "lon": 15.8218,
+    "fakta": [
+      {
+        "ikona": "budova",
+        "label": "Budova",
+        "hodnota": "Tippeltova bouda z let 1911–1912, původně Bouda císaře Františka Josefa, po roce 1948 odborářská Družba."
+      },
+      {
+        "ikona": "zalozeni",
+        "label": "První várka",
+        "hodnota": "Vánoce 2015, svrchně kvašený Trautenberk 14 Red Ale."
+      },
+      {
+        "ikona": "vlastnik",
+        "label": "Vlastník",
+        "hodnota": "Akciová společnost s více než stovkou akcionářů, iniciátorem je developer Martin Kulík."
+      },
+      {
+        "ikona": "poloha",
+        "label": "Nadmořská výška",
+        "hodnota": "Pivovar leží ve sklepě budovy ve výšce 1045 metrů nad mořem."
+      },
+      {
+        "ikona": "kultura",
+        "label": "Jméno",
+        "hodnota": "Po Trautenberkovi, záporákovi seriálu Krkonošské pohádky; logo tvoří šiška ve tvaru T."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "Architektura",
+        "hodnota": "Rekonstrukce ateliéru ADR získala zvláštní cenu v České ceně za architekturu 2018."
+      }
+    ]
+  },
+  {
+    "id": "frydenlund",
+    "nazev": "Frydenlund",
+    "zeme": "no",
+    "mesto": "Oslo",
+    "popisek": "Norský pivovar založený roku 1859 v Christianii, dnešním Oslu, lodním kapitánem Madsem Langaardem. Vlastní výroba v Oslu skončila v roce 1995, značka Frydenlund se šesticípou hvězdou a iniciálami ML se ale dál vaří v pivovaru Ringnes, který dnes patří Carlsbergu.",
+    "popisek_dlouhy": "Pivovar Frydenlund založil v roce 1859 v Christianii, dnešním Oslu, lodní kapitán a obchodník Mads Ellef Langaard z Lillesandu spolu se třemi společníky. Podnik stál na adrese Pilestredet 52, na pozemku, který kdysi patřil k usedlosti Frydenlund – od ní pivovar převzal jméno. Na místě vyrostl rozsáhlý areál převážně z červených cihel, který navrhl a postavil architekt Asmus Lenschow. Po počátečních potížích se pivovar stal výdělečným; Langaard vedle něj podnikal v hornictví, lesnictví a lodní dopravě a pivovar později převzal jeho syn Christian Langaard.\n\nFrydenlund patřil k průkopníkům norského pivovarnictví. V roce 1883 získalo jeho exportní pivo královskou stříbrnou medaili na průmyslové a umělecké výstavě na Tullinløkka. O rok později byla zaregistrována ochranná známka pivovaru – šesticípá hvězda s iniciálami zakladatele ML – jako první chráněná ochranná známka v Norsku. V roce 1886 pak ve Frydenlundu vznikla první pivovarská laboratoř v zemi.\n\nSamostatným podnikem zůstal Frydenlund do roku 1962, kdy se spolu s pivovarem Schous stal dceřinou společností skupiny De Sammensluttede Bryggerier. V roce 1977 se oba pivovary sloučily do Frydenlund Schous Bryggeri a o rok později firmu koupila Nora Industrier, vlastník pivovaru Ringnes. Po ukončení výroby u Schous se Frydenlund spojil s Ringnesem do společnosti Frydenlund Ringnes Bryggerier, která se později přejmenovala na Ringnes AS. Od roku 1991 skupinu ovládala Orkla a v roce 1995 skončila výroba piva ve vlastních prostorách Frydenlundu.\n\nZnačka tím nezanikla. Piva Frydenlund se dál vaří v pivovaru Ringnes, který je od roku 2004 součástí dánské skupiny Carlsberg, a na etiketách se stále objevuje hvězda s iniciálami ML. Budovy na Pilestredet byly zčásti zbořeny, zbytek přestavěn pro vysokou školu Høgskolen i Oslo; v sousedství vyrostly kanceláře norského Nejvyššího kontrolního úřadu (Riksrevisjonen) a byty.",
+    "rok_zalozeni": 1859,
+    "lat": 59.9211,
+    "lon": 10.7334,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Založení",
+        "hodnota": "1859 v Christianii (Oslo), zakladatelem byl lodní kapitán Mads Ellef Langaard z Lillesandu."
+      },
+      {
+        "ikona": "znamka",
+        "label": "Ochranná známka",
+        "hodnota": "Šesticípá hvězda s iniciálami ML, registrovaná 1884 jako první chráněná ochranná známka v Norsku."
+      },
+      {
+        "ikona": "laborator",
+        "label": "Laboratoř",
+        "hodnota": "V roce 1886 vznikla ve Frydenlundu první pivovarská laboratoř v Norsku."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "Medaile",
+        "hodnota": "Královská stříbrná medaile pro exportní pivo na výstavě na Tullinløkka v roce 1883."
+      },
+      {
+        "ikona": "konec",
+        "label": "Konec výroby",
+        "hodnota": "V roce 1995 skončilo vaření ve vlastních prostorách na Pilestredet 52."
+      },
+      {
+        "ikona": "vlastnik",
+        "label": "Dnes",
+        "hodnota": "Značku vaří pivovar Ringnes, od roku 2004 součást dánské skupiny Carlsberg."
+      }
+    ]
+  },
+  {
+    "id": "eisenacher",
+    "nazev": "Eisenacher Brauerei",
+    "zeme": "de",
+    "mesto": "Eisenach",
+    "popisek": "Pivovar v durynském Eisenachu, jehož počátky sahají do roku 1828, kdy místní měšťané s várečným právem vybudovali společný skalní sklep. Pivo nese jméno hradu Wartburg nad městem; od roku 2012 se značka vaří na zakázku mimo Eisenach.",
+    "popisek_dlouhy": "Vaření piva má v Eisenachu dlouhou historii – klášterní pivovar na Frauenplanu je doložen už ve 13. století, v roce 1525 se stal knížecím a od roku 1610 patřil městu. Za počátek dnešního pivovaru se ale považuje rok 1828, kdy 244 měšťanů s várečným právem nechalo vybudovat společný skalní sklep. Téhož roku vznikl ledový sklep, nejstarší dochovaná budova areálu, a zhruba v roce 1839 trojpodlažní hrázděná sladovna. Od roku 1840 přibývaly na Wartburgallee pod městským parkem další provozní budovy.\n\nV březnu 1874 se várečné společenství rozhodlo přeměnit na akciovou společnost; vznikla Vereinsbrauerei, od roku 1886 Aktienbrauerei Eisenach. Ve městě tehdy vařily i další podniky: Petersberger Brauerei, založená roku 1872 Albertem Erbslöhem a Alexandrem Schuchardem, a zámecký pivovar sídlící od roku 1635 v bývalém františkánském klášteře, jehož školu v letech 1498–1501 navštěvoval Martin Luther. Oba se roku 1892 spojily a v roce 1918 je pohltila Aktienbrauerei. Eisenašské pivo sbíralo ocenění, mimo jiné zlatou medaili na světové výstavě v St. Louis 1904, a od roku 1914 se prodávalo pod chráněnou značkou Wartburg-Bier.\n\nV roce 1948 byl podnik vyvlastněn sovětskou vojenskou správou a stal se národním podnikem (VEB Brauerei Eisenach), od roku 1969 součástí nápojového kombinátu v Erfurtu. Po sjednocení Německa byl v roce 1990 privatizován jako Eisenacher Brauerei GmbH. V roce 2010 podal insolvenční návrh; o rok později obnovil eisenašské značky místní investor pod firmou Wartburg Brauerei Eisenach GmbH a od roku 2012 se pivo vaří na zakázku v jiných pivovarech – vaření v samotném Eisenachu skončilo. Hlavními značkami jsou Wartburg Pils a Wartburg Export, sezonně bock; tmavý ležák Schwarzer Drachen se vařil zhruba od roku 1996 až do insolvence.\n\nPivovarský areál z let 1825–1914 je kulturní památkou. Jeho dominantou je varna z roku 1908 s měděnými kotli z roku 1911. V březnu 2015 byla východní část historických budov podél parkové zdi zbořena kvůli parkovišti, sladovna, varna a kancelářská budova zůstaly. Dnes v areálu sídlí lezecký park a hostel Alte Brauerei. Varna v roce 2006 posloužila jako kulisa pro epizodu televizního seriálu Familie Dr. Kleist a od roku 1993 se tu každoročně konala chmelová slavnost Hopfenfest.",
+    "rok_zalozeni": 1828,
+    "lat": 50.9732,
+    "lon": 10.3253,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Založení",
+        "hodnota": "1828 – 244 eisenašských měšťanů s várečným právem nechalo vybudovat společný skalní sklep."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "St. Louis 1904",
+        "hodnota": "Zlatá medaile na světové výstavě v St. Louis v roce 1904."
+      },
+      {
+        "ikona": "znamka",
+        "label": "Značka",
+        "hodnota": "Od roku 1914 se pivo prodává pod chráněnou značkou Wartburg-Bier podle hradu nad městem."
+      },
+      {
+        "ikona": "zmena",
+        "label": "Insolvence",
+        "hodnota": "Insolvence 2010, od roku 2012 se pivo vaří na zakázku mimo Eisenach."
+      },
+      {
+        "ikona": "budova",
+        "label": "Varna",
+        "hodnota": "Památkově chráněná varna z roku 1908 s měděnými kotli z roku 1911."
+      },
+      {
+        "ikona": "kultura",
+        "label": "Luther",
+        "hodnota": "Zámecký pivovar sídlil v bývalém klášteře, jehož školu v letech 1498–1501 navštěvoval Martin Luther."
+      }
+    ]
+  },
+  {
+    "id": "landskron",
+    "nazev": "Landskron Brauerei Görlitz",
+    "zeme": "de",
+    "mesto": "Görlitz",
+    "popisek": "Pivovar v saském Görlitz, založený roku 1869 jako akciový pivovar a pojmenovaný podle hory Landeskrone nad městem. Jeho sklepy z doby založení jsou památkově chráněné a dodnes v nich zraje pivo.",
+    "popisek_dlouhy": "Pivovar vznikl v roce 1869 jako Görlitzer Aktien-Brauerei se základním kapitálem 250 000 tolarů. Stojí na svahu nad údolím Lužické Nisy a jméno si vzal od hory Landeskrone, která je dominantou Görlitz. Značka Landskron byla chráněna v roce 1882 a o tři roky později získalo pivo zlatou medaili na görlitzké živnostenské a průmyslové výstavě. Od roku 1903 vedl podnik ředitel Theodor Scheller; v roce 1908 výroba poprvé dosáhla 100 000 hektolitrů. V letech 1907–1911 vyrostly nové sklepy a stáčírna, v roce 1913 nová varna a v letech 1914–1916 správní budova s ředitelskou vilou podle návrhu architekta Gerharda Röhra. Pivovar pak převzal místního konkurenta Zum Felsenkeller a získal většinové podíly v pivovarech v Löbau, Sprembergu a slezském Löwenbergu. Za Walthera Schellera (1928–1946) vzniklo stylizované „L“, které nese etiketa dodnes.\n\nV roce 1959 vstoupil do firmy stát a v roce 1972 byl pivovar zcela znárodněn. Rekordní výstav 541 000 hektolitrů přišel v roce 1988. Od roku 1991 se opět vaří podle německého zákona o čistotě piva a v roce 1992 získala pivovar zpět rodina Schellerů. V roce 2003 se stal součástí skupiny Holsten a v červenci 2006 ho koupila rodinná nadace podnikatele Rolfa Lohbecka. Dnes jako Landskron Brau-Manufaktur zaměstnává kolem 70 lidí a ročně uvaří asi 162 000 hektolitrů. Hlavním pivem je Landskron Pilsner, vedle něj pšeničné Weizen, které v roce svého uvedení 2006 získalo zlatou medaili DLG, dále světlý ležák, kvasnicový Kellerbier, sezonní bock a tmavé Pupen-Schultzes Schwarzes původem z Chotěbuzi, slazené umělými sladidly.\n\nPivovar patří k nejstarším dosud fungujícím průmyslovým památkám v Německu. Pod ochranou jsou kvasné sklepy z roku 1869, varna z roku 1913, kotelna i správní budova s ředitelskou vilou. Pivo zraje ve sklepech dvanáct metrů pod zemí 40 dní, déle než je obvyklé. Protože je Görlitz od roku 1945 nejvýchodnějším městem Německa, propagoval se Landskron jako nejvýchodnější pivovar země – titul ztratil v roce 2006, kdy o pár metrů dál na Nise otevřel pivovar s hostincem. Ulice před varnou si zahrála newyorský přístav ve filmu Cesta kolem světa za 80 dní z roku 2004 a od roku 2003 se v areálu koná letní slavnost Braufest der Sinne, v roce 2018 s asi 12 000 návštěvníky.",
+    "rok_zalozeni": 1869,
+    "lat": 51.1403,
+    "lon": 14.9883,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Založení",
+        "hodnota": "1869 jako Görlitzer Aktien-Brauerei se základním kapitálem 250 000 tolarů."
+      },
+      {
+        "ikona": "rodina",
+        "label": "Rod Schellerů",
+        "hodnota": "Pivovar od roku 1903 vedli Schellerové; po znárodnění 1972 ho rodina získala zpět v roce 1992."
+      },
+      {
+        "ikona": "vlastnik",
+        "label": "Vlastník",
+        "hodnota": "Od července 2006 rodinná nadace podnikatele Rolfa Lohbecka, předtím krátce skupina Holsten."
+      },
+      {
+        "ikona": "budova",
+        "label": "Sklepy",
+        "hodnota": "Památkově chráněné kvasné sklepy z roku 1869, pivo v nich zraje 12 metrů pod zemí 40 dní."
+      },
+      {
+        "ikona": "poloha",
+        "label": "Nejvýchodnější",
+        "hodnota": "Dlouho nejvýchodnější pivovar Německa – titul ztratil v roce 2006."
+      },
+      {
+        "ikona": "kultura",
+        "label": "Film",
+        "hodnota": "Ulice před varnou hrála newyorský přístav ve filmu Cesta kolem světa za 80 dní (2004)."
+      }
+    ]
+  },
+  {
+    "id": "tyskie",
+    "nazev": "Tyskie Browary Książęce",
+    "zeme": "pl",
+    "mesto": "Tychy",
+    "popisek": "Knížecí pivovar v hornoslezských Tychách, doložený od roku 1629. Dnes patří do Kompanie Piwowarské ve vlastnictví japonské skupiny Asahi a vaří jednu z nejprodávanějších polských značek, Tyskie.",
+    "popisek_dlouhy": "Za rok založení se považuje 1629, kdy se pivovar poprvé objevuje v úplném soupisu majetku pszczyńského panství rodu Promnitzů: „Tento dvůr má značné várečné právo, pivo se tu může vařit každý týden.“ Příjmová kniha z roku 1613 naznačuje, že se v Tychách vařilo ještě dříve. Zásadní rozmach přinesl rok 1861 za Jana Jindřicha XI. Hochberga, knížete pszczyńského – od jeho titulu má pivovar přívlastek knížecí. V roce 1866 zavedl sládek Julius Müller spodní kvašení a v roce 1897 dosáhla výroba 100 000 hektolitrů, čímž se Tychy zařadily mezi největší pivovary v Evropě.\n\nV meziválečném období koupil Jan Jindřich XV. v roce 1918 devadesát procent akcií sousedního Měšťanského pivovaru (Browar Obywatelski). Kvůli daňovým dluhům převzal pivovar v roce 1934 do nucené správy stát a v roce 1939 vznikla akciová společnost Książęce Browary, která spojila pivovar Książęcy, Obywatelski a pivovar v Siemianowicích; v září téhož roku obsadili Tychy Němci. Po válce, v březnu 1945, převzali provoz dělníci, v roce 1946 byl pivovar znárodněn a knížecí koruna na desítky let zmizela z etiket. Hranice milionu hektolitrů padla v roce 1973; po roce 1991 se z podniku stala státní akciová společnost Browary Tyskie Górny Śląsk.\n\nV roce 1999 vznikla spojením s poznaňským pivovarem Lech společnost Kompania Piwowarska, do roku 2016 součást skupiny SABMiller a od 31. března 2017 japonské Asahi. Rozšíření v roce 2007 zvýšilo kapacitu z 5,5 na 8 milionů hektolitrů ročně. Vedle Tyskie se tu vaří i Lech, Żubr, Dębowe Mocne a Książęce, do roku 2011 také Pilsner Urquell. Hlavní pivo Tyskie Gronie je spodně kvašený světlý ležák s 5,2 % alkoholu, pojmenovaný podle pramene Gronie na svahu Górky Mikołowské; voda teče do pivovaru samospádem z hlubinných studní. V roce 2022 bylo Tyskie s podílem 9,8 % druhou nejprodávanější pivní značkou v Polsku.\n\nAreál dělí ulice Mikołowska: ve staré, knížecí části se vaří a stáčí sudy, v nové jsou logistika a stáčení do lahví a plechovek. Od roku 2004 má pivovar v areálu muzeum a prohlídky končí ochutnávkou. Tyskie Gronie získalo v roce 2002 zlatou medaili a hlavní cenu Champion Beer na soutěži Brewing Industry International Awards, v roce 2005 Grand Prix na veletrhu Drinktec v Mnichově.",
+    "rok_zalozeni": 1629,
+    "lat": 50.1307,
+    "lon": 18.9879,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Založení",
+        "hodnota": "1629 – první úplný záznam v soupisu pszczyńského panství rodu Promnitzů."
+      },
+      {
+        "ikona": "koruna",
+        "label": "Knížecí pivovar",
+        "hodnota": "Rozmach od roku 1861 za Jana Jindřicha XI. Hochberga, knížete pszczyńského."
+      },
+      {
+        "ikona": "laborator",
+        "label": "Spodní kvašení",
+        "hodnota": "V roce 1866 ho zavedl sládek Julius Müller; roku 1897 pivovar uvařil 100 000 hl."
+      },
+      {
+        "ikona": "vlastnik",
+        "label": "Vlastník",
+        "hodnota": "Kompania Piwowarska (od 1999), do 2016 skupina SABMiller, od 31. března 2017 japonská Asahi."
+      },
+      {
+        "ikona": "voda",
+        "label": "Pramen Gronie",
+        "hodnota": "Pivo Tyskie Gronie nese jméno pramene na svahu Górky Mikołowské."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "Champion Beer",
+        "hodnota": "Zlatá medaile a hlavní cena na Brewing Industry International Awards 2002."
+      }
+    ]
+  },
+  {
+    "id": "nysa",
+    "nazev": "Książęcy Browar Nysa",
+    "zeme": "pl",
+    "mesto": "Nysa",
+    "popisek": "Malý pivovar ve slezské Nyse v Opolském vojvodství, založený v srpnu 2016 skupinou místních domácích sládků a podnikatelů. Vaří svrchně kvašená piva pod značkou Nyskie a od roku 2021 patří firmě Adamietz, která ho přestěhovala do zrekonstruovaných městských jatek.",
+    "popisek_dlouhy": "Książęcy Browar Nysa vznikl v srpnu 2016. S nápadem přišlo pět obyvatel Nysy, kteří do té doby vařili pivo jen pro sebe, a projekt se ujal místní poslanec Janusz Sanocki – sám prý vařil pivo v garáži. Mezi společníky byli také městský radní Piotr Smoter a podnikatelé ze zemědělství a automobilového průmyslu, předsedkyní společnosti se stala Anna Pyka. Zakladatelé se hlásili k zaniklým místním pivovarským podnikům, k pivovaru v Goświnowicích a k nyské sladovně, která tehdy už byla v ruinách.\n\nRegistrace, povolení a rozjezd trvaly asi rok a půl. Na začátku roku 2018 se v hale na ulici Nowowiejska rozběhla výroba se čtyřmi stálými zaměstnanci a kapacitou kolem 10 000 litrů měsíčně; prvním sládkem byl Łukasz Błaszka. Pivovar vaří svrchně kvašená piva – světlé Nyskie Jasne, hořké Nyskie Bogate, pšeničné Nyskie Pszeniczne nebo Nyska Stal – a sérii piv k turistické trase Szlak Czarownic s názvy Dom Kata, Żelazna Dziewica a Żona Kata. Vaří také pivo propagující opolskou kulinářskou trasu Opolski Bifyj. Na 9. Wrocławském festivalu dobrého piva v roce 2018 získalo Nyskie Jasne stříbrný a Nyskie Bogate bronzový vavřín.\n\nNa podzim 2019 odkoupil podíl Janusze Sanockiego slezský podnikatel Mariusz Lachowicz. Pivovar prodával asi devět desetin produkce hotelům, restauracím a horským chatám, a proto ho tvrdě zasáhly covidové lockdowny. Dne 13. ledna 2021 ho majitelé prodali rodinné firmě Adamietz ze Strzelců Opolských, která slíbila zachovat výrobu v Nyse.\n\nNový vlastník přestěhoval pivovar do bývalých městských jatek z roku 1880 na rohu ulic Bema a Mazowiecka u řeky Nysy Kłodzke. Jatka ukončila provoz v roce 2008, poté chátrala a opakovaně hořela. V první etapě rekonstrukce bylo obnoveno 885 m² – kanceláře, konferenční a gastronomická část – a výroba se sem přesunula z ulice Nowowiejska; areál má sloužit i návštěvníkům k ochutnávkám a prohlídkám provozu.",
+    "rok_zalozeni": 2016,
+    "lat": 50.4801,
+    "lon": 17.3369,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Založení",
+        "hodnota": "Srpen 2016 – pět domácích sládků z Nysy a poslanec Janusz Sanocki."
+      },
+      {
+        "ikona": "pivo",
+        "label": "Styly",
+        "hodnota": "Svrchně kvašená piva Nyskie Jasne, Nyskie Bogate, Pszeniczne a série Szlak Czarownic."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "Ocenění",
+        "hodnota": "Stříbrný vavřín pro Nyskie Jasne na 9. Wrocławském festivalu dobrého piva 2018."
+      },
+      {
+        "ikona": "zmena",
+        "label": "Lockdown",
+        "hodnota": "Po ztrátě odbytu v hotelech a restauracích prodán 13. ledna 2021."
+      },
+      {
+        "ikona": "vlastnik",
+        "label": "Vlastník",
+        "hodnota": "Od roku 2021 rodinná firma Adamietz ze Strzelců Opolských."
+      },
+      {
+        "ikona": "budova",
+        "label": "Jatka",
+        "hodnota": "Výroba se přesunula do zrekonstruovaných městských jatek z roku 1880 na ulici Bema."
+      }
+    ]
+  },
+  {
+    "id": "zdibsky-pivovar",
+    "nazev": "Zdibský pivovar",
+    "zeme": "cz",
+    "mesto": "Zdiby",
+    "popisek": "Malý rodinný pivovar s restaurací ve Zdibech severně od Prahy, otevřený v říjnu 2021. Vaří v přestavěné kotelně s komínem v areálu Atrium a kromě českých ležáků nabízí i svrchně kvašená piva.",
+    "popisek_dlouhy": "Zdibský pivovar vznikl z domácího vaření Jiřího Žáčka, bývalého zdibského obchodníka a místního politika. Pivo zpočátku vařil jen pro sebe a své přátele, poptávka mezi známými ale brzy přerostla možnosti domácí výroby. Žáček se vyučil sládkem a praxi absolvoval v pražském pivovaru Cobolis.\n\nNápad na vlastní pivovar dostal při návštěvě areálu Atrium v Přemyšlení, kde ho zaujala bývalá kotelna s komínem. Společnost Zdibský pivovar, s. r. o. založil spolu s přítelem Michalem a s Rustamem, majitelem areálu. V přestavěné kotelně vznikl pivovar, který otevřel v říjnu 2021.\n\nSládkem je Jiří Žáček. Nabídka stojí na spodně kvašených českých pivech: desítce Zámecká, jedenáctce Zlatý kopec a dvanáctce Le'žáček. Doplňuje je silné tmavé nefiltrované a nepasterizované pivo Soumrak 14. Ze svrchně kvašených piv vaří jedenáctku Miami v americkém stylu s aromatem tropického ovoce a světlou citrusovou NEIPA Sunset 13. Na lístku bývá také Kyselá Malina.\n\nPivo se čepuje v pivovarské restauraci s českou kuchyní a prodává se i do PET lahví a skla. Pivovar po předchozí domluvě pořádá prohlídky provozu, při nichž návštěvníci ochutnají slad i pivo přímo z tanku.",
+    "rok_zalozeni": 2021,
+    "lat": 50.1696,
+    "lon": 14.4256,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Otevření",
+        "hodnota": "Říjen 2021 v areálu Atrium ve zdibské části Přemyšlení."
+      },
+      {
+        "ikona": "osoba",
+        "label": "Sládek",
+        "hodnota": "Jiří Žáček, bývalý zdibský obchodník a místní politik, praxi absolvoval v pražském Cobolisu."
+      },
+      {
+        "ikona": "budova",
+        "label": "Budova",
+        "hodnota": "Přestavěná bývalá kotelna s komínem."
+      },
+      {
+        "ikona": "vlastnik",
+        "label": "Zakladatelé",
+        "hodnota": "Jiří Žáček s přítelem Michalem a Rustamem, majitelem areálu Atrium."
+      },
+      {
+        "ikona": "znamka",
+        "label": "Ležáky",
+        "hodnota": "Desítka Zámecká, jedenáctka Zlatý kopec a dvanáctka Le'žáček."
+      },
+      {
+        "ikona": "pivo",
+        "label": "Sortiment",
+        "hodnota": "Od desítky Zámecká přes tmavý Soumrak 14 po NEIPA Sunset 13 a Kyselou Malinu."
+      }
+    ]
+  },
+  {
+    "id": "volt",
+    "nazev": "Pivovar Volt",
+    "zeme": "cz",
+    "mesto": "Jablonec nad Nisou",
+    "popisek": "Minipivovar ve vile u jablonecké přehrady Mšeno, pojmenovaný po vynálezci Alessandru Voltovi. Vaří od roku 2018 pod vedením sládka Martina Palouše a v letech 2021 a 2022 vyhrál anketu Minipivovar roku.",
+    "popisek_dlouhy": "Společnost Pivovar Volt s.r.o. vznikla v červenci 2017 se sídlem v Palackého ulici v Jablonci nad Nisou. Minipivovar se usadil ve sklepích prostorné vily nedaleko vodní nádrže Mšeno a hlásí se k pivovarnické minulosti města, které kdysi mělo jeden z největších pivovarů v Čechách. Vařit se začalo v roce 2018 se sládkem Martinem Paloušem. První rok tu podle Forbesu uvařili sedmdesát hektolitrů, druhý desetkrát tolik a v roce 2021 už dvounádobová varna jela na plný výkon 1500 hektolitrů ročně. Zhruba další tisíc hektolitrů tehdy vznikalo ve spřátelených pivovarech – ležák Jiskra se vařil i v Dalešicích, kde se natáčely Postřižiny.\n\nVe vile dnes funguje pivnice, penzion a pivovar s varnou o objemu 500 litrů, šesti cylindrokónickými tanky a pěti ležáckými tanky po tisíci litrech. Volt vaří nefiltrovaná a nepasterizovaná piva: vedle světlých a tmavých ležáků, jako jsou Jiskra, Dynamo nebo Zdroj, také IPA, APA, NEIPA, Berliner Weisse, pšeničná piva či gruit. Ležák Prezidentský speciál získal titul Regionální potravina Libereckého kraje. Většinovým vlastníkem byla podle Forbesu v roce 2021 společnost QF Investment Milana Zemánka, menší podíly patřily Martinu Křenkovi a jednateli Romanu Gaalovi.\n\nV anketě Sdružení přátel piva skončil Volt v roce 2020 jako třetí nejlepší minipivovar v zemi, v letech 2021 a 2022 titul Minipivovar roku vyhrál. Při vyhlášení v Černé Hoře v roce 2022 se Martin Palouš stal zároveň Sládkem roku – podle Deníku poprvé od roku 1990, kdy sládek roku pocházel z vítězného pivovaru. Ve stejném roce uvařil svrchně kvašený Náboj z chmelů Kazbek a Uran; tisíc litrů se prodalo během několika dní a výtěžek šel na sbírku Dárek pro Putina na zbraně pro ukrajinskou armádu. V dalších ročnících ankety skončil pivovar druhý (2023, 2024) a třetí (2025).\n\nJméno odkazuje na italského fyzika Alessandra Voltu, vynálezce elektrického článku – pivovar na svém webu s nadsázkou tvrdí, že Voltův sloup vznikl jako vedlejší produkt pokusů dodat pivu energii. Elektrotechnice odpovídají i názvy piv: Baterka, Adaptér, Nabíječ, Pojistka, Zkrat nebo Vypínač, přičemž některé vymysleli sami zákazníci přes sociální sítě. V září pořádá Volt festival Voltáž, na kterém představuje výběr piv z českých minipivovarů; v roce 2021 se na něm čepovala i americká řemeslná piva.",
+    "rok_zalozeni": 2017,
+    "lat": 50.7318,
+    "lon": 15.1699,
+    "fakta": [
+      {
+        "ikona": "zalozeni",
+        "label": "Založení",
+        "hodnota": "Společnost Pivovar Volt s.r.o. vznikla v červenci 2017, vařit se začalo v roce 2018."
+      },
+      {
+        "ikona": "budova",
+        "label": "Sídlo",
+        "hodnota": "Sklepy prostorné vily nedaleko vodní nádrže Mšeno v Jablonci nad Nisou."
+      },
+      {
+        "ikona": "oceneni",
+        "label": "Minipivovar roku",
+        "hodnota": "Vítěz ankety Sdružení přátel piva v letech 2021 a 2022, v roce 2020 třetí místo."
+      },
+      {
+        "ikona": "osoba",
+        "label": "Sládek roku",
+        "hodnota": "Martin Palouš získal titul v roce 2022 – poprvé od roku 1990 sládek z vítězného pivovaru."
+      },
+      {
+        "ikona": "znamka",
+        "label": "Jméno",
+        "hodnota": "Podle Alessandra Volty; piva nesou elektrotechnické názvy jako Baterka, Adaptér či Zkrat."
+      },
+      {
+        "ikona": "festival",
+        "label": "Voltáž",
+        "hodnota": "Zářijový festival s výběrem piv z českých minipivovarů, který Volt pořádá."
+      }
+    ]
   }
 ]

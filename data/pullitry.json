@@ -784,7 +784,7 @@
   },
   {
     "id": "rychtar",
-    "nazev_zobrazovany": "Rychtář",
+    "nazev_zobrazovany": "Rychtář (1)",
     "pivovar_id": "rychtar",
     "zeme": "cz",
     "fotka": "rychtar.webp",
@@ -1576,7 +1576,7 @@
   },
   {
     "id": "poutnik",
-    "nazev_zobrazovany": "Poutník",
+    "nazev_zobrazovany": "Poutník (1)",
     "pivovar_id": "poutnik",
     "zeme": "cz",
     "fotka": "poutnik.webp",
@@ -1828,7 +1828,7 @@
   },
   {
     "id": "raven",
-    "nazev_zobrazovany": "Raven",
+    "nazev_zobrazovany": "Raven (1)",
     "pivovar_id": "raven",
     "zeme": "cz",
     "fotka": "raven.webp",
@@ -2247,6 +2247,321 @@
     "zeme": "be",
     "fotka": "leffe.webp",
     "pridano": "2026-08-25",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "nymburk-1",
+    "nazev_zobrazovany": "Postřižinské (1)",
+    "pivovar_id": "nymburk",
+    "zeme": "cz",
+    "fotka": "nymburk-1.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "nymburk-2",
+    "nazev_zobrazovany": "Postřižinské (2)",
+    "pivovar_id": "nymburk",
+    "zeme": "cz",
+    "fotka": "nymburk-2.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "nymburk-3",
+    "nazev_zobrazovany": "Postřižinské (3)",
+    "pivovar_id": "nymburk",
+    "zeme": "cz",
+    "fotka": "nymburk-3.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "klub-zapasu-bohemians-praha",
+    "nazev_zobrazovany": "Klub zápasu Bohemians Praha – 110 let",
+    "pivovar_id": null,
+    "zeme": "ostatni",
+    "fotka": "klub-zapasu-bohemians-praha.webp",
+    "pridano": "2026-10-09",
+    "typ": "akcni"
+  },
+  {
+    "id": "tahoun",
+    "nazev_zobrazovany": "Tahoun",
+    "pivovar_id": "tahoun",
+    "zeme": "cz",
+    "fotka": "tahoun.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "zdibsky-pivovar",
+    "nazev_zobrazovany": "Zdivar (Zdibský pivovar)",
+    "pivovar_id": "zdibsky-pivovar",
+    "zeme": "cz",
+    "fotka": "zdibsky-pivovar.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "vratislav-4",
+    "nazev_zobrazovany": "Vratislav (4)",
+    "pivovar_id": "vratislav",
+    "zeme": "cz",
+    "fotka": "vratislav-4.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "svijany-7",
+    "nazev_zobrazovany": "Svijany (7)",
+    "pivovar_id": "svijany",
+    "zeme": "cz",
+    "fotka": "svijany-7.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "brezi-koza",
+    "nazev_zobrazovany": "Březí koza",
+    "pivovar_id": "brezi-koza",
+    "zeme": "cz",
+    "fotka": "brezi-koza.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "brewhemian",
+    "nazev_zobrazovany": "Brewhemian",
+    "pivovar_id": "brewhemian",
+    "zeme": "cz",
+    "fotka": "brewhemian.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "frydenlund",
+    "nazev_zobrazovany": "Frydenlund",
+    "pivovar_id": "frydenlund",
+    "zeme": "no",
+    "fotka": "frydenlund.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "rakovar-2",
+    "nazev_zobrazovany": "Bakalář (Rakovar)",
+    "pivovar_id": "rakovar",
+    "zeme": "cz",
+    "fotka": "rakovar-2.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "volt",
+    "nazev_zobrazovany": "Voltáž (Pivovar Volt)",
+    "pivovar_id": "volt",
+    "zeme": "cz",
+    "fotka": "volt.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "kolstejn-1",
+    "nazev_zobrazovany": "Kolštejn (1)",
+    "pivovar_id": "kolstejn",
+    "zeme": "cz",
+    "fotka": "kolstejn-1.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "bulgaria",
+    "nazev_zobrazovany": "Bulgaria (suvenýr)",
+    "pivovar_id": null,
+    "zeme": "ostatni",
+    "fotka": "bulgaria.webp",
+    "pridano": "2026-10-09",
+    "typ": "akcni"
+  },
+  {
+    "id": "holba-3",
+    "nazev_zobrazovany": "Holba (3)",
+    "pivovar_id": "holba",
+    "zeme": "cz",
+    "fotka": "holba-3.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "plzensky-prazdroj-10",
+    "nazev_zobrazovany": "Pilsner Urquell (10)",
+    "pivovar_id": "plzensky-prazdroj",
+    "zeme": "cz",
+    "fotka": "plzensky-prazdroj-10.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "raven-2",
+    "nazev_zobrazovany": "Raven (2)",
+    "pivovar_id": "raven",
+    "zeme": "cz",
+    "fotka": "raven-2.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "eisenacher",
+    "nazev_zobrazovany": "Eisenacher Bier",
+    "pivovar_id": "eisenacher",
+    "zeme": "de",
+    "fotka": "eisenacher.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "bohdanec",
+    "nazev_zobrazovany": "Pivovar Bohdaneč",
+    "pivovar_id": "bohdanec",
+    "zeme": "cz",
+    "fotka": "bohdanec.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "sklenice-bez-oznaceni-10",
+    "nazev_zobrazovany": "Sklenice bez označení",
+    "pivovar_id": null,
+    "zeme": "ostatni",
+    "fotka": "sklenice-bez-oznaceni-10.webp",
+    "pridano": "2026-10-09",
+    "typ": "akcni"
+  },
+  {
+    "id": "lobkowicz-5",
+    "nazev_zobrazovany": "Lobkowicz (5)",
+    "pivovar_id": "lobkowicz",
+    "zeme": "cz",
+    "fotka": "lobkowicz-5.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "gambrinus-10",
+    "nazev_zobrazovany": "Gambrinus (10)",
+    "pivovar_id": "gambrinus",
+    "zeme": "cz",
+    "fotka": "gambrinus-10.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "poutnik-2",
+    "nazev_zobrazovany": "Poutník (2)",
+    "pivovar_id": "poutnik",
+    "zeme": "cz",
+    "fotka": "poutnik-2.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "kbelsky-pivovar-1",
+    "nazev_zobrazovany": "Kbelský pivovar (1)",
+    "pivovar_id": "kbelsky-pivovar",
+    "zeme": "cz",
+    "fotka": "kbelsky-pivovar-1.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "kbelsky-pivovar-2",
+    "nazev_zobrazovany": "Kbelský pivovar (2)",
+    "pivovar_id": "kbelsky-pivovar",
+    "zeme": "cz",
+    "fotka": "kbelsky-pivovar-2.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "nysa",
+    "nazev_zobrazovany": "Książęcy Browar Nysa",
+    "pivovar_id": "nysa",
+    "zeme": "pl",
+    "fotka": "nysa.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "kolstejn-2",
+    "nazev_zobrazovany": "Kolštejn (2)",
+    "pivovar_id": "kolstejn",
+    "zeme": "cz",
+    "fotka": "kolstejn-2.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "bavorak-u-sudu",
+    "nazev_zobrazovany": "Bavorák u sudu",
+    "pivovar_id": null,
+    "zeme": "ostatni",
+    "fotka": "bavorak-u-sudu.webp",
+    "pridano": "2026-10-09",
+    "typ": "akcni"
+  },
+  {
+    "id": "tyskie",
+    "nazev_zobrazovany": "Tyskie",
+    "pivovar_id": "tyskie",
+    "zeme": "pl",
+    "fotka": "tyskie.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "landskron-1",
+    "nazev_zobrazovany": "Landskron (1)",
+    "pivovar_id": "landskron",
+    "zeme": "de",
+    "fotka": "landskron-1.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "rychtar-2",
+    "nazev_zobrazovany": "Rychtář (2)",
+    "pivovar_id": "rychtar",
+    "zeme": "cz",
+    "fotka": "rychtar-2.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "staropramen-9",
+    "nazev_zobrazovany": "Staropramen (9)",
+    "pivovar_id": "staropramen",
+    "zeme": "cz",
+    "fotka": "staropramen-9.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "landskron-2",
+    "nazev_zobrazovany": "Landskron (2)",
+    "pivovar_id": "landskron",
+    "zeme": "de",
+    "fotka": "landskron-2.webp",
+    "pridano": "2026-10-09",
+    "typ": "pivovarni"
+  },
+  {
+    "id": "trautenberk",
+    "nazev_zobrazovany": "Trautenberk",
+    "pivovar_id": "trautenberk",
+    "zeme": "cz",
+    "fotka": "trautenberk.webp",
+    "pridano": "2026-10-09",
     "typ": "pivovarni"
   }
 ]
