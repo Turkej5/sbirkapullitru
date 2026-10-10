@@ -4,9 +4,11 @@ import type { PullitrEnhanced } from "@/lib/types";
 export default function PullitrGrid({
   pullitry,
   priorityCount = 0,
+  showPodtitulek = true,
 }: {
   pullitry: PullitrEnhanced[];
   priorityCount?: number;
+  showPodtitulek?: boolean;
 }) {
   if (pullitry.length === 0) {
     return (
@@ -18,8 +20,12 @@ export default function PullitrGrid({
   return (
     <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6">
       {pullitry.map((p, i) => (
-        <li key={p.id}>
-          <PullitrCard pullitr={p} priority={i < priorityCount} />
+        <li key={p.id} className="h-full">
+          <PullitrCard
+            pullitr={p}
+            priority={i < priorityCount}
+            showPodtitulek={showPodtitulek}
+          />
         </li>
       ))}
     </ul>

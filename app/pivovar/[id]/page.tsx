@@ -188,7 +188,7 @@ export default async function PivovarPage({
       <h2 className="font-display text-2xl font-semibold mb-4">
         Půllitry ({pullitry.length})
       </h2>
-      <PullitrGrid pullitry={pullitry} priorityCount={4} />
+      <PullitrGrid pullitry={pullitry} priorityCount={4} showPodtitulek={false} />
 
       {zeme && dalsiPivovary.length > 0 && (
         <section className="mt-16">
