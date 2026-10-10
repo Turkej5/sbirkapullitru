@@ -132,3 +132,36 @@ export function aboutJsonLd() {
     isPartOf: { "@type": "WebSite", name: SITE_NAME, url: SITE_URL },
   };
 }
+
+export function pivovaryJsonLd(pivovary: { id: string; nazev: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `Pivovary — ${SITE_NAME}`,
+    url: abs("/pivovary"),
+    inLanguage: "cs-CZ",
+    isPartOf: { "@type": "WebSite", name: SITE_NAME, url: SITE_URL },
+    mainEntity: {
+      "@type": "ItemList",
+      numberOfItems: pivovary.length,
+      itemListElement: pivovary.map((p, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        name: p.nazev,
+        url: abs(`/pivovar/${p.id}`),
+      })),
+    },
+  };
+}
+
+export function statistikyJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: `Sbírka v číslech — ${SITE_NAME}`,
+    url: abs("/v-cislech"),
+    inLanguage: "cs-CZ",
+    isPartOf: { "@type": "WebSite", name: SITE_NAME, url: SITE_URL },
+    about: { "@type": "Thing", name: "Statistiky sbírky půllitrů" },
+  };
+}

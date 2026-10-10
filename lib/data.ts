@@ -110,6 +110,33 @@ export function getPivovaryByZemeWithCounts(kod: string): PivovarWithCount[] {
     .sort((a, b) => a.nazev.localeCompare(b.nazev, "cs"));
 }
 
+export type PivovarSFotkou = PivovarWithCount & {
+  foto: string;
+  fotoPlaceholder: boolean;
+};
+
+export function getPivovaryWithCounts(): PivovarSFotkou[] {
+  const prvni = new Map<string, PullitrEnhanced>();
+  const counts = new Map<string, number>();
+  for (const p of getSortedChronologicky().reverse()) {
+    if (!p.pivovar_id) continue;
+    counts.set(p.pivovar_id, (counts.get(p.pivovar_id) ?? 0) + 1);
+    if (!prvni.has(p.pivovar_id)) prvni.set(p.pivovar_id, p);
+  }
+  return getAllPivovary().flatMap((b) => {
+    const p = prvni.get(b.id);
+    if (!p) return [];
+    return [
+      {
+        ...b,
+        pocet: counts.get(b.id) as number,
+        foto: p.imageUrl,
+        fotoPlaceholder: p.isPlaceholder,
+      },
+    ];
+  });
+}
+
 export function getPocetPivovaru(): number {
   const all = getAllPullitry();
   const ids = new Set(all.map((p) => p.pivovar_id).filter(Boolean));

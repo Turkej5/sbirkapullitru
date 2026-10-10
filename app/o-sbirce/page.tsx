@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { Metadata } from "next";
 import ContactForm from "@/components/contact-form";
 import JsonLd from "@/components/json-ld";
@@ -70,6 +71,14 @@ export default function OSbircePage() {
         <Stat label="kusů" value={celkem} />
         <Stat label="zemí" value={zemi} />
         <Stat label="pivovarů" value={pivovaru} />
+      </div>
+      <div className="mt-4 text-center">
+        <Link
+          href="/v-cislech"
+          className="text-sm text-[var(--accent)] hover:underline"
+        >
+          Rekordy, kompas a další čísla →
+        </Link>
       </div>
 
       <section className="mt-16 border-t border-[var(--border)] pt-12">

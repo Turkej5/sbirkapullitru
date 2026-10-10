@@ -20,6 +20,12 @@ export default function Header() {
           </Link>
           <ZemeMenu zeme={zemeWithCounts} />
           <Link
+            href="/pivovary"
+            className="px-3 py-2 rounded-md hover:bg-[var(--border)] transition"
+          >
+            Pivovary
+          </Link>
+          <Link
             href="/o-sbirce"
             className="px-3 py-2 rounded-md hover:bg-[var(--border)] transition"
           >
@@ -62,6 +68,12 @@ function MobileNav({ zeme }: { zeme: ZemeWithCount[] }) {
           className="block px-4 py-3 hover:bg-[var(--border)] transition"
         >
           Sbírka
+        </Link>
+        <Link
+          href="/pivovary"
+          className="block px-4 py-3 hover:bg-[var(--border)] transition"
+        >
+          Pivovary
         </Link>
         <Link
           href="/o-sbirce"

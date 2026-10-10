@@ -1,5 +1,10 @@
 import {
+  ArrowDown,
+  ArrowLeft,
+  ArrowRight,
+  ArrowUp,
   Ban,
+  Hourglass,
   Banknote,
   BarChart3,
   Beer,
@@ -60,6 +65,11 @@ const ikonaMap = {
   skolstvi: GraduationCap,
   poloha: MapPin,
   plechovka: Cylinder,
+  sever: ArrowUp,
+  jih: ArrowDown,
+  vychod: ArrowRight,
+  zapad: ArrowLeft,
+  cas: Hourglass,
 } as const;
 
 export type IkonaKlic = keyof typeof ikonaMap;
