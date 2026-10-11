@@ -1,6 +1,9 @@
 """Vygeneruje lib/mapa-evropy.ts z Natural Earth 1:50m.
 
-Použití: python3 scripts/generuj-mapu.py ne_50m_admin_0_countries.geojson lib/mapa-evropy.ts
+Použití:
+  python3 scripts/generuj-mapu.py ne_50m_admin_0_countries.geojson lib/mapa-evropy.ts
+  python3 scripts/generuj-mapu.py ne_110m_admin_0_countries.geojson lib/mapa-evropy-lehka.ts 5 MAPA_ZEME_LEHKA
+(3. argument = tolerance zjednodušení v km, 4. = název exportu; lehká verze nevydává PROJEKCE)
 Zdroj: https://github.com/nvkelso/natural-earth-vector (geojson/ne_50m_admin_0_countries.geojson)
 """
 
@@ -9,6 +12,8 @@ import math
 import sys
 
 src, out = sys.argv[1], sys.argv[2]
+TOLERANCE = float(sys.argv[3]) if len(sys.argv) > 3 else 1.2
+EXPORT = sys.argv[4] if len(sys.argv) > 4 else "MAPA_ZEME"
 LAT0, LON0, R = 52.0, 10.0, 6371.0
 def proj(lon, lat):
     l, p = math.radians(lon - LON0), math.radians(lat)
@@ -41,7 +46,7 @@ for f in g['features']:
         lons = [c[0] for c in ring]; lats = [c[1] for c in ring]
         if max(lons) < -32 or min(lons) > 62 or max(lats) < 24 or min(lats) > 74: continue
         pts = [proj(min(max(lo,-35),65), min(max(la,22),76)) for lo,la in ring]
-        pts = rdp(pts, 1.2)
+        pts = rdp(pts, TOLERANCE)
         if len(pts) < 4: continue
         xs=[p[0] for p in pts]; ys=[p[1] for p in pts]
         if (max(xs)-min(xs)) < 4 and (max(ys)-min(ys)) < 4: continue
@@ -49,10 +54,11 @@ for f in g['features']:
     if parts: res.append({'kod': kod, 'd': ''.join(parts)})
 res.sort(key=lambda r: r['kod'])
 with open(out,'w') as fo:
-    fo.write('// Vygenerováno z Natural Earth 1:50m (public domain), Lambertova azimutální projekce\n')
+    fo.write('// Vygenerováno z Natural Earth (public domain), Lambertova azimutální projekce\n')
     fo.write('// se středem 52° s. š., 10° v. d., jednotky = km. Skript: scripts/generuj-mapu.py\n\n')
-    fo.write(f'export const PROJEKCE = {{ lat0: {LAT0}, lon0: {LON0}, r: {R} }} as const;\n\n')
-    fo.write('export const MAPA_ZEME: { kod: string; d: string }[] = [\n')
+    if EXPORT == "MAPA_ZEME":
+        fo.write(f'export const PROJEKCE = {{ lat0: {LAT0}, lon0: {LON0}, r: {R} }} as const;\n\n')
+    fo.write(f'export const {EXPORT}: {{ kod: string; d: string }}[] = [\n')
     for r in res: fo.write(f'  {{ kod: "{r["kod"]}", d: "{r["d"]}" }},\n')
     fo.write('];\n')
 print(len(res), sum(len(r['d']) for r in res))
