@@ -165,3 +165,20 @@ export function statistikyJsonLd() {
     about: { "@type": "Thing", name: "Statistiky sbírky půllitrů" },
   };
 }
+
+export function mapaJsonLd(pocetPivovaru: number) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: `Mapa sbírky — ${SITE_NAME}`,
+    url: abs("/mapa"),
+    inLanguage: "cs-CZ",
+    isPartOf: { "@type": "WebSite", name: SITE_NAME, url: SITE_URL },
+    mainEntity: {
+      "@type": "Map",
+      name: "Mapa pivovarů ve sbírce půllitrů",
+      description: `${pocetPivovaru} pivovarů na mapě Evropy a Česka.`,
+      url: abs("/mapa"),
+    },
+  };
+}

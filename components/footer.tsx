@@ -8,6 +8,9 @@ export default function Footer() {
       <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-[var(--text-soft)]">
         <div>© {year} Sbírka půllitrů</div>
         <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
+          <Link href="/mapa" className="hover:text-[var(--accent)] transition">
+            Mapa sbírky
+          </Link>
           <Link href="/v-cislech" className="hover:text-[var(--accent)] transition">
             Sbírka v číslech
           </Link>
