@@ -389,9 +389,9 @@ export default function MapaSbirky({
           />
           {sPopiskem.has(b.id) && !vlozka && (
             <span
-              className={`pointer-events-none absolute ${
+              className={`absolute ${
                 sPopiskem.get(b.id) ? "right-full" : "left-full"
-              } top-1/2 -translate-y-1/2 whitespace-nowrap text-[11px] font-medium leading-none text-[var(--text)] [text-shadow:0_0_3px_var(--surface),0_0_3px_var(--surface),0_0_2px_var(--surface)]`}
+              } top-1/2 -translate-y-1/2 whitespace-nowrap text-[11px] font-medium leading-none text-[var(--text)] group-hover:underline [text-shadow:0_0_3px_var(--surface),0_0_3px_var(--surface),0_0_2px_var(--surface)]`}
             >
               {b.nazev}
             </span>
