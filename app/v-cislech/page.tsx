@@ -246,22 +246,6 @@ export default function VCislechPage() {
         </div>
       </Sekce>
 
-      <Sekce
-        nadpis="Přírůstky podle roku"
-        popis="Kolik kusů přibylo do katalogu v jednotlivých letech. Sbírka se doplňuje v dávkách."
-      >
-        <SloupcovyGraf
-          vyska={150}
-          popiskyJenNenulove
-          sloupce={s.prirustky.map((x) => ({
-            key: String(x.rok),
-            label: String(x.rok),
-            hodnota: x.pocet,
-            popis: `${x.rok}: ${x.pocet} ${kusuSuffix(x.pocet)}`,
-          }))}
-        />
-      </Sekce>
-
       {s.zanikle.length > 0 && (
         <Sekce
           nadpis="Zaniklé pivovary"

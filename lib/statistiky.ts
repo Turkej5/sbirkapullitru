@@ -30,7 +30,6 @@ export type KompasZaznam = {
 };
 
 export type StoletiSloupec = { stoleti: number; pocet: number };
-export type RokSloupec = { rok: number; pocet: number };
 
 export type Statistiky = {
   celkem: number;
@@ -47,7 +46,6 @@ export type Statistiky = {
   kompas: KompasZaznam[];
   nejvicMesto: { mesto: string; zeme: Zeme; pocet: number } | null;
   stoleti: StoletiSloupec[];
-  prirustky: RokSloupec[];
   zanikle: PivovarZaznam[];
 };
 
@@ -124,17 +122,6 @@ export function getStatistiky(): Statistiky {
     stoleti.push({ stoleti: s, pocet: stoletiMap.get(s) ?? 0 });
   }
 
-  const rokyMap = new Map<number, number>();
-  for (const p of pullitry) {
-    const r = Number(p.pridano.slice(0, 4));
-    rokyMap.set(r, (rokyMap.get(r) ?? 0) + 1);
-  }
-  const rokyKlice = [...rokyMap.keys()];
-  const prirustky: RokSloupec[] = [];
-  for (let r = Math.min(...rokyKlice); r <= Math.max(...rokyKlice); r++) {
-    prirustky.push({ rok: r, pocet: rokyMap.get(r) ?? 0 });
-  }
-
   return {
     celkem: pullitry.length,
     zemi: zeme.filter((z) => !PSEUDO_ZEME.has(z.kod)).length,
@@ -156,7 +143,6 @@ export function getStatistiky(): Statistiky {
     kompas,
     nejvicMesto: nejvicMesto && nejvicMesto.pocet > 1 ? nejvicMesto : null,
     stoleti,
-    prirustky,
     zanikle,
   };
 }

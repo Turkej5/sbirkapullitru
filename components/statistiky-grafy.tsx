@@ -63,11 +63,9 @@ export type SloupecPolozka = {
 export function SloupcovyGraf({
   sloupce,
   vyska = 180,
-  popiskyJenNenulove = false,
 }: {
   sloupce: SloupecPolozka[];
   vyska?: number;
-  popiskyJenNenulove?: boolean;
 }) {
   const max = Math.max(...sloupce.map((s) => s.hodnota), 1);
   return (
@@ -103,7 +101,7 @@ export function SloupcovyGraf({
             key={s.key}
             className="flex-1 text-center text-[11px] leading-tight text-[var(--text-soft)]"
           >
-            {!popiskyJenNenulove || s.hodnota > 0 ? s.label : ""}
+            {s.label}
           </div>
         ))}
       </div>
