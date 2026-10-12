@@ -71,24 +71,37 @@ export function pivovarJsonLd(
 }
 
 export function pullitrJsonLd(p: PullitrEnhanced) {
-  const item: Record<string, unknown> = {
-    "@context": "https://schema.org",
-    "@type": "Product",
+  const url = abs(`/pullitr/${p.id}`);
+  const obrazek = {
+    "@type": "ImageObject",
+    contentUrl: abs(p.imageUrl),
+    caption: `Půllitr — ${p.nazev_zobrazovany}`,
+  };
+  const predmet: Record<string, unknown> = {
+    "@type": "Thing",
     name: p.nazev_zobrazovany,
-    url: abs(`/pullitr/${p.id}`),
+    description: `Půllitr ze sbírky (${TYP_LABELS[p.typ] ?? p.typ}, ${p.zemeInfo.nazev}).`,
     image: abs(p.imageUrl),
-    category: TYP_LABELS[p.typ] ?? p.typ,
-    countryOfOrigin: p.zemeInfo.nazev,
-    dateCreated: p.pridano,
+  };
+  const page: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "ItemPage",
+    name: `${p.nazev_zobrazovany} — ${SITE_NAME}`,
+    url,
+    inLanguage: "cs-CZ",
+    isPartOf: { "@type": "WebSite", name: SITE_NAME, url: SITE_URL },
+    primaryImageOfPage: obrazek,
+    datePublished: p.pridano,
+    about: predmet,
   };
   if (p.pivovar) {
-    item.brand = {
+    page.mentions = {
       "@type": "Organization",
       name: p.pivovar.nazev,
       url: abs(`/pivovar/${p.pivovar.id}`),
     };
   }
-  return item;
+  return page;
 }
 
 export function zemeJsonLd(zeme: Zeme, pocet: number) {
