@@ -78,9 +78,6 @@ body {
 
 .mapa .mapa-zeme {
   fill: var(--surface);
-  stroke: var(--mapa-hranice);
-  stroke-width: 1.1px;
-  stroke-linejoin: round;
 }
 
 .mapa[data-pohled="evropa"] .mapa-zeme[data-sbirka],
@@ -88,7 +85,14 @@ body {
   fill: var(--mapa-sbirka);
 }
 
-.mapa[data-pohled="cesko"] .mapa-zeme[data-kod="cz"] {
+.mapa .mapa-hranice {
+  fill: none;
+  stroke: var(--mapa-hranice);
+  stroke-width: 1.1px;
+  stroke-linejoin: round;
+}
+
+.mapa[data-pohled="cesko"] .mapa-hranice[data-kod="cz"] {
   stroke: color-mix(in srgb, var(--accent) 55%, var(--surface));
   stroke-width: 1.5px;
 }

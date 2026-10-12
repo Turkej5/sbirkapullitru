@@ -86,22 +86,35 @@ export default function MapaPage() {
   ];
 
   const zemeVeSbirce = new Set(zeme.map((z) => z.kod));
+  const poradi = [
+    ...MAPA_ZEME.filter((z) => z.kod !== "cz"),
+    ...MAPA_ZEME.filter((z) => z.kod === "cz"),
+  ];
   const zakladna = (
-    <g>
-      {[
-        ...MAPA_ZEME.filter((z) => z.kod !== "cz"),
-        ...MAPA_ZEME.filter((z) => z.kod === "cz"),
-      ].map((z, i) => (
-        <path
-          key={`${z.kod}-${i}`}
-          d={z.d}
-          className="mapa-zeme"
-          data-kod={z.kod}
-          data-sbirka={zemeVeSbirce.has(z.kod) ? "" : undefined}
-          vectorEffect="non-scaling-stroke"
-        />
-      ))}
-    </g>
+    <>
+      <g>
+        {poradi.map((z, i) => (
+          <path
+            key={`${z.kod}-${i}`}
+            d={z.d}
+            className="mapa-zeme"
+            data-kod={z.kod}
+            data-sbirka={zemeVeSbirce.has(z.kod) ? "" : undefined}
+          />
+        ))}
+      </g>
+      <g>
+        {poradi.map((z, i) => (
+          <path
+            key={`${z.kod}-${i}`}
+            d={z.d}
+            className="mapa-hranice"
+            data-kod={z.kod}
+            vectorEffect="non-scaling-stroke"
+          />
+        ))}
+      </g>
+    </>
   );
 
   return (
