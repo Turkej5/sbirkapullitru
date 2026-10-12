@@ -77,11 +77,6 @@ body {
 }
 
 .mapa .mapa-zeme {
-  fill: var(--surface);
-}
-
-.mapa[data-pohled="evropa"] .mapa-zeme[data-sbirka],
-.mapa[data-pohled="cesko"] .mapa-zeme[data-kod="cz"] {
   fill: var(--mapa-sbirka);
 }
 

@@ -85,7 +85,6 @@ export default function MapaPage() {
     },
   ];
 
-  const zemeVeSbirce = new Set(zeme.map((z) => z.kod));
   const poradi = [
     ...MAPA_ZEME.filter((z) => z.kod !== "cz"),
     ...MAPA_ZEME.filter((z) => z.kod === "cz"),
@@ -99,7 +98,6 @@ export default function MapaPage() {
             d={z.d}
             className="mapa-zeme"
             data-kod={z.kod}
-            data-sbirka={zemeVeSbirce.has(z.kod) ? "" : undefined}
           />
         ))}
       </g>

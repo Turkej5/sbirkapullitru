@@ -483,10 +483,7 @@ export default function MapaSbirky({
         <span className="text-[var(--text-soft)]">
           {pocetVPohledu} {pivovaruSuffix(pocetVPohledu)} ve výřezu
         </span>
-        <Legenda
-          meritko={pohled.meritko}
-          zemeVeSbirce={pohled.klic === "evropa"}
-        />
+        <Legenda meritko={pohled.meritko} />
       </div>
 
       <div
@@ -627,13 +624,7 @@ export default function MapaSbirky({
   );
 }
 
-function Legenda({
-  meritko,
-  zemeVeSbirce,
-}: {
-  meritko: number;
-  zemeVeSbirce: boolean;
-}) {
+function Legenda({ meritko }: { meritko: number }) {
   return (
     <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-[var(--text-soft)] sm:ml-auto">
       <span className="flex items-center gap-2">
@@ -659,15 +650,6 @@ function Legenda({
         />
         zaniklý
       </span>
-      {zemeVeSbirce && (
-        <span className="flex items-center gap-1.5">
-          <span
-            className="block h-2.5 w-3.5 rounded-sm border border-[var(--border)] bg-[color-mix(in_srgb,var(--accent)_24%,var(--surface))] dark:bg-[color-mix(in_srgb,var(--accent)_16%,var(--surface))]"
-            aria-hidden="true"
-          />
-          země ve sbírce
-        </span>
-      )}
     </div>
   );
 }
