@@ -12,7 +12,7 @@ import {
   type ReactNode,
 } from "react";
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import ZemeFlag from "@/components/zeme-flag";
 import type { Vyrez } from "@/lib/mapa";
 import type { Zeme } from "@/lib/types";
@@ -88,7 +88,6 @@ export default function MapaSbirky({
   pohledy: MapaPohled[];
   zakladna: ReactNode;
 }) {
-  const router = useRouter();
   const searchParams = useSearchParams();
   const [, startTransition] = useTransition();
   const [aktivni, setAktivni] = useState<{
@@ -286,10 +285,10 @@ export default function MapaSbirky({
       else params.set("pohled", klic);
       const qs = params.toString();
       startTransition(() =>
-        router.replace(qs ? `?${qs}` : "?", { scroll: false }),
+        window.history.replaceState(null, "", qs ? `?${qs}` : window.location.pathname),
       );
     },
-    [pohledy, router, searchParams],
+    [pohledy, searchParams],
   );
 
   const serazene = useMemo(

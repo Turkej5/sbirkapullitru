@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState, useTransition, useCallback, useEffect } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import PullitrGrid from "@/components/pullitr-grid";
 import ZemeFlag from "@/components/zeme-flag";
 import { TYP_LABELS, searchPullitry } from "@/lib/search";
@@ -28,7 +28,6 @@ export default function CollectionView({
   pivovary?: { id: string; nazev: string; pocet: number }[];
   hiddenZeme?: boolean;
 }) {
-  const router = useRouter();
   const searchParams = useSearchParams();
   const [, startTransition] = useTransition();
 
@@ -81,10 +80,10 @@ export default function CollectionView({
       }
       const qs = params.toString();
       startTransition(() => {
-        router.replace(qs ? `?${qs}` : "?", { scroll: false });
+        window.history.replaceState(null, "", qs ? `?${qs}` : window.location.pathname);
       });
     },
-    [router, searchParams],
+    [searchParams],
   );
 
   useEffect(() => {
@@ -121,7 +120,7 @@ export default function CollectionView({
     setSelTyp([]);
     setSelPivovar("");
     setSort("nejnovejsi");
-    startTransition(() => router.replace("?", { scroll: false }));
+    startTransition(() => window.history.replaceState(null, "", window.location.pathname));
   }
 
   const hasActiveFilters =

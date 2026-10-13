@@ -3,7 +3,7 @@
 import { useCallback, useDeferredValue, useMemo, useState, useTransition } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import ZemeFlag from "@/components/zeme-flag";
 import { normalize } from "@/lib/search";
 import type { Zeme } from "@/lib/types";
@@ -37,7 +37,6 @@ export default function PivovaryView({
   pivovary: PivovarPolozka[];
   zemeOrder: string[];
 }) {
-  const router = useRouter();
   const searchParams = useSearchParams();
   const [, startTransition] = useTransition();
 
@@ -66,10 +65,10 @@ export default function PivovaryView({
       }
       const qs = params.toString();
       startTransition(() => {
-        router.replace(qs ? `?${qs}` : "?", { scroll: false });
+        window.history.replaceState(null, "", qs ? `?${qs}` : window.location.pathname);
       });
     },
-    [router, searchParams],
+    [searchParams],
   );
 
   const pocetZaniklych = pivovary.filter((p) => p.zaniklo != null).length;
@@ -112,7 +111,7 @@ export default function PivovaryView({
     setQuery("");
     setJenZanikle(false);
     setSort("zeme");
-    startTransition(() => router.replace("?", { scroll: false }));
+    startTransition(() => window.history.replaceState(null, "", window.location.pathname));
   }
 
   return (
